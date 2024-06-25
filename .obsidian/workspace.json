@@ -142,13 +142,21 @@
                 "file": "General story.md"
               }
             }
+          },
+          {
+            "id": "ab268d90463fdbb3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93b1c04d2376f279",
+  "active": "edd2dbca468f5c33",
   "lastOpenFiles": [
     "New Text Document.txt",
     "General story.md",
