@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1e9843e5858f2fa2",
+        "id": "8da6516157f59dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf3dcbea6a21cf0",
+            "id": "e06c37047c21655c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/appearance.json",
+                "staged": true
+              }
             }
           }
         ]
@@ -161,7 +164,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ddf3dcbea6a21cf0",
+  "active": "e06c37047c21655c",
   "lastOpenFiles": [
     "Prologue/notes & info/Act 2.md",
     "Prologue/enemies/Zombie Brute.md",
