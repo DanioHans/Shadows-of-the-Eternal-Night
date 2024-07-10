@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General story.md",
+                "file": "Prologue/npcs/Missing people.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General story.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,6 +149,20 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "a7951240ea8477dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3e324de651f366d",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,16 +175,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "edd2dbca468f5c33",
+  "active": "93b1c04d2376f279",
   "lastOpenFiles": [
-    "New Text Document.txt",
+    "Prologue/npcs/Missing people.md",
+    "Prologue/notes & info/Act 1.md",
+    "Prologue/notes & info/Act 3.md",
+    "Pasted image 20240710221807.png",
+    "Prologue/notes & info/Act 2.md",
+    "Prologue/enemies/Corpse Flower.md",
+    "Prologue/story/Prologue.md",
+    "Session Notes/Prologue Notes.md",
+    "Prologue/npcs/Names.md",
+    "Session Notes",
+    "Prologue/Names/na.md",
+    "Prologue/Names",
+    "Prologue/enemies/Zombie Brute.md",
+    "Prologue/enemies/Skeleton.md",
+    "Prologue/notes & info/Arrivals.md",
+    "Prologue/locations/Shadowbrook.md",
+    "Prologue/locations/Darkwood Forest.md",
+    "Prologue/notes & info/Scene Setting.md",
+    "Prologue/notes & info/Chronological Order.md",
+    "Prologue/characters/Selwyn.md",
+    "Prologue/characters/Thrain.md",
+    "Prologue/characters/Kael.md",
+    "Prologue/characters/Balthazar.md",
+    "Prologue/characters/Thog.md",
+    "Prologue/characters",
+    "Prologue/notes & info/Shadowbrook(short).md",
+    "Prologue/enemies/Zombie Child.md",
+    "Prologue/enemies/Necromancer.md",
+    "Prologue/npcs/Elara.md",
+    "Prologue/notes & info",
+    "Prologue/story",
+    "Prologue/locations",
+    "Prologue/enemies",
+    "Prologue/npcs",
     "General story.md",
-    "BBEGs/Nagash.md",
-    "BBEGs",
-    "Prologue/Prologue.md",
-    "Prologue"
+    "New Text Document.txt",
+    "BBEGs"
   ]
 }
