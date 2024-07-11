@@ -1,6 +1,9 @@
 ### [[Prologue]] (One-Shot)
 
-**Title:** "Shadows of Nagash" **Level:** 3 **Setting:** A small village on the edge of a dark forest. **Synopsis:**
+**Title:** "Shadows of [[Nagash]]" 
+**Level:** 3 
+**Setting:** A small village on the edge of a dark forest. 
+**Synopsis:**
 
 - The players start in a village plagued by mysterious disappearances.
 - They investigate the forest and discover a necromancer performing dark rituals.
