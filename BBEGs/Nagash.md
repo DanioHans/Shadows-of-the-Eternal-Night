@@ -16,7 +16,7 @@ Damage Resistances: Bludgeoning, Piercing, and Slashing from magical weapons - S
 
 Damage Immunities: Necrotic, Poison, Psychic; Bludgeoning, Piercing and slashing from non-magical weapons.
 
-Condition Immunities: charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
+Condition Immunities: [[charmed]], deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
 
 Senses: truesight 120 ft., passive Perception 17
 
