@@ -4,18 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8da6516157f59dcc",
+        "id": "93f741e2c7eb36c5",
         "type": "tabs",
         "children": [
           {
-            "id": "e06c37047c21655c",
+            "id": "84713040a3ee7a2b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": true
-              }
+                "file": "Embers of the autumn grove/Introduction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           }
         ]
@@ -38,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -53,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -61,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embers of the autumn grove/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
             }
           },
           {
@@ -100,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embers of the autumn grove/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
             }
           },
           {
@@ -113,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -121,7 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embers of the autumn grove/Introduction.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction"
             }
           },
           {
@@ -129,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -144,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
-              "state": {}
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -164,18 +190,27 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e06c37047c21655c",
+  "active": "84713040a3ee7a2b",
   "lastOpenFiles": [
+    "Embers of the autumn grove/Introduction.md",
+    "Embers of the autumn grove",
+    "Pasted image 20240710221807.png",
+    "Custom classes/Exo-Soldier.md",
+    "Prologue/notes & info/Act 3.md",
+    "Custom classes",
+    "Prologue/characters/Thog.md",
+    "Prologue/characters/Thrain.md",
+    "Prologue/characters/Kael.md",
+    "Prologue/characters/Balthazar.md",
+    "Prologue/characters/Selwyn.md",
     "Prologue/notes & info/Act 2.md",
     "Prologue/enemies/Zombie Brute.md",
     "Prologue/notes & info/Scene Setting.md",
     "Prologue/enemies/Zombie Child.md",
     "General story.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20240710221807.png",
     "Prologue/npcs/Missing people.md",
     "Prologue/notes & info/Act 1.md",
-    "Prologue/notes & info/Act 3.md",
     "Prologue/enemies/Corpse Flower.md",
     "Prologue/story/Prologue.md",
     "Session Notes/Prologue Notes.md",
@@ -188,20 +223,11 @@
     "Prologue/locations/Shadowbrook.md",
     "Prologue/locations/Darkwood Forest.md",
     "Prologue/notes & info/Chronological Order.md",
-    "Prologue/characters/Selwyn.md",
-    "Prologue/characters/Thrain.md",
-    "Prologue/characters/Kael.md",
-    "Prologue/characters/Balthazar.md",
-    "Prologue/characters/Thog.md",
     "Prologue/characters",
-    "Prologue/notes & info/Shadowbrook(short).md",
-    "Prologue/enemies/Necromancer.md",
     "Prologue/notes & info",
     "Prologue/story",
     "Prologue/locations",
     "Prologue/enemies",
-    "Prologue/npcs",
-    "New Text Document.txt",
-    "BBEGs"
+    "Prologue/npcs"
   ]
 }
