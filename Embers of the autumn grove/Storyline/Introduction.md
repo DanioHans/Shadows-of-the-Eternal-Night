@@ -1,0 +1,19 @@
+**Welcome to the Feywilds, adventurers.**
+
+A realm of boundless magic, where time flows strangely and reality bends to whim. The air is thick with the scent of blooming flowers, and unseen creatures flit between the towering trees. But something is **wrong**.
+
+A few steps ahead, the once-thriving **Autumn Glade**—a grove known for its golden leaves and eternal serenity—has been **twisted**. Fire clings to its trees like a disease, flickering unnaturally. The light is wrong here; the shadows stretch and coil as if alive. The crackling of flames is interrupted by the sharp ring of metal, the snapping of branches, the distant roar of something _ancient_.
+
+You have not come here by chance.
+
+Summoned by whispers from the **Fey Courts**, you have been tasked with **stopping the corruption before it spreads**. This grove was once home to a guardian—a being of immense power known as **[[Vaelthir, the Ashen Protector]]**. Once a protector, now destroyer, Vaelthir has succumbed to an unknown malady, his life force **twisted into something monstrous**. If left unchecked, this corruption, now known as **Emberblight**, will spread beyond the grove, infecting the very heart of the Feywild itself.
+
+Ahead of you, a luminous being hovers—her form delicate, her glow dimmed by exhaustion. She flutters anxiously, glancing toward the grove where the sound of **battle rages**. Towering figures, **the Verdant Wardens**, stand between the flames and the heart of the glade. They fight desperately, but they are losing ground.
+
+The spirit turns to you, her voice trembling:
+
+_"The guardian has fallen to ruin. The fire spreads. If we do not act, the glade will be lost. I beg of you—step forward, for there is no one else left to stand."_
+
+At this, you realize—there is no time for introductions. The fight has already begun.
+
+Next: [[Encounter 1]]

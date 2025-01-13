@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embers of the autumn grove/Introduction.md",
+                "file": "Embers of the autumn grove/Storyline/General storyline after intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "General storyline after intro"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embers of the autumn grove/Introduction.md",
+                "file": "Embers of the autumn grove/Storyline/General storyline after intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for General storyline after intro"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embers of the autumn grove/Introduction.md",
+                "file": "Embers of the autumn grove/Storyline/General storyline after intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links from General storyline after intro"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embers of the autumn grove/Introduction.md"
+                "file": "Embers of the autumn grove/Storyline/General storyline after intro.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of General storyline after intro"
             }
           },
           {
@@ -192,42 +192,42 @@
   },
   "active": "84713040a3ee7a2b",
   "lastOpenFiles": [
-    "Embers of the autumn grove/Introduction.md",
+    "Embers of the autumn grove/Storyline/Encounter 1.md",
+    "Embers of the autumn grove/Storyline/General storyline after intro.md",
+    "Embers of the autumn grove/Storyline/Introduction.md",
+    "Embers of the autumn grove/Storyline",
+    "Embers of the autumn grove/Storyline/DnD Introduction.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir/Phases.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir/Vaelthir, the Ashen Protector.md",
+    "Embers of the autumn grove/Allies/Verdant Warden.md",
+    "Embers of the autumn grove/Allies/Nyssa, Whisper of the Glades.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir",
+    "Embers of the autumn grove/Bossfights",
+    "Embers of the autumn grove/Spells/2nd level/Root Bind (Hold Person).md",
+    "Embers of the autumn grove/Spells/2nd level/Sylvan Restoration (Lesser Restoration).md",
+    "Embers of the autumn grove/Spells/1st level/Warding Glow (Shield of Faith).md",
+    "Embers of the autumn grove/Spells/2nd level",
+    "Embers of the autumn grove/Spells/1st level/Healing Branches (Healing Word).md",
+    "Embers of the autumn grove/Spells/1st level/Feystep.md",
+    "Embers of the autumn grove/Spells/Cantrips/Verdant Touch (Druidcraft).md",
+    "Embers of the autumn grove/Spells/Cantrips/Guiding Light (Sacred Flame).md",
+    "Embers of the autumn grove/Monsters/Blighted Revenant.md",
+    "Embers of the autumn grove/Allies",
+    "Embers of the autumn grove/Monsters/Blighted Branchwych.md",
+    "Embers of the autumn grove/Spells/Cantrips/Firebolt.md",
+    "Embers of the autumn grove/Spells/Cantrips/Thorn Whip.md",
+    "Embers of the autumn grove/Spells/Cantrips/Produce Flame.md",
+    "Embers of the autumn grove/Spells/1st level/Entangle.md",
+    "Embers of the autumn grove/Spells/1st level/Cure Wounds.md",
+    "Embers of the autumn grove/Spells/1st level/Burning Hands.md",
+    "Embers of the autumn grove/Spells/1st level",
+    "Embers of the autumn grove/Spells/Cantrips",
+    "Embers of the autumn grove/Spells",
+    "Embers of the autumn grove/Monsters",
     "Embers of the autumn grove",
     "Pasted image 20240710221807.png",
     "Custom classes/Exo-Soldier.md",
     "Prologue/notes & info/Act 3.md",
-    "Custom classes",
-    "Prologue/characters/Thog.md",
-    "Prologue/characters/Thrain.md",
-    "Prologue/characters/Kael.md",
-    "Prologue/characters/Balthazar.md",
-    "Prologue/characters/Selwyn.md",
-    "Prologue/notes & info/Act 2.md",
-    "Prologue/enemies/Zombie Brute.md",
-    "Prologue/notes & info/Scene Setting.md",
-    "Prologue/enemies/Zombie Child.md",
-    "General story.md",
-    "conflict-files-obsidian-git.md",
-    "Prologue/npcs/Missing people.md",
-    "Prologue/notes & info/Act 1.md",
-    "Prologue/enemies/Corpse Flower.md",
-    "Prologue/story/Prologue.md",
-    "Session Notes/Prologue Notes.md",
-    "Prologue/npcs/Names.md",
-    "Session Notes",
-    "Prologue/Names/na.md",
-    "Prologue/Names",
-    "Prologue/enemies/Skeleton.md",
-    "Prologue/notes & info/Arrivals.md",
-    "Prologue/locations/Shadowbrook.md",
-    "Prologue/locations/Darkwood Forest.md",
-    "Prologue/notes & info/Chronological Order.md",
-    "Prologue/characters",
-    "Prologue/notes & info",
-    "Prologue/story",
-    "Prologue/locations",
-    "Prologue/enemies",
-    "Prologue/npcs"
+    "Prologue/characters/Thog.md"
   ]
 }
