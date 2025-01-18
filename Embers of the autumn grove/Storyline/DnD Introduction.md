@@ -62,4 +62,4 @@ At its core, D&D is about **teamwork, problem-solving, and creativity**. There�
 
 This should cover the **basics** so you won’t feel lost. Don’t worry if you forget something—I’ll remind you as we play!
 
-Next: [[Introduction]]
+Next: [[1. Introduction]]

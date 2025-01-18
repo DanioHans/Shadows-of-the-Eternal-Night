@@ -37,8 +37,8 @@ All creatures within **10 feet** of Vaelthir take **2 fire damage** at the start
 
 Vaelthir strikes the ground, causing **burning roots** to lash out.
 
-- **Range:** 15 feet (all creatures in range)
-- **Effect:** Creatures in range must make a **DC 16 Strength saving throw** or be **restrained**.
+- **Range:** 60ft, 2 targets
+- **Effect:** Creatures targeted must make a **DC 16 Strength saving throw** or be **restrained**.
 - **Restrained creatures take 1d4 fire damage at the start of their turn.**
 - **Escape:** A creature can retry the save at the end of each of its turns.
 
@@ -56,13 +56,13 @@ Vaelthir makes two melee attacks.
 
 #### **Cleave (Melee Weapon Attack)**
 
-- **Attack:** +7 to hit
+- **Attack:** +5 to hit
 - **Reach:** 10 ft.
 - **Hit:** **2d6 + 6 slashing damage** (avg. 13)
 
 #### **Flamebound Strike (Recharge 4–6)**
 
-- **Attack:** +7 to hit
+- **Attack:** +6 to hit
 - **Reach:** 10 ft.
 - **Hit:** **3d8 fire damage** (avg. 13).
 - The target must make a **DC 14 Dexterity saving throw** or be **ignited**, taking **1d6 fire damage per turn** until they use an action to extinguish the flames.
@@ -83,4 +83,4 @@ Vaelthir makes two melee attacks.
     - **DC 16 Strength saving throw** or take **1d6 fire damage** and be **restrained**.
 4. **Corrupted Roots**
     
-    - Summons 1 root within 60ft of Vaelthir
+    - Summons 1 corrupted root in one of the cardinal directions (1d8), if occupied, add +1 until possible
