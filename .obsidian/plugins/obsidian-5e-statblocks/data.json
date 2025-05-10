@@ -1,5 +1,102 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Necromancer",
+      {
+        "layout": "Basic 5e Layout",
+        "name": "Necromancer",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": null,
+        "alignment": "neutral evil",
+        "ac": 12,
+        "hp": 45,
+        "hit_dice": "10d8",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          14,
+          10,
+          17,
+          12,
+          11
+        ],
+        "saves": [
+          {
+            "intelligence": 6
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": 6
+          },
+          {
+            "history": 6
+          }
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": null,
+        "damage_immunities": null,
+        "condition_immunities": null,
+        "senses": "passive Perception 11",
+        "languages": "Common, Infernal",
+        "cr": 4,
+        "spells": [
+          {
+            "The necromancer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The necromancer has the following wizard spells prepared": null
+          },
+          {
+            "Cantrips (at will)": "Chill Touch, Mage Hand, Prestidigitation"
+          },
+          {
+            "1st level (4 slots)": "Mage Armor, Magic Missile, Shield"
+          },
+          {
+            "2nd level (3 slots)": "Ray of Enfeeblement, Mirror Image"
+          },
+          {
+            "3rd level (3 slots)": "Animate Dead, Counterspell"
+          },
+          {
+            "4th level (3 slots)": "Blight, Phantasmal Killer"
+          },
+          {
+            "5th level (2 slots)": "Cloudkill, Cone of Cold"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Undead Thralls",
+            "desc": "When the necromancer casts Animate Dead, it can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate."
+          },
+          {
+            "name": "Dark Devotion",
+            "desc": "The necromancer has advantage on saving throws against being charmed or frightened."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+          },
+          {
+            "name": "Necrotic Touch (Recharge 5–6)",
+            "desc": "Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (6d6) necrotic damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Shield (1st-level spell; Reaction)",
+            "desc": "The necromancer can cast Shield to gain +5 to AC until the start of its next turn."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",
