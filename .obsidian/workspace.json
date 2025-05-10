@@ -11,13 +11,24 @@
             "id": "1b8886d4f66cb5b3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
-                "staged": false
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Necromancer)"
+              "icon": "lucide-file",
+              "title": "Crownwatch Bastion"
             }
           }
         ]
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embers of the autumn grove/Storyline/General storyline after intro.md",
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General storyline after intro"
+              "title": "Backlinks for Crownwatch Bastion"
             }
           },
           {
@@ -112,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embers of the autumn grove/Storyline/General storyline after intro.md",
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from General storyline after intro"
+              "title": "Outgoing links from Crownwatch Bastion"
             }
           },
           {
@@ -127,7 +138,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embers of the autumn grove/Storyline/General storyline after intro.md"
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of General storyline after intro"
+              "title": "Outline of Crownwatch Bastion"
             }
           },
           {
@@ -153,6 +169,26 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "3f5926734ef7a8d0",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "1c43873ab6a71b5c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -176,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,47 +222,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1b8886d4f66cb5b3",
+  "active": "eee2b498f1cb262a",
   "lastOpenFiles": [
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+    "Shadows of Eternal Night/Locations/Velaris/Hollowfall",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow",
+    "Shadows of Eternal Night/Mechanics/Shadow Corruption Mechanic.md",
+    "Shadows of Eternal Night/Locations/Velaris/Velaris.md",
+    "Shadows of Eternal Night/Locations/Velaris/Hollowfall/Hollowfall.md",
+    "Shadows of Eternal Night/lore/Forgotten Magic.md",
+    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Eclipse.md",
+    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Wound Echo.md",
+    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Soul Glare.md",
+    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Bonebind.md",
+    "Shadows of Eternal Night/Mechanics/Spells/Forgotten",
+    "Shadows of Eternal Night/Mechanics/Spells",
+    "Dusk Crossing.md",
+    "Pasted image 20240710221807.png",
+    "The Blackening.md",
+    "Hollow Covenant.md",
+    "Shadows of Eternal Night/BBEGs/Nagash.md",
+    "Shadows of Eternal Night/Act 1/Rising Tension.md",
+    "Shadows of Eternal Night/Act 1/Act 1 structure.md",
     "Embers of the autumn grove/Characters/Alaric (wizard).pdf",
     "Shadows of Eternal Night/lore/Campaign structure.md",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/Book of Eternity.md",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/The Nine Books of Nagash.md",
-    "Shadows of Eternal Night/BBEGs/Nagash.md",
     "charmed.md",
     "Shadows of Eternal Night/lore/Plotline.md",
     "Shadows of Eternal Night/Locations/Tharion.md",
-    "Shadows of Eternal Night/Locations/Velaris/Velaris.md",
-    "Shadows of Eternal Night/Locations/Velaris/Hollowfall.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow.md",
-    "Shadows of Eternal Night/Act 1/Rising Tension.md",
-    "Shadows of Eternal Night/Act 1/Act 1 structure.md",
     "Shadows of Eternal Night/Prologue/enemies/Skeleton.md",
     "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
     "Embers of the autumn grove/Storyline/encounter 1 notes.md",
     "Embers of the autumn grove/Monsters/Blighted Branchwych.md",
-    "Custom classes/Exo-Soldier.md",
-    "Shadows of Eternal Night/Mechanics/Shadow Corruption Mechanic.md",
     "Shadows of Eternal Night/Mechanics",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals/The Hourglass Reversal.md",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals/The Hollow Covenant.md",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals/Ritual of Dusk Crossing.md",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash",
-    "Shadows of Eternal Night/Locations/Velaris/Untitled",
     "Shadows of Eternal Night/Locations/Cities",
-    "Shadows of Eternal Night/Locations/Velaris",
-    "Shadows of Eternal Night/Locations",
-    "Pasted image 20240710221807.png",
-    "Shadows of Eternal Night/Act 1",
-    "Embers of the autumn grove/Characters/Merric (bard).pdf",
-    "Shadows of Eternal Night/General story.md",
-    "Shadows of Eternal Night/lore",
-    "Embers of the autumn grove/The Riddle Ring.md",
-    "Embers of the autumn grove/Bossfights/Vaelthir/Vaelthir, the Ashen Protector.md",
-    "Embers of the autumn grove/Bossfights/Vaelthir/Encounter notes.md"
+    "Shadows of Eternal Night/Locations/Velaris"
   ]
 }
