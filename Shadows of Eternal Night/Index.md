@@ -68,6 +68,7 @@
 
 ### 🧑‍🤝‍🧑 Player Characters
 - [[Kyron (Tiefling Sorcerer)]]
+- [[Merios Levente]]
 - [[Unnamed Wizard (Necromancy Student)]]
 - [[Unnamed Warforged Ranger]]
 - [[Unnamed Shadow Assassin]]

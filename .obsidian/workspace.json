@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf5d6f3b67ef4944",
+        "id": "bb5abcfd46c48e31",
         "type": "tabs",
         "children": [
           {
-            "id": "1b8886d4f66cb5b3",
+            "id": "39071124b165a43e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Index.md",
+                "file": "Merios Levente.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Merios Levente"
             }
           }
         ]
@@ -212,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,10 +226,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1b8886d4f66cb5b3",
+  "active": "39071124b165a43e",
   "lastOpenFiles": [
-    "Shadows of Eternal Night/General story.md",
     "Shadows of Eternal Night/Index.md",
+    "Merios Levente.md",
+    "Kyron (Tiefling Sorcerer).md",
+    "Shadows of Eternal Night/General story.md",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/Book of Eternity.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
     "Shadows of Eternal Night/Patrick.md",
@@ -258,8 +260,6 @@
     "Shadows of Eternal Night/lore/Campaign structure.md",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/The Nine Books of Nagash.md",
     "charmed.md",
-    "Shadows of Eternal Night/lore/Plotline.md",
-    "Shadows of Eternal Night/Locations/Tharion.md",
     "Shadows of Eternal Night/Mechanics",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash",
