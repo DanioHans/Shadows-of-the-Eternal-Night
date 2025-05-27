@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+                "file": "Shadows of Eternal Night/Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Crownwatch Bastion"
+              "title": "Index"
             }
           }
         ]
@@ -226,9 +226,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "eee2b498f1cb262a",
+  "active": "1b8886d4f66cb5b3",
   "lastOpenFiles": [
+    "Shadows of Eternal Night/General story.md",
+    "Shadows of Eternal Night/Index.md",
+    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Book of Eternity.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
+    "Shadows of Eternal Night/Patrick.md",
+    "Shadows of Eternal Night/Character notes Luka.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
     "Shadows of Eternal Night/Locations/Velaris/Hollowfall",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow",
@@ -251,15 +256,10 @@
     "Shadows of Eternal Night/Act 1/Act 1 structure.md",
     "Embers of the autumn grove/Characters/Alaric (wizard).pdf",
     "Shadows of Eternal Night/lore/Campaign structure.md",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Book of Eternity.md",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/The Nine Books of Nagash.md",
     "charmed.md",
     "Shadows of Eternal Night/lore/Plotline.md",
     "Shadows of Eternal Night/Locations/Tharion.md",
-    "Shadows of Eternal Night/Prologue/enemies/Skeleton.md",
-    "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
-    "Embers of the autumn grove/Storyline/encounter 1 notes.md",
-    "Embers of the autumn grove/Monsters/Blighted Branchwych.md",
     "Shadows of Eternal Night/Mechanics",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash",
