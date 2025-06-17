@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merios Levente.md",
+                "file": "Shadows of Eternal Night/Characters/Kyron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Merios Levente"
+              "title": "Kyron"
+            }
+          },
+          {
+            "id": "aedc7eb363d4a7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Eternal Night/Characters/Samson.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Samson"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +251,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "39071124b165a43e",
+  "active": "aedc7eb363d4a7ac",
   "lastOpenFiles": [
+    "Shadows of Eternal Night/Characters/Luka.md",
+    "Shadows of Eternal Night/Characters/Samson.md",
+    "Shadows of Eternal Night/Characters/Ivor.md",
+    "Shadows of Eternal Night/Characters/Kyron.md",
+    "Shadows of Eternal Night/Characters/Merios Levente.md",
+    "Shadows of Eternal Night/Characters",
     "Shadows of Eternal Night/Index.md",
-    "Merios Levente.md",
-    "Kyron (Tiefling Sorcerer).md",
     "Shadows of Eternal Night/General story.md",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/Book of Eternity.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
@@ -257,13 +286,9 @@
     "Shadows of Eternal Night/Act 1/Rising Tension.md",
     "Shadows of Eternal Night/Act 1/Act 1 structure.md",
     "Embers of the autumn grove/Characters/Alaric (wizard).pdf",
-    "Shadows of Eternal Night/lore/Campaign structure.md",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash/The Nine Books of Nagash.md",
-    "charmed.md",
     "Shadows of Eternal Night/Mechanics",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals",
     "Shadows of Eternal Night/lore/The Nine Books of Nagash",
-    "Shadows of Eternal Night/Locations/Cities",
-    "Shadows of Eternal Night/Locations/Velaris"
+    "Shadows of Eternal Night/Locations/Cities"
   ]
 }

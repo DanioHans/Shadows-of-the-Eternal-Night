@@ -17,15 +17,13 @@
 
 ## ✈️ Flight
 
-- **Option A**: 30 ft. flight speed, disabled while wearing medium/heavy armor.
-- **Option B**: Narrative-only gliding/hovering. Gains combat flight later (DM discretion).
-- **Selected**: _(Pending player's choice)_
+- Narrative-only gliding/hovering. Gains combat flight later (DM discretion).
 
 ---
 
 ## ⚔️ Weapon: *Sword of Screams* (Magic Item)
 
-- **+1 longsword**, no additional damage.
+- **+1 longsword**
 - **Frighten Pulse**:  
   Once per long rest, when drawn, creatures within 10 ft. make a **DC 13 Wis save** or are frightened until end of next turn.
 - **Corruption Save**:  
@@ -79,8 +77,20 @@ Effects may begin subtly: dreams, voice shifts, mood swings. Later stages might 
 
 ---
 
+## Arrival in Caer Hollow
+
+Merios entered Caer Hollow accompanying **Damon and Silas Celyn**, who were transporting their farm’s harvest to market, as a guard during travel.  
+While the brothers conducted business, Merios intended to visit the **Temple District** — specific purpose pending player confirmation (possible divine curiosity, seeking guidance, personal ritual, or an errand).
+
+This explains her presence **in the city at the start of Act I**, and why she will be present when the Blackening occurs.
+
+NPCs may have seen her in:
+- The market squares (daytime).
+- The Temple District (specifics pending).
+- Possibly in the company of Gawain, Damon, or Silas at times.
+
+---
 ## 📌 To Do:
-- Finalize flight option with player.
 - Finalize divine framework and update reference.
 - Track corruption point secretly.
 - Create NPC or divine entity to observe/warn Merios.
