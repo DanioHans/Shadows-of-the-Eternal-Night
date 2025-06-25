@@ -11,52 +11,16 @@
             "id": "39071124b165a43e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Shadows of Eternal Night/Characters/Kyron.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Kyron"
-            }
-          },
-          {
-            "id": "aedc7eb363d4a7ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shadows of Eternal Night/Characters/Samson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Samson"
+              "icon": "git-pull-request",
+              "title": "Diff View (Royal Arcanum of Velaris)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,44 +215,44 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "aedc7eb363d4a7ac",
+  "active": "39071124b165a43e",
   "lastOpenFiles": [
-    "Shadows of Eternal Night/Characters/Luka.md",
-    "Shadows of Eternal Night/Characters/Samson.md",
-    "Shadows of Eternal Night/Characters/Ivor.md",
-    "Shadows of Eternal Night/Characters/Kyron.md",
-    "Shadows of Eternal Night/Characters/Merios Levente.md",
-    "Shadows of Eternal Night/Characters",
-    "Shadows of Eternal Night/Index.md",
-    "Shadows of Eternal Night/General story.md",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Book of Eternity.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
-    "Shadows of Eternal Night/Patrick.md",
-    "Shadows of Eternal Night/Character notes Luka.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+    "Kyron (Tiefling Sorcerer).md",
+    "Shadows of Eternal Night/Characters/Merios Levente.md",
+    "Shadows of Eternal Night/Characters/Samson.md",
+    "Shadows of Eternal Night/Characters/Luka.md",
+    "Shadows of Eternal Night/Characters/Kyron.md",
+    "Shadows of Eternal Night/Characters/Ivor.md",
+    "Shadows of Eternal Night/Characters",
+    "Shadows of Eternal Night/Session prep/Session 1 - Market Day Disruption.md",
+    "Shadows of Eternal Night/Act 1/Rising Tension.md",
+    "Embers of the autumn grove/Storyline/3. Encounter 1 aftermath.md",
+    "Embers of the autumn grove/Storyline/2. Encounter 1.md",
+    "Embers of the autumn grove/Storyline/1. Introduction.md",
+    "Embers of the autumn grove/Allies/Nyssa, Whisper of the Glades.md",
+    "Embers of the autumn grove/Spells/1st level/Feystep.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir/Vaelthir, the Ashen Protector.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir/Phases.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir/Encounter notes.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir/Encounter hints.md",
+    "Embers of the autumn grove/Spells/1st level/Entangle.md",
+    "Embers of the autumn grove/Spells/2nd level/Sylvan Restoration (Lesser Restoration).md",
+    "Embers of the autumn grove/Spells/2nd level/Root Bind (Hold Person).md",
+    "Embers of the autumn grove/Monsters/Blighted Revenant.md",
+    "Embers of the autumn grove/Monsters/Blighted Branchwych.md",
+    "Embers of the autumn grove/Characters/Alaric (wizard).pdf",
+    "Merios Levente.md",
+    "charmed.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
+    "Shadows of Eternal Night/Session prep",
+    "Shadows of Eternal Night/Session notes",
     "Shadows of Eternal Night/Locations/Velaris/Hollowfall",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow",
-    "Shadows of Eternal Night/Mechanics/Shadow Corruption Mechanic.md",
-    "Shadows of Eternal Night/Locations/Velaris/Velaris.md",
-    "Shadows of Eternal Night/Locations/Velaris/Hollowfall/Hollowfall.md",
-    "Shadows of Eternal Night/lore/Forgotten Magic.md",
-    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Eclipse.md",
-    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Wound Echo.md",
-    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Soul Glare.md",
-    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Bonebind.md",
     "Shadows of Eternal Night/Mechanics/Spells/Forgotten",
     "Shadows of Eternal Night/Mechanics/Spells",
-    "Dusk Crossing.md",
     "Pasted image 20240710221807.png",
-    "The Blackening.md",
-    "Hollow Covenant.md",
-    "Shadows of Eternal Night/BBEGs/Nagash.md",
-    "Shadows of Eternal Night/Act 1/Rising Tension.md",
-    "Shadows of Eternal Night/Act 1/Act 1 structure.md",
-    "Embers of the autumn grove/Characters/Alaric (wizard).pdf",
     "Shadows of Eternal Night/Mechanics",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals",
-    "Shadows of Eternal Night/lore/The Nine Books of Nagash",
-    "Shadows of Eternal Night/Locations/Cities"
+    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals"
   ]
 }
