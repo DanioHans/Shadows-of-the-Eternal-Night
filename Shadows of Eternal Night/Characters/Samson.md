@@ -64,8 +64,6 @@
 ---
 
 ## 📌 To Do:
-- Player to define **Personality Traits, Ideals, Bonds, Flaws**.
 - DM to introduce subtle **Forgotten Magic hooks** via thesis research.
-- Define **mentor NPCs** at the Academy (optional — good RP tools).
 - Player to receive **custom Forgotten Magic spells** later.
-- Plan corruption mechanic **unique path** — gradual "attraction" rather than full resistance.
+ ![[Samson the Necromancer.pdf]]

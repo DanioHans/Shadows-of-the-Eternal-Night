@@ -95,6 +95,224 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Captain Teron Veyne",
+      {
+        "layout": "Basic 5e Layout",
+        "name": "Captain Teron Veyne",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "lawful neutral",
+        "ac": "18 (plate armor, shield)",
+        "hp": 136,
+        "hit_dice": "16d8+48",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          14,
+          16,
+          12,
+          14,
+          16
+        ],
+        "saves": [
+          "Str +7",
+          "Con +6",
+          "Wis +6"
+        ],
+        "skillsaves": [
+          "Athletics +8",
+          "Insight +7",
+          "Intimidation +7"
+        ],
+        "damage_resistances": "Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks",
+        "condition_immunities": "Charmed",
+        "senses": "passive Perception 14",
+        "languages": "Common",
+        "cr": 8,
+        "traits": [
+          {
+            "name": "Commanding Presence",
+            "desc": "Allies within 30 ft. of Veyne have advantage on saving throws against being frightened or charmed."
+          },
+          {
+            "name": "Unshakable Authority",
+            "desc": "Veyne has advantage on saving throws against spells and magical effects. Once per day, he can choose to automatically succeed a saving throw."
+          },
+          {
+            "name": "Indomitable (3/Day)",
+            "desc": "If Veyne fails a saving throw, he can choose to reroll it."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Veyne makes three attacks with his longsword."
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) if used with two hands."
+          },
+          {
+            "name": "Shield Bash",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage, and the target must succeed on a DC 15 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Commanding Shout (Recharge 5–6)",
+            "desc": "All creatures of Veyne’s choice within 30 ft. that can hear him must make a DC 14 Wisdom saving throw or be frightened until the end of their next turn."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Tactical Orders",
+            "desc": "Veyne shouts a command to an ally within 30 ft., allowing them to move up to half their speed or make one weapon attack as a reaction."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parry",
+            "desc": "Veyne adds +3 to his AC against one melee attack that would hit him. To do so, he must see the attacker and be wielding a melee weapon."
+          }
+        ],
+        "creature": null,
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Sergeant Halna",
+      {
+        "layout": "Basic 5e Layout",
+        "name": "Sergeant Halna",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "lawful neutral",
+        "ac": "17 (chain shirt + shield)",
+        "hp": 84,
+        "hit_dice": "11d8+33",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          12,
+          14,
+          10,
+          14,
+          13
+        ],
+        "saves": [
+          "Str +5",
+          "Wis +4"
+        ],
+        "skillsaves": [
+          "Athletics +5",
+          "Insight +4",
+          "Intimidation +4",
+          "Perception +4"
+        ],
+        "damage_resistances": "nonmagical bludgeoning, piercing, slashing (while parrying)",
+        "condition_immunities": "frightened (while allies are present)",
+        "senses": "passive Perception 14",
+        "languages": "Common",
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Tactical Command",
+            "desc": "As a bonus action, Halna can shout orders. One allied creature within 30 feet can move up to half its speed or make one weapon attack as a reaction."
+          },
+          {
+            "name": "Disabling Strikes",
+            "desc": "Halna’s melee attacks are precise and aim to disable. On a hit, the target must succeed on a DC 13 Strength saving throw or be knocked prone or disarmed (Halna’s choice)."
+          },
+          {
+            "name": "Measured Response",
+            "desc": "When Halna reduces a creature to 0 HP, she can choose to leave them unconscious and stable instead of killing them."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Halna makes two melee attacks with her reinforced baton or one attack and one shove."
+          },
+          {
+            "name": "Reinforced Baton",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage and the target must succeed on a DC 13 Constitution saving throw or be stunned until the end of its next turn."
+          },
+          {
+            "name": "Net Toss",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 5/15 ft., one Medium or smaller creature. Hit: Target is restrained (escape DC 12)."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Guard's Presence",
+            "desc": "Once per short rest, Halna can grant herself and up to 2 allies advantage on saving throws against being charmed or frightened until the end of her next turn."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Shield Interpose",
+            "desc": "When a creature within 5 feet is targeted by an attack, Halna can impose disadvantage on the roll using her shield."
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Verdant Basilisk",
+      {
+        "layout": "Basic 5e Layout",
+        "name": "Verdant Basilisk",
+        "size": "Medium",
+        "type": "Monstrosity",
+        "subtype": "Verdant",
+        "alignment": "unaligned",
+        "ac": "15 (natural armor)",
+        "hp": 52,
+        "hit_dice": "8d8+16",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          8,
+          15,
+          2,
+          8,
+          7
+        ],
+        "saves": [
+          "Constitution +5"
+        ],
+        "skillsaves": [
+          "Perception +2"
+        ],
+        "damage_resistances": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "darkvision 60 ft., passive Perception 12",
+        "languages": "—",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Petrifying Gaze",
+            "desc": "If a creature starts its turn within 30 feet and the basilisk can see it, the basilisk can force it to make a DC 13 Constitution saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the save at the end of its next turn. On a second failure, it is petrified for 24 hours. On a success, the effect ends."
+          },
+          {
+            "name": "Toxic Bloom",
+            "desc": "When the basilisk is first bloodied (below half HP), arcane sap leaks from old scars. The area in a 10-foot radius around it becomes difficult terrain until the end of its next turn as sticky, glowing fluid seeps out. The glow fades quickly, but leaves behind a strange fungal scent."
+          },
+          {
+            "name": "Magic Tainted",
+            "desc": "Detect Magic reveals a chaotic aura of nature and shadow magic leaking from the creature."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage."
+          }
+        ],
+        "source": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {},

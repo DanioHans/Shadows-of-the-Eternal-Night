@@ -64,3 +64,6 @@
 - Confirm final **criminal contacts** or allies in Caer Hollow.
 - Name the **wizard** responsible for the experiment (either now or later in play).
 - Define whether the **memory loss event** was truly an accident — or something more deliberate.
+
+
+![[ivor.pdf]]

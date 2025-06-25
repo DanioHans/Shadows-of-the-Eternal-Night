@@ -7,7 +7,6 @@
 ## 🎭 Campaign Structure
 
 - [[Campaign Overview]]
-- [[Session 0 Notes]]
 - [[Act I: The Blackening of Hollowfall]]
 - [[Act II: Into the Shadowfell]]
 - [[Act III: The Fractured Veil]]
@@ -68,11 +67,11 @@
 
 ### 🧑‍🤝‍🧑 Player Characters
 - [[Kyron]]
-- [[Merios Levente]]
-- [[Unnamed Wizard (Necromancy Student)]]
-- [[Unnamed Warforged Ranger]]
-- [[Unnamed Shadow Assassin]]
-- [[Additional PCs]]
+- [[Merios]]
+- [[Samson]]
+- [[Scrap]]
+- [[Ivor]]
+- [[Queek]]
 
 ### 🦴 Antagonists
 - [[Nagash]]
@@ -81,9 +80,8 @@
 - [[Minor BBEG Index]]
 
 ### 🧩 Important NPCs
-- [[Crownwatch Captain]]
-- [[Orphanage Keeper (Kyron)]]
-- [[Fox Companion]]
+- [[Captain Teron Veyne]]
+- [[Alma]]
 - [[Resistance Leader]]
 - [[Citizens of Hollowfall]]
 

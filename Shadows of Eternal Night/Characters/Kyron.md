@@ -77,7 +77,7 @@
 ---
 
 ## 📌 To Do:
-- Finalize simplified version of **Unique Mechanic** with player.
-- Define reason for Kyron being in **Caer Hollow** at campaign start.
-- Add 1–2 NPC contacts from his **library/mentor past**.
 - Prepare early RP triggers for guilt-driven instability.
+
+
+![[Kyron.pdf]]

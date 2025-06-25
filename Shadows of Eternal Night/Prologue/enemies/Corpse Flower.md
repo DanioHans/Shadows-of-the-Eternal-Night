@@ -1,6 +1,6 @@
+
 ```statblock
 layout: Basic 5e Layout
-image: 
 name: "Corpse Flower"
 size: Large
 type: plant

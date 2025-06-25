@@ -1,6 +1,6 @@
 # Caer Hollow (Pre-Blackening)
 
-**Capital of the Kingdom of [[Tharion]]**  
+**Capital of the Kingdom of [[Velaris]]**  
 **Current Ruler**: [[King Halvar Thorne]]  
 **Tone**: Ceremonial, restrained, beautiful but stagnant. A city at peace — but not at ease.
 
@@ -8,92 +8,101 @@
 
 ## Overview
 
-Caer Hollow is the crown jewel of [[Tharion]] — a city of symmetrical design, magical heritage, and religious tolerance. It embodies the ideals of measured progress and ancient tradition. Yet beneath the arches and silverlit towers, contradiction rules: rumors spiral, divine miracles weaken, and its once-clear purpose seems to blur.
+Caer Hollow is the crown jewel of [[Velaris]] — a city of magical heritage, spiritual significance, and delicate political balance. Its towers shimmer with age-old wards, its temples echo with fading hymns, and its streets weave contradiction: celebration hides unease, tradition shields decline.
 
-Outwardly, it is still a beacon. Internally, it is already cracking.
+Though order reigns, subtle signs suggest otherwise. Divine voices falter. Arcane currents grow unstable. The city stands pristine — yet something unseen stirs beneath.
+
+---
+
+## City Layout
+
+The city fans out from the High Ring in concentric and organic patterns. Districts bleed into one another with buffer zones between extremes.
+
+- **Center**: [[The High Ring]] and [[Scholar’s Descent]]
+- **West**: [[Silverward]]
+- **East**: [[Eastveil Commons]] and, further south, the [[Slums]]
+- **North**: Upper Commons, outer gardens, minor noble estates
+- **Southwest Riverbank**: [[Stoneveil Bridge]] and older city structures
 
 ---
 
 ## Key Districts
 
 ### 🏛️ The High Ring
-- Seat of the royal palace, the [[Cradle Tower]], and the Arcanum Archive.
-- Also home to the **noble tier**, whose members carry sigils or branded rings to prove their authority to the palace guard.
-- Only those with escort or earned reputation may enter freely.
-- Area exudes cleanliness, arcane lighting, and heavy silence.
+- Heart of authority. Houses the royal palace, [[Crownwatch Bastion]], and noble estates.
+- Home to the [[Cradle Tower]] and ceremonial grounds.
+- Restricted area; access requires status or escort.
+- Magical lighting, immaculate streets, and a heavy silence mark the Ring.
 
 ### 📘 Scholar’s Descent
-- Focus of magical learning, private tutoring houses, and planar theory.
-- Streets lined with lecture halls, quiet dueling squares, and sealed towers.
-- Students have grown fearful of certain classes — citing magical misfires and “things seen” during meditation practices.
+- Arcanum-focused district directly adjacent to the High Ring, extending northward.
+- Enclaves of learning, planar research, and magical experimentation.
+- [[Royal Arcanum of Velaris]] located here.
+- Subtle arcane misfires have unsettled residents — stray visions, flickering enchantments, and warped familiars are whispered about.
 
-### ⛪ The Silverward
-- Temple district of many gods.
-- Frequented only out of habit by most citizens now.
-- Multiple temples report strange phenomena: reversed water flow, offerings rotting overnight, statues cracking.
-- **The Temple of Resounding Light** is half-sealed and rarely staffed.
+### ⛪ Silverward
+- Religious center of the city. Built along the western rise, overlooking the river.
+- Houses major temples such as:
+  - **Moonmaiden’s Rise** (Selûne)
+  - **The Verdant Cloister** (Chauntea)
+  - **Temple of the Hollow Flame** (state-sanctioned faith)
+- Divine magic remains functional but has grown inconsistent.
+- The **Temple Guard** enforces respectful conduct and keeps order with non-lethal force.
 
 ### 🛒 Eastveil Commons
-- Primary market district and lower-class housing.
-- Bustling, colorful, and untrustworthy. Street bards compete with peddlers, thieves, and minor spellcasters.
-- Locals report **missing cats, faint lights underground**, and a scent of copper at night.
-- Murmurs say the guard is instructed to ignore certain alleys.
+- Dense network of market stalls, alleyways, and worker housing.
+- Contains the **Market Square**, featuring a central fountain.
+- Hosts a major **monthly festival market** and a smaller rotating produce market.
+- Bustling, colorful, occasionally dangerous — theft and scams are common.
+- Monitored by the [[City Guard]], though some hesitate to intervene during magical incidents.
+
+### ⚒️ The Slums
+- Located south of the Commons, past a gradual transition zone.
+- Poorly lit and loosely organized. Refuge for the desperate, the outcast, and the unseen.
+- Rumors of old cults, forgotten tunnels, and outlaw traders.
+- [[Jespin Wrent]] is believed to retreat here.
+- Light guard presence. Locals keep their own peace.
 
 ### 🌉 Stoneveil Bridge
-- Landmark bridge over the river. Dozens of minor shrines line the way.
-- At night, faint glyphs glow in irregular intervals — but not enough for anyone to report officially.
-- A statue of a forgotten saint has begun weeping dark water, visible only under moonlight.
-
----
-
-## Notable Inns
-
-- **The Leyburn Torch** – Neutral tavern near Eastveil; solid mid-tier option. Warm, a bit too quiet at night. Good place for rumors.
-- **The Gilded Goblet** – High-class noblehouse-turned-inn; overpriced and overly secure.
-- **Ditchbank’s Rest** – Low-end riverfront inn; full of miners, drinkers, and barely-employed mercs. Easily overlooked.
-
----
-
-## Notable Shops
-
-- **Silverknit Armory** – Masterwork light armor, no plate. Guard-approved supplier.
-- **Veyla’s Words** – Scroll and quill shop; sells only “safe” magic under Arcanum license.
-- **The Third Ember** – Candle and lantern shop known for unusual glowstones. One of the few shops that *increased* in business lately.
-- **Gravetongue’s Curios** – Peddler of “unusual relics.” Half his wares are fake. The other half are worse.
+- Landmark bridge connecting the city’s inner and outer western banks.
+- Lined with small shrines and minor memorials.
+- At night, strange glyphs shimmer faintly on the stonework — possibly residual planar seepage.
+- A statue of a forgotten saint weeps dark water only visible in moonlight.
 
 ---
 
 ## Key Factions
 
 ### Royal Court
-- Centered around [[King Halvar Thorne]].
-- Exudes calm and tradition.
-- Nobles disagree about recent decrees, but no one publicly dissents.
-- [[Verrath]] is ever-present but never intrusive — **he does not speak unless asked**.
+- Centered on [[King Halvar Thorne]] and [[Verrath]].
+- Publicly unified. Internally tense.
+- Royal decrees have grown vague, yet no one speaks against them.
+- Verrath’s presence is constant — observant but silent.
 
 ### Arcanum Archive
-- Once Tharion’s most progressive arcane institution.
-- Now deeply fractured between isolationists and reformers.
-- Under subtle influence from Verrath. Forbidden sections recently expanded.
+- Velaris' arcane bastion, now politically and magically fractured.
+- Reformers clash with traditionalists. Forbidden sections have quietly expanded.
+- Some scholars privately fear the rise of **Forgotten Magic** phenomena.
 
 ### Temple Assembly
-- Faith leaders of multiple pantheons. Splintering internally.
-- Some preach false optimism, others warn of judgment.
-- Multiple minor shrines now boarded up due to “spiritual silence.”
+- Unified only in theory. Multiple temples have become isolated or contradictory.
+- Some clerics speak of **spiritual silence**. Others whisper of false visions.
+- [[Silverward]] shrines have begun reacting unpredictably to offerings and prayer.
 
 ### Night Wardens
-- Elite city scouts, battle-trained mages, arcane enforcers.
-- Formally loyal to the king. Several captains have begun to disappear on assignment.
-- Refuse to patrol the Cradle Tower without written command.
+- Elite royal enforcers — scouts, mages, and planar defenders.
+- Publicly loyal. Privately thinning.
+- Refuse to patrol deep palace grounds without signed orders.
+- Some claim missing operatives were researching the **Blackening** before vanishing.
 
 ---
 
-## Public NPCs – Mixed and Contradictory Voices
+## Known Public NPCs
 
-- **Archscribe Elira Thorne** – King's cousin, head of records.  
+- **Archscribe Elira Thorne** – King’s cousin and court recordkeeper.  
   Claims: “There is nothing wrong. There is only change.”
-  
-- **Marshal Seran Vos** – Night Warden commander.  
+
+- **Marshal Seran Vos** – Commander of the Night Wardens.  
   Claims: “The king no longer sees clearly — or chooses not to.”
 
 - **Sister Velenn** – Cleric of the Dawnmother.  
@@ -103,19 +112,19 @@ Outwardly, it is still a beacon. Internally, it is already cracking.
   Claims: “Truth is not missing. It’s been *replaced*.”
 
 - **Master Veyla** – Shopkeeper at Veyla’s Words.  
-  Claims: “No one buys scrolls anymore. They're afraid to read what appears.”
+  Claims: “No one buys scrolls anymore. They’re afraid to read what appears.”
 
 - **Whisper Tavien** – Informant at The Leyburn Torch.  
   Claims: “You see the lights too, don’t you? Don’t follow them.”
 
 ---
 
-## Player Hooks
+## Player Hooks and Interactions
 
-- Guest quarters granted at [[Crownwatch Bastion]].
-- Player choices about who to trust will influence how much they learn before the Blackening.
-- Any serious push to investigate the [[Cradle Tower]] will be quietly blocked — and marked.
-- Subtle divine, magical, and planar inconsistencies will build tension throughout their time here.
+- The party is offered temporary residence in the [[Crownwatch Bastion]].
+- [[Session 1]] begins during the Eastveil market festival, disrupted by a creature outbreak.
+- The players’ actions will begin attracting the attention of Crownwatch, Arcanum scholars, and faith leaders.
+- The **Cradle Tower** remains out of reach — for now.
 
 ---
 
@@ -123,8 +132,13 @@ Outwardly, it is still a beacon. Internally, it is already cracking.
 
 - [[King Halvar Thorne]]
 - [[Verrath]]
-- [[Cradle Tower]]
+- [[Crownwatch Bastion]]
+- [[Blackening of Caer Hollow]]
 - [[Forgotten Magic]]
 - [[Book of Eternity]]
-- [[Crownwatch Bastion]]
-- [[Shadow Corruption Mechanic]]
+- [[Eastveil Commons]]
+- [[Silverward]]
+- [[Scholar’s Descent]]
+- [[Slums]]
+- [[City Guard]]
+- [[Session 1]]
