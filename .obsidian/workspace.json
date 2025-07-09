@@ -215,12 +215,12 @@
             }
           },
           {
-            "id": "35275eea60416be0",
+            "id": "2ad01c4d160ba2d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons Market.md",
+                "file": "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -235,18 +235,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eastveil Commons Market"
+              "title": "Necromancer"
             }
           },
           {
-            "id": "eb5a775b7bf5458d",
+            "id": "584bfd4ade702b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Random Tables/Random generators.md",
+                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -259,7 +259,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Random generators"
+              "title": "High Arcanist Verrath"
             }
           }
         ],
@@ -364,6 +364,64 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "8022a2009a374e23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for High Arcanist Verrath"
+            }
+          },
+          {
+            "id": "f05916fd8c10bbf7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from High Arcanist Verrath"
+            }
+          },
+          {
+            "id": "c3b5dd4368011ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of High Arcanist Verrath"
+            }
+          },
+          {
+            "id": "dac7554450a86d29",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
         "currentTab": 1
@@ -402,7 +460,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -417,36 +475,36 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eee2b498f1cb262a",
+  "active": "584bfd4ade702b6b",
   "lastOpenFiles": [
-    "Shadows of Eternal Night/Npcs/Velaris/Damon Celyn.md",
+    "Shadows of Eternal Night/Session prep/Session 2 - Interrogation & Investigation.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/Lira Ven.md",
+    "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
+    "Mage Armor.md",
+    "Embers of the autumn grove/Allies/Nyssa, Whisper of the Glades.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Smokestack Row.md",
+    "Jaspin Wrenth.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Magister-Auditor Cael Rynel.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons Market.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Captain Teron Veyne.md",
+    "Shadows of Eternal Night/Session prep/Session 1 - Market Day Disruption.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
     "Shadows of Eternal Night/Random Tables/Random generators.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Damon Celyn.md",
     "Shadows of Eternal Night/Random Tables/Tables.md",
     "Shadows of Eternal Night/Index.md",
     "Shadows of Eternal Night/Random Tables",
-    "Shadows of Eternal Night/Session prep/Session 1 - Market Day Disruption.md",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Sergeant Halna.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Captain Teron Veyne.md",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/Archivist Felwin.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/Lira Ven.md",
     "Shadows of Eternal Night/Session prep/Individual character segments session 1.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
     "Shadows of Eternal Night/Campaign TO-DO list.md",
     "Verrath.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Silverward.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The High Ring.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Scholar's Descent.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons Market.md",
-    "Market Square.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/City guard.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Lin.md",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum",
-    "Shadows of Eternal Night/Locations/Velaris/Velaris.md",
     "Scrap and Vixen.pdf",
     "Samson the Necromancer.pdf",
     "Syphblade_Squeek.pdf",
