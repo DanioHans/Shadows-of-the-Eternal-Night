@@ -8,219 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48b0609401303a03",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Giant Weasel",
-                    "source": "5e SRD",
-                    "size": "Medium",
-                    "type": "beast",
-                    "subtype": "",
-                    "alignment": "unaligned",
-                    "ac": 13,
-                    "hp": 9,
-                    "hit_dice": "2d8",
-                    "speed": "40 ft.",
-                    "stats": [
-                      11,
-                      16,
-                      10,
-                      4,
-                      12,
-                      5
-                    ],
-                    "skillsaves": [
-                      {
-                        "perception": 3
-                      },
-                      {
-                        "stealth": 5
-                      }
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "darkvision 60 ft., passive Perception 13",
-                    "languages": "",
-                    "cr": "1/8",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Keen Hearing and Smell",
-                        "desc": "The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Bite",
-                        "desc": "Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
-                        "attack_bonus": 5,
-                        "damage_dice": "1d4",
-                        "damage_bonus": 3
-                      }
-                    ]
-                  },
-                  1
-                ],
-                [
-                  {
-                    "name": "Giant Centipede",
-                    "source": "5e SRD",
-                    "size": "Small",
-                    "type": "beast",
-                    "subtype": "",
-                    "alignment": "unaligned",
-                    "ac": 13,
-                    "hp": 4,
-                    "hit_dice": "1d6",
-                    "speed": "30 ft., climb 30 ft.",
-                    "stats": [
-                      5,
-                      14,
-                      12,
-                      1,
-                      7,
-                      3
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "blindsight 30 ft., passive Perception 8",
-                    "languages": "",
-                    "cr": "1/4",
-                    "bestiary": true,
-                    "actions": [
-                      {
-                        "name": "Bite",
-                        "desc": "Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
-                        "attack_bonus": 4,
-                        "damage_dice": "1d4",
-                        "damage_bonus": 2
-                      }
-                    ]
-                  },
-                  1
-                ],
-                [
-                  {
-                    "name": "Swarm of Ravens",
-                    "source": "5e SRD",
-                    "size": "Medium",
-                    "type": "swarm of Tiny beasts",
-                    "subtype": "",
-                    "alignment": "unaligned",
-                    "ac": 12,
-                    "hp": 24,
-                    "hit_dice": "7d8 + -8",
-                    "speed": "10 ft., fly 50 ft.",
-                    "stats": [
-                      6,
-                      14,
-                      8,
-                      3,
-                      12,
-                      6
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "bludgeoning, piercing, slashing",
-                    "damage_immunities": "",
-                    "condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
-                    "senses": "passive Perception 15",
-                    "languages": "",
-                    "cr": "1/4",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Swarm",
-                        "desc": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Beaks",
-                        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.",
-                        "attack_bonus": 4,
-                        "damage_dice": "2d6"
-                      }
-                    ]
-                  },
-                  1
-                ],
-                [
-                  {
-                    "layout": "Basic 5e Layout",
-                    "name": "Verdant Basilisk",
-                    "size": "Medium",
-                    "type": "Monstrosity",
-                    "subtype": "Verdant",
-                    "alignment": "unaligned",
-                    "ac": "15 (natural armor)",
-                    "hp": 52,
-                    "hit_dice": "8d8+16",
-                    "speed": "30 ft.",
-                    "stats": [
-                      16,
-                      8,
-                      15,
-                      2,
-                      8,
-                      7
-                    ],
-                    "saves": [
-                      "Constitution +5"
-                    ],
-                    "skillsaves": [
-                      "Perception +2"
-                    ],
-                    "damage_resistances": "poison",
-                    "condition_immunities": "poisoned",
-                    "senses": "darkvision 60 ft., passive Perception 12",
-                    "languages": "—",
-                    "cr": 3,
-                    "traits": [
-                      {
-                        "name": "Petrifying Gaze",
-                        "desc": "If a creature starts its turn within 30 feet and the basilisk can see it, the basilisk can force it to make a DC 13 Constitution saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the save at the end of its next turn. On a second failure, it is petrified for 24 hours. On a success, the effect ends."
-                      },
-                      {
-                        "name": "Toxic Bloom",
-                        "desc": "When the basilisk is first bloodied (below half HP), arcane sap leaks from old scars. The area in a 10-foot radius around it becomes difficult terrain until the end of its next turn as sticky, glowing fluid seeps out. The glow fades quickly, but leaves behind a strange fungal scent."
-                      },
-                      {
-                        "name": "Magic Tainted",
-                        "desc": "Detect Magic reveals a chaotic aura of nature and shadow magic leaking from the creature."
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Bite",
-                        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage."
-                      }
-                    ],
-                    "source": "Homebrew"
-                  },
-                  1
-                ]
-              ],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
-          },
-          {
             "id": "2ad01c4d160ba2d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
+                "file": "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -235,35 +28,99 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Necromancer"
+              "title": "Session 3 – The Slum Tannery"
             }
           },
           {
-            "id": "584bfd4ade702b6b",
+            "id": "825facd545a4e765",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Giant Rat (Diseased)",
+                    "initiative": 0,
+                    "static": false,
+                    "modifier": 2,
+                    "hp": 7,
+                    "currentMaxHP": 7,
+                    "cr": "1/8",
+                    "ac": 12,
+                    "currentAC": 12,
+                    "id": "ID_a9c959bb29b9",
+                    "currentHP": 7,
+                    "tempHP": 0,
+                    "status": [],
+                    "enabled": true,
+                    "hidden": false,
+                    "friendly": false,
+                    "hit_dice": "2d6"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Giant Rat (Diseased)",
+                    "initiative": 0,
+                    "static": false,
+                    "modifier": 2,
+                    "hp": 7,
+                    "currentMaxHP": 7,
+                    "cr": "1/8",
+                    "ac": 12,
+                    "currentAC": 12,
+                    "id": "ID_ebdadb39badb",
+                    "currentHP": 7,
+                    "tempHP": 0,
+                    "status": [],
+                    "enabled": true,
+                    "hidden": false,
+                    "friendly": false,
+                    "hit_dice": "2d6"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Rug of Smothering",
+                    "initiative": 0,
+                    "static": false,
+                    "modifier": 2,
+                    "hp": 33,
+                    "currentMaxHP": 33,
+                    "cr": "2",
+                    "ac": 12,
+                    "currentAC": 12,
+                    "id": "ID_cafb9b6a28aa",
+                    "currentHP": 33,
+                    "tempHP": 0,
+                    "status": [],
+                    "enabled": true,
+                    "hidden": false,
+                    "friendly": false,
+                    "hit_dice": "6d10"
+                  },
+                  1
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "af9984b4ac408793",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "ivor.pdf"
               },
-              "icon": "lucide-file",
-              "title": "High Arcanist Verrath"
+              "icon": "lucide-file-text",
+              "title": "ivor"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -404,23 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+                "file": "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of High Arcanist Verrath"
-            }
-          },
-          {
-            "id": "dac7554450a86d29",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Outline of Session 3 – The Slum Tannery"
             }
           }
         ],
@@ -460,7 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 731.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -475,44 +322,43 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "584bfd4ade702b6b",
+  "active": "eee2b498f1cb262a",
   "lastOpenFiles": [
+    "ivor.pdf",
+    "Kyron 1.pdf",
+    "Syphblade_Squeek.pdf",
+    "Kyron.pdf",
+    "Samson the Necromancer.pdf",
+    "Shadows of Eternal Night/Characters/Samson.md",
+    "Shadows of Eternal Night/Characters/Scrap.md",
+    "Merios Celyn lv4.pdf",
+    "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Magister-Auditor Cael Reno.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Jespin’s Hideout – The Tannery Dungeon.md",
+    "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
     "Shadows of Eternal Night/Session prep/Session 2 - Interrogation & Investigation.md",
+    "Shadows of Eternal Night/Session prep/Investigation Finding Jespin Wrent.md",
+    "Shadows of Eternal Night/Session prep/Individual character segments session 1.md",
+    "Shadows of Eternal Night/Random Tables/Random generators.md",
+    "Shadows of Eternal Night/Random Tables/Tables.md",
+    "Shadows of Eternal Night/Campaign TO-DO list.md",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/Lira Ven.md",
-    "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
     "Mage Armor.md",
     "Embers of the autumn grove/Allies/Nyssa, Whisper of the Glades.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Smokestack Row.md",
     "Jaspin Wrenth.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Magister-Auditor Cael Rynel.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons Market.md",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Captain Teron Veyne.md",
     "Shadows of Eternal Night/Session prep/Session 1 - Market Day Disruption.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
-    "Shadows of Eternal Night/Random Tables/Random generators.md",
     "Shadows of Eternal Night/Npcs/Velaris/Damon Celyn.md",
-    "Shadows of Eternal Night/Random Tables/Tables.md",
     "Shadows of Eternal Night/Index.md",
     "Shadows of Eternal Night/Random Tables",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Sergeant Halna.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/Archivist Felwin.md",
-    "Shadows of Eternal Night/Session prep/Individual character segments session 1.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
-    "Shadows of Eternal Night/Campaign TO-DO list.md",
-    "Verrath.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Silverward.md",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum",
     "Scrap and Vixen.pdf",
-    "Samson the Necromancer.pdf",
-    "Syphblade_Squeek.pdf",
     "Shadows of Eternal Night/Characters/Merios Celyn lv4.pdf",
-    "Merios Celyn lv4.pdf",
-    "Kyron 1.pdf",
-    "Kyron.pdf",
-    "ivor.pdf",
     "Shadows of Eternal Night/Creatures & Monsters/Untitled.canvas",
     "Pasted image 20240710221807.png"
   ]

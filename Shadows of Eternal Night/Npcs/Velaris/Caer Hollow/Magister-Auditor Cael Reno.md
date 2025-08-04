@@ -7,7 +7,7 @@
 
 ## 🧑 Profile
 
-Cael Rynel is a **methodical and articulate** magistrate, trained in both **legal precedent** and **arcanum ethics**. While not unkind, he is meticulous to a fault and dislikes deviations from established protocol. He values decorum and recordkeeping more than intuition or “gut feeling.”
+Cael Reno is a **methodical and articulate** magistrate, trained in both **legal precedent** and **arcanum ethics**. While not unkind, he is meticulous to a fault and dislikes deviations from established protocol. He values decorum and recordkeeping more than intuition or “gut feeling.”
 
 ### Appearance
 - Early 40s, pale skin, neatly kept dark hair with a silver streak

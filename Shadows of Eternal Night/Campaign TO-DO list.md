@@ -6,7 +6,7 @@
   - Temple district
 - [x] Decide who leads or is present for the **interrogation** after the market fight (currently leaning toward Crownwatch officers and maybe a representative from the Arcanum).
 - [x] Finalize the **triggering details of the basilisk escape** (exact moment, sensory cues, crowd reaction).
-- [ ] Prepare **summary narration blocks** for session 1 pacing (market bustle, basilisk escape, aftermath transition).
+- [x] Prepare **summary narration blocks** for session 1 pacing (market bustle, basilisk escape, aftermath transition).
 - [ ] Night wardens, who, what, why do they serve under the crown
 
 
@@ -17,7 +17,7 @@
   - Involvement of the Arcanum or Crownwatch
 - [ ] Consider **Shadowfell mechanics** or altered environments
 - [ ] Decide whether Gawain is ally or antagonist in the Shadowfell
-- [ ] Define more **named NPCs** at the Arcanum (subject masters, admin staff)
+- [x] Define more **named NPCs** at the Arcanum (subject masters, admin staff)
 
 ## 📝 To-Do but No Rush
 - [ ] Determine **Samson’s custom spells**

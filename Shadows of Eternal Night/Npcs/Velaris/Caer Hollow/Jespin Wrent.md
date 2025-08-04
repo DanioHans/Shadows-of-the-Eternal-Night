@@ -28,60 +28,111 @@
 
 ---
 
-## Involvement in Session 1
+# NPC – Jespin Wrent
 
-- Runs the **"Rare & Remarkable Beasts"** stall during Market Day.
-- Displays several creatures in poor conditions, including:
-  - Juvenile basilisk (main threat)
-  - 1–2 lesser beasts (e.g., giant centipede, verdant weasel)
-- **Not the cause** of the breakout — but:
-  - Fails to stabilize arcane wards.
-  - Uses cheap bindings and mislabels creatures.
+## Overview
+A slippery smuggler of rare and dangerous beasts, Jespin Wrent is a gaunt, brown-haired man with permanently gloved hands and a foldable cage he wears like a twisted backpack. He has no real combat prowess and prefers to talk, bribe, or charm his way out of situations. Jespin is a middleman—never raising the creatures himself, just moving them between suppliers and buyers.
 
-### During Chaos
-
-- **Vanishes once players intervene**, slipping into the crowd.
-- Leaves behind:
-  - Some half-destroyed crates.
-  - His vendor license (forged).
-  - Empty coin chest — he left with what he could.
+- **Occupation**: Smuggler, black market merchant  
+- **Race**: Human  
+- **Notable Traits**: Wears gloves at all times, cage carrier, speaks in metaphor and deflection  
+- **Combat Capability**: Low – will avoid combat unless absolutely forced  
+- **Known Locations**: Seen frequently at *The Severed Mug*; hiding beneath the **old tannery** in the Slums  
 
 ---
 
-## Possible Follow-Up
+## Interrogation Guide
 
-- Players may **investigate his escape** later.
-- Locals in the slums whisper of a “beast merchant” hiding near the **Stitched Alley Warrens**.
-- Rumor: Jespin is trying to offload the remaining creatures before skipping town.
-- May be a gateway into the **Verdant Wastes smuggling trade** arc or the **academy’s underground bestiary trade**.
+Jespin is layered and evasive. The more pressure applied, the more he reveals—but only so far. He’s terrified of his clients and more concerned with survival than loyalty.
 
----
+### 🟢 Level 0 – Freely volunteered
+*Minimal pressure, casual conversation.*
 
-## Voice & Behavior Notes
-
-- Starts friendly and performative: *“Ah, fine taste, I see! Not everyone appreciates a clawed dandelion serpent!”*
-- Gets defensive fast: *“Hey now, you saw the sign: no refunds!”*
-- Disappears the moment he feels accused or threatened.
-- Might return in disguise later, possibly under a new name or with a new stall.
+- “I’m just a merchant. I bring in rare animals for buyers. Not illegal if you squint.”
+- “The basilisk? A little more feisty than promised. Definitely not doing *that* again.”
+- “I didn’t raise the thing—I just move goods. This one came through **Duskwatch**. Creepy place.”
+- “People want exotic things. I provide. Not my fault they’re weird.”
 
 ---
 
-## Hooks & Secrets
+### 🟡 Level 1 – Mild pressure (DC 13)
+*Bribery, kindness, social pressure, or mild persuasion.*
 
-- Not a major player — but **knows names** of others in the smuggling ring.
-- Had prior dealings with:
-  - A **minor Academy functionary** who sold him false permits.
-  - A **Verdant hunter** who has since gone missing.
-- Keeps a **ledger of sales** hidden in a cage false-bottom.
+- “Duskwatch felt *wrong*. The kind of silence that makes your ears ring.”
+- “Some beasts I move… they’re not natural. Like they remember a world we’ve never seen.”
+- “That basilisk had eyes like swamp glass. Its venom ate through the bottle before I got to Caer Hollow.”
+- “No names on my records. Just codes. I like my skin where it is.”
 
 ---
 
-## Retreat Location
+### 🟠 Level 2 – Strong pressure (DC 16+)
+*Heavy persuasion, credible threats, or clear leverage.*
 
-- **The Stitched Alley Warrens** (Slums of Caer Hollow):
-  - Maze-like tangle of old buildings, now mostly illegal markets and squatters.
-  - Jespin has a **locked backroom above a butcher’s stall**, accessible via rooftop ladders.
-  - Bribes local kids to keep quiet about his presence.
+- “Nobles want dangerous pets. Some want to watch them fight. One lady asked if it could eat a horse.”
+- “They started asking for nastier beasts, all around the same time. I don’t ask questions—I ask for gold.”
+- “Someone paid double for the basilisk. Paid extra for it to ‘break free’. That wasn’t my idea.”
+- “The plan was *never* to hurt anyone. I was supposed to create a scene and vanish. But the cage failed early.”
+
+---
+
+### 🔴 Level 3 – Life-threatening pressure (DC 18–20)
+*Magical coercion, near-death intimidation, or extreme leverage.*
+
+- “Alright, alright! It was *meant* for someone in the royal circle. That’s all I’ll say. I don’t know who.”
+- “One of the buyers told me to ensure chaos at the market. Said if people died, it would ‘spur urgency.’ Whatever that means.”
+- “They said I’d be protected. Paid in coin that doesn’t even circulate anymore. *Ancient stuff.*”
+- “They told me to disappear after this. I ran instead. I’m not dying for politics.”
+
+> ⚠️ **Jespin absolutely refuses to name any noble houses**, even under magical compulsion. He fears retribution and claims it would make him “dreamless and silent.”
+
+---
+
+## Things He Doesn’t Know
+
+- Jespin **does not know** Verrath is involved.
+- He has **no idea** where the creatures truly come from—only that they pass through villages like Duskwatch and don’t behave naturally.
+- He doesn’t know who paid to sabotage the cage—only that it wasn’t him.
+- He has no contact with other smugglers *after* he delivers a job.
+
+---
+
+## Possible Physical Clues
+
+If the party searches his hideout or belongings:
+
+- **Code ledger** – a pocket-sized notebook with cryptic entries (e.g., “Item #44-A / Blue Eyes / 600g / Royal H.”)
+- **Old coin** – ancient royal mint, not in circulation. Could be used to trace a buyer.
+- **Unsigned letter fragment** – "Ensure the creature breaks loose. Draw eyes. Delay response."
+- **Alchemical gear** – small, empty vials that once held venom or sleeping agents
+
+---
+
+## Jespin’s Motivations
+
+- **Primary**: Avoid torture or death
+- **Secondary**: Vanish quietly
+- **Tertiary**: Blame others or muddy the water to protect himself
+
+He can be reasoned with, especially if offered protection or freedom. He may attempt to trade vague information for a guarantee of safety.
+
+---
+
+## Future Options
+
+- Jespin could later appear in:
+  - A courtroom trial (if turned in)
+  - A prison (possibly silenced or killed mysteriously)
+  - Disappearing from custody if Verrath intervenes
+- His code ledger could become a key to unraveling noble corruption later
+
+---
+
+## Further Development To-Do
+
+- Decide whether Jespin is silenced or manipulated later
+- Create a “noble buyer” identity (linked to Verrath, but not directly)
+- Expand on the coinage or contracts used to bind Jespin’s silence
+
 
 
 ```statblock
