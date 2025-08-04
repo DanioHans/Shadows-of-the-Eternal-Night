@@ -13,6 +13,19 @@ Only the most promising candidates are admitted, typically from noble families o
 
 Graduates of the Arcanum are respected throughout Tharion — many become court mages, private scholars, or influential arcanists.
 
+# Academic Library – Description
+
+The Academic Library of Caer Hollow is a tall, crescent-shaped building of pale stone and blue-tinged glass, nestled between quiet towers in the Scholar’s Descent. Inside, the air is dry and cool, scented faintly with waxed parchment and old ink. Rows of high, arched bookshelves divide the central hall, each stacked with tomes bound in leathers both mundane and exotic.
+
+Sconces of ever-burning light flicker softly along the walls, casting just enough glow to read without strain. A wide desk near the entrance serves as the domain of the archivists — typically quiet scholars who monitor usage, enforce silence, and sometimes vanish into the stacks without warning.
+
+A raised balcony encircles the hall, accessed by iron spiral staircases, and leads to smaller study nooks — most occupied by muttering students, sketching mages, or figures lost in meditation. Scroll tubes and inkpots are neatly organized at communal tables, and a hovering glyph near the entrance lists the current restricted sections.
+
+There is no overt magical interference here, but the silence is thick — as if the library itself is listening.
+
+This is not the Grand Archive, but for students of the Royal Arcanum, this is where theory becomes foundation.
+
+
 ---
 
 ## 🎓 Philosophy & Curriculum

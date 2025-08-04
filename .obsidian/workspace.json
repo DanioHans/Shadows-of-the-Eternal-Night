@@ -4,15 +4,134 @@
     "type": "split",
     "children": [
       {
-        "id": "d36ce93f2345da74",
+        "id": "bb5abcfd46c48e31",
         "type": "tabs",
         "children": [
           {
-            "id": "48b0609401303a03",
+            "id": "39071124b165a43e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 1 25-6-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 1 25-6-2025"
+            }
+          },
+          {
+            "id": "7e0311ee839ba461",
             "type": "leaf",
             "state": {
               "type": "intiative-tracker-encounter-builder",
               "state": [
+                [
+                  {
+                    "layout": "Basic 5e Layout",
+                    "name": "Verdant Basilisk",
+                    "size": "Medium",
+                    "type": "Monstrosity",
+                    "subtype": "Verdant",
+                    "alignment": "unaligned",
+                    "ac": "15 (natural armor)",
+                    "hp": 52,
+                    "hit_dice": "8d8+16",
+                    "speed": "30 ft.",
+                    "stats": [
+                      16,
+                      8,
+                      15,
+                      2,
+                      8,
+                      7
+                    ],
+                    "saves": [
+                      "Constitution +5"
+                    ],
+                    "skillsaves": [
+                      "Perception +2"
+                    ],
+                    "damage_resistances": "poison",
+                    "condition_immunities": "poisoned",
+                    "senses": "darkvision 60 ft., passive Perception 12",
+                    "languages": "—",
+                    "cr": 3,
+                    "traits": [
+                      {
+                        "name": "Petrifying Gaze",
+                        "desc": "If a creature starts its turn within 30 feet and the basilisk can see it, the basilisk can force it to make a DC 13 Constitution saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the save at the end of its next turn. On a second failure, it is petrified for 24 hours. On a success, the effect ends."
+                      },
+                      {
+                        "name": "Toxic Bloom",
+                        "desc": "When the basilisk is first bloodied (below half HP), arcane sap leaks from old scars. The area in a 10-foot radius around it becomes difficult terrain until the end of its next turn as sticky, glowing fluid seeps out. The glow fades quickly, but leaves behind a strange fungal scent."
+                      },
+                      {
+                        "name": "Magic Tainted",
+                        "desc": "Detect Magic reveals a chaotic aura of nature and shadow magic leaking from the creature."
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Bite",
+                        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage."
+                      }
+                    ],
+                    "source": "Homebrew"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Giant Centipede",
+                    "source": "5e SRD",
+                    "size": "Small",
+                    "type": "beast",
+                    "subtype": "",
+                    "alignment": "unaligned",
+                    "ac": 13,
+                    "hp": 4,
+                    "hit_dice": "1d6",
+                    "speed": "30 ft., climb 30 ft.",
+                    "stats": [
+                      5,
+                      14,
+                      12,
+                      1,
+                      7,
+                      3
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "",
+                    "condition_immunities": "",
+                    "senses": "blindsight 30 ft., passive Perception 8",
+                    "languages": "",
+                    "cr": "1/4",
+                    "bestiary": true,
+                    "actions": [
+                      {
+                        "name": "Bite",
+                        "desc": "Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+                        "attack_bonus": 4,
+                        "damage_dice": "1d4",
+                        "damage_bonus": 2
+                      }
+                    ]
+                  },
+                  1
+                ],
                 [
                   {
                     "name": "Giant Weasel",
@@ -70,46 +189,6 @@
                 ],
                 [
                   {
-                    "name": "Giant Centipede",
-                    "source": "5e SRD",
-                    "size": "Small",
-                    "type": "beast",
-                    "subtype": "",
-                    "alignment": "unaligned",
-                    "ac": 13,
-                    "hp": 4,
-                    "hit_dice": "1d6",
-                    "speed": "30 ft., climb 30 ft.",
-                    "stats": [
-                      5,
-                      14,
-                      12,
-                      1,
-                      7,
-                      3
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "blindsight 30 ft., passive Perception 8",
-                    "languages": "",
-                    "cr": "1/4",
-                    "bestiary": true,
-                    "actions": [
-                      {
-                        "name": "Bite",
-                        "desc": "Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
-                        "attack_bonus": 4,
-                        "damage_dice": "1d4",
-                        "damage_bonus": 2
-                      }
-                    ]
-                  },
-                  1
-                ],
-                [
-                  {
                     "name": "Swarm of Ravens",
                     "source": "5e SRD",
                     "size": "Medium",
@@ -153,61 +232,6 @@
                     ]
                   },
                   1
-                ],
-                [
-                  {
-                    "layout": "Basic 5e Layout",
-                    "name": "Verdant Basilisk",
-                    "size": "Medium",
-                    "type": "Monstrosity",
-                    "subtype": "Verdant",
-                    "alignment": "unaligned",
-                    "ac": "15 (natural armor)",
-                    "hp": 52,
-                    "hit_dice": "8d8+16",
-                    "speed": "30 ft.",
-                    "stats": [
-                      16,
-                      8,
-                      15,
-                      2,
-                      8,
-                      7
-                    ],
-                    "saves": [
-                      "Constitution +5"
-                    ],
-                    "skillsaves": [
-                      "Perception +2"
-                    ],
-                    "damage_resistances": "poison",
-                    "condition_immunities": "poisoned",
-                    "senses": "darkvision 60 ft., passive Perception 12",
-                    "languages": "—",
-                    "cr": 3,
-                    "traits": [
-                      {
-                        "name": "Petrifying Gaze",
-                        "desc": "If a creature starts its turn within 30 feet and the basilisk can see it, the basilisk can force it to make a DC 13 Constitution saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the save at the end of its next turn. On a second failure, it is petrified for 24 hours. On a success, the effect ends."
-                      },
-                      {
-                        "name": "Toxic Bloom",
-                        "desc": "When the basilisk is first bloodied (below half HP), arcane sap leaks from old scars. The area in a 10-foot radius around it becomes difficult terrain until the end of its next turn as sticky, glowing fluid seeps out. The glow fades quickly, but leaves behind a strange fungal scent."
-                      },
-                      {
-                        "name": "Magic Tainted",
-                        "desc": "Detect Magic reveals a chaotic aura of nature and shadow magic leaking from the creature."
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Bite",
-                        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage."
-                      }
-                    ],
-                    "source": "Homebrew"
-                  },
-                  1
                 ]
               ],
               "icon": "intiative-tracker-encounter-builder",
@@ -215,12 +239,12 @@
             }
           },
           {
-            "id": "2ad01c4d160ba2d7",
+            "id": "7d122ea614f92a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -235,17 +259,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Necromancer"
+              "title": "The Slums"
             }
           },
           {
-            "id": "584bfd4ade702b6b",
+            "id": "00ec9942ddd43f83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
-                "mode": "preview",
+                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -259,7 +283,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "High Arcanist Verrath"
+              "title": "Jespin Wrent"
+            }
+          },
+          {
+            "id": "3817ceffe304f058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Giant Centipede.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Giant Centipede"
             }
           }
         ],
@@ -331,6 +379,39 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ffab8a5f322abf81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Crownwatch Bastion"
+            }
+          },
+          {
+            "id": "d258180aeaaa0be3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Crownwatch Bastion"
+            }
+          },
+          {
             "id": "4f0a2e5f5eda41d9",
             "type": "leaf",
             "state": {
@@ -343,6 +424,21 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "e37277ae783d04c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Slums"
             }
           },
           {
@@ -366,55 +462,7 @@
             }
           },
           {
-            "id": "8022a2009a374e23",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for High Arcanist Verrath"
-            }
-          },
-          {
-            "id": "f05916fd8c10bbf7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from High Arcanist Verrath"
-            }
-          },
-          {
-            "id": "c3b5dd4368011ab3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of High Arcanist Verrath"
-            }
-          },
-          {
-            "id": "dac7554450a86d29",
+            "id": "384751ba8c1ae0bc",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -424,14 +472,14 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
-        "id": "46f40095135a2407",
+        "id": "5f08d7eb752a0fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "7f26f8421bee6384",
+            "id": "f632c6817fc5445e",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -441,29 +489,14 @@
             }
           }
         ]
-      },
-      {
-        "id": "ca438a0431b017f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02c30a3c30f909c4",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -471,49 +504,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "copilot:Open Copilot Chat": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "584bfd4ade702b6b",
+  "active": "7d122ea614f92a5f",
   "lastOpenFiles": [
     "Shadows of Eternal Night/Session prep/Session 2 - Interrogation & Investigation.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/Lira Ven.md",
-    "Shadows of Eternal Night/Prologue/enemies/Necromancer.md",
-    "Mage Armor.md",
-    "Embers of the autumn grove/Allies/Nyssa, Whisper of the Glades.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Smokestack Row.md",
-    "Jaspin Wrenth.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Magister-Auditor Cael Rynel.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons Market.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Captain Teron Veyne.md",
-    "Shadows of Eternal Night/Session prep/Session 1 - Market Day Disruption.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
-    "Shadows of Eternal Night/Random Tables/Random generators.md",
+    "Session Notes/Session 2 09-07-2025.md",
+    "Session Notes/Session 1 25-6-2025.md",
     "Shadows of Eternal Night/Npcs/Velaris/Damon Celyn.md",
-    "Shadows of Eternal Night/Random Tables/Tables.md",
-    "Shadows of Eternal Night/Index.md",
-    "Shadows of Eternal Night/Random Tables",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Sergeant Halna.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/Archivist Felwin.md",
-    "Shadows of Eternal Night/Session prep/Individual character segments session 1.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Silas Celyn.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons.md",
+    "Shadows of Eternal Night/Random Tables/Random generators.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Magister-Auditor Cael Rynel.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Smokestack Row.md",
+    "Mage Armor.md",
+    "Jaspin Wrenth.md",
+    "Shadows of Eternal Night/Session prep/Session 1 - Market Day Disruption.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
-    "Shadows of Eternal Night/Campaign TO-DO list.md",
-    "Verrath.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Silverward.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum",
-    "Scrap and Vixen.pdf",
-    "Samson the Necromancer.pdf",
-    "Syphblade_Squeek.pdf",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Sergeant Halna.md",
+    "High Arcanist Verrath.md",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Captain Teron Veyne.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities/Verdant Basilisk.md",
+    "Shadows of Eternal Night/Characters/Merios.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Giant Centipede.md",
     "Shadows of Eternal Night/Characters/Merios Celyn lv4.pdf",
-    "Merios Celyn lv4.pdf",
-    "Kyron 1.pdf",
-    "Kyron.pdf",
+    "Shadows of Eternal Night/Session prep/Individual character segments session 1.md",
+    "Shadows of Eternal Night/Characters/Kyron.md",
+    "Shadows of Eternal Night/Characters/Samson.md",
+    "Shadows of Eternal Night/Session prep",
+    "Shadows of Eternal Night/Random Tables",
     "ivor.pdf",
-    "Shadows of Eternal Night/Creatures & Monsters/Untitled.canvas",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum",
+    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow",
+    "Shadows of Eternal Night/Npcs/Velaris",
+    "Shadows of Eternal Night/Npcs",
+    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical",
+    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities",
     "Pasted image 20240710221807.png"
   ]
 }

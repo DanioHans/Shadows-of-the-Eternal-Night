@@ -60,7 +60,7 @@ Use a **cinematic structure**:
 **Narrative Thread**:
 > Ivor waits near the herbalist’s stall — not far from the Square but shielded from the crowd. A cloaked figure approaches: Lin, younger than she seems, always glancing over her shoulder.  
 > “You want that name?” she whispers. “I want something first.”  
-> She hands him a note: a location and time — shortly after noon. “Follow the man there. See what he buys. Don’t be seen.”  
+> She hands him a note: a location and time — shortly after noon. “Follow the man there. See what he buys. Don’t be seen.”
 > Then she vanishes into the crowd, and Ivor is left on edge.  
 > As he tails the man through the shifting market traffic, a sudden scream rips the air — the basilisk cage has broken.
 

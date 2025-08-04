@@ -6,6 +6,21 @@
 - Establish ties to the Crownwatch Bastion and The Royal Arcanum of Velaris.
 
 ---
+## Opening Narration
+
+The sun rises clean over Caer Hollow, warming its stone walls and polished rooftops. It’s market day — not the usual kind with worn crates and quiet bartering, but the **monthly market**, where stalls spill out into side streets, vendors from across the kingdom hawk their goods, and even the more cautious noble families find excuses to send servants with full purses.
+
+The **Eastveil Commons** buzzes with noise and motion. Spices hang in the air, mixing with the smell of baked fruit, sweat, and old parchment. Every corner you pass hosts a different sound — someone striking a lute, a merchant arguing over cabbage prices, the sharp voice of a guard trying to part a crowd.
+
+Most of the city is awake early. There’s a sense of movement, of business, of life continuing as it always has.
+
+In the distance, beyond the market roofs, the upper district of the **High Ring** remains quiet and guarded. The palace spire gleams in the sun, untouched by the noise below. Between the two lies a city trying to stay balanced — tradition, trade, religion, and something else less easily named.
+
+For now, you are simply one of many within the crowd. Maybe you're here by duty. Maybe curiosity brought you. Or maybe you were sent.
+
+Either way, your feet find the streets of Caer Hollow. And your day begins like any other.
+
+But it will not stay that way.
 
 ## Chronological Flow
 

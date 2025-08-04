@@ -52,7 +52,7 @@ Magister Cael Rynel may ask:
 
 ### ❖ Clues Given to the Party
 
-- Wrenth **fled the scene** as the chaos began.
+- Wrent **fled the scene** as the chaos began.
 - His cart and stall were abandoned — some documents and crates remain.
 - The guard pursued leads into the **Slums** but lost the trail in **Smokestack Row**, a densely packed and rough area.
 - Wrent has a **record**: minor smuggling, tax evasion, and unlicensed magical items.
