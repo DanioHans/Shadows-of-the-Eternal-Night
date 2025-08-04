@@ -65,3 +65,29 @@
 |12|A basilisk statue in the square blinks once, then freezes again.|
 
 ^random-encounters
+
+
+| dice: 1d20 | Clue or Misdirection |
+|------------|----------------------|
+| 1          | A hunched figure with a sack was seen heading west last night. |
+| 2          | Someone mentions a foul smell coming from beneath the butcher’s shop. |
+| 3          | A beggar saw a man drop something shiny down a drain. |
+| 4          | Rumors spread of a “rat-man” causing trouble—not Jespin. |
+| 5          | A child mentions a scary man with gloves who feeds animals in the dark. |
+| 6          | Someone saw a man arguing over gold near the soapworks. |
+| 7          | A local thinks Jespin already left town—total guess. |
+| 8          | A wild dog was barking all night near the tannery ruins. |
+| 9          | An alley vendor remembers a man with a cage buying meat scraps. |
+| 10         | A shady figure was seen slipping through a broken wall. |
+| 11         | A guard says they searched the sewers—“nothing but rats and piss.” |
+| 12         | Someone claims to have heard hissing under the cobbles. |
+| 13         | A beggar offers vague directions—if given a few copper. |
+| 14         | A drunk claims he sold Jespin a glowing mushroom. |
+| 15         | A man with gloves traded with the Mall Rats last week. |
+| 16         | A local saw Jespin enter a crumbling building, but didn’t see him leave. |
+| 17         | An urchin says someone paid him to watch the corner near a tannery. |
+| 18         | Rumors swirl about someone hiding dangerous pets in the slums. |
+| 19         | A chalk arrow points to an alley with no exit—just rats. |
+| 20         | A strange symbol is scratched onto a lamp post: a rat curled around a coin. |
+
+^clues

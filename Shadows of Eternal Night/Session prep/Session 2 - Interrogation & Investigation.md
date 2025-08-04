@@ -23,7 +23,7 @@ A chamber in the lower floor of [[Crownwatch Bastion]] — sparsely furnished, a
 
 - **[[Captain Teron Veyne]]** – Stands silently at the edge, overseeing the proceedings.
 - **[[Sergeant Halna]]** – Offers witness testimony on behalf of the guard. Occasionally clarifies things with the party.
-- **[[Magister-Auditor Cael Rynel]]** – Appointed judiciary agent. Conducts the formal questioning.
+- **[[Magister-Auditor Cael Reno]]** – Appointed judiciary agent. Conducts the formal questioning.
 - **[[High Arcanist Verrath]]** – Arrives partway through. Focused primarily on Samson's conduct.
 
 ---
@@ -170,5 +170,5 @@ If the players get loud, make threats, or spook local criminals:
 - [[The Slums]]
 - [[Smokestack Row]] ← *New minor subdistrict, needs note*
 - [[Jespin Wrent]] ← *Expanded note required soon*
-- [[Magister-Auditor Cael Rynel]] ← *Needs dedicated note*
+- [[Magister-Auditor Cael Reno]] ← *Needs dedicated note*
 
