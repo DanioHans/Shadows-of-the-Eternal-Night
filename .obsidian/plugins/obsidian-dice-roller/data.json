@@ -76,5 +76,48 @@
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
   "version": "11.4.2",
-  "viewResults": []
+  "viewResults": [
+    {
+      "result": "2",
+      "original": "1d6",
+      "resultText": "1d6\n[2]",
+      "timestamp": 1754323500850,
+      "id": "xpWOvMCTYpyf"
+    },
+    {
+      "result": "1",
+      "original": "1d20",
+      "resultText": "1d20\n[1]",
+      "timestamp": 1754323880184,
+      "id": "uGRTqFMrxWgW"
+    },
+    {
+      "result": "19",
+      "original": "1d20",
+      "resultText": "1d20\n[19]",
+      "timestamp": 1754326218776,
+      "id": "mvClF6Hjpw9Z"
+    },
+    {
+      "result": "14",
+      "original": "1d20",
+      "resultText": "1d20\n[14]",
+      "timestamp": 1754326319933,
+      "id": "5o_8M1KHFoE4"
+    },
+    {
+      "result": "7",
+      "original": "1d20",
+      "resultText": "1d20\n[7]",
+      "timestamp": 1754326480602,
+      "id": "1fsW_7bxCPkN"
+    },
+    {
+      "result": "19",
+      "original": "1d20",
+      "resultText": "1d20\n[19]",
+      "timestamp": 1754327765122,
+      "id": "1Kxc7TOAMX7t"
+    }
+  ]
 }
