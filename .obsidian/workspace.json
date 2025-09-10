@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb5abcfd46c48e31",
+        "id": "d36ce93f2345da74",
         "type": "tabs",
         "children": [
           {
-            "id": "00ec9942ddd43f83",
+            "id": "2ad01c4d160ba2d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Session prep/Session 5 - Curiosities in Duskwatch.md",
+                "file": "Shadows of Eternal Night/Speculation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,124 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 5 - Curiosities in Duskwatch"
+              "title": "Speculation"
+            }
+          },
+          {
+            "id": "b6b771bc58017987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Duskwatch – Paranoia Effects"
+            }
+          },
+          {
+            "id": "825facd545a4e765",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Giant Rat (Diseased)",
+                    "initiative": 0,
+                    "static": false,
+                    "modifier": 2,
+                    "hp": 7,
+                    "currentMaxHP": 7,
+                    "cr": "1/8",
+                    "ac": 12,
+                    "currentAC": 12,
+                    "id": "ID_a9c959bb29b9",
+                    "currentHP": 7,
+                    "tempHP": 0,
+                    "status": [],
+                    "enabled": true,
+                    "hidden": false,
+                    "friendly": false,
+                    "hit_dice": "2d6"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Giant Rat (Diseased)",
+                    "initiative": 0,
+                    "static": false,
+                    "modifier": 2,
+                    "hp": 7,
+                    "currentMaxHP": 7,
+                    "cr": "1/8",
+                    "ac": 12,
+                    "currentAC": 12,
+                    "id": "ID_ebdadb39badb",
+                    "currentHP": 7,
+                    "tempHP": 0,
+                    "status": [],
+                    "enabled": true,
+                    "hidden": false,
+                    "friendly": false,
+                    "hit_dice": "2d6"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Rug of Smothering",
+                    "initiative": 0,
+                    "static": false,
+                    "modifier": 2,
+                    "hp": 33,
+                    "currentMaxHP": 33,
+                    "cr": "2",
+                    "ac": 12,
+                    "currentAC": 12,
+                    "id": "ID_cafb9b6a28aa",
+                    "currentHP": 33,
+                    "tempHP": 0,
+                    "status": [],
+                    "enabled": true,
+                    "hidden": false,
+                    "friendly": false,
+                    "hit_dice": "6d10"
+                  },
+                  1
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "af9984b4ac408793",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ivor.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ivor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,39 +213,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffab8a5f322abf81",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Crownwatch Bastion"
-            }
-          },
-          {
-            "id": "d258180aeaaa0be3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Crownwatch Bastion.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Crownwatch Bastion"
-            }
-          },
-          {
             "id": "4f0a2e5f5eda41d9",
             "type": "leaf",
             "state": {
@@ -144,21 +225,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "e37277ae783d04c7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Session 3 – The Slum Tannery"
             }
           },
           {
@@ -182,7 +248,55 @@
             }
           },
           {
-            "id": "93769eec6b9a50c6",
+            "id": "8022a2009a374e23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for High Arcanist Verrath"
+            }
+          },
+          {
+            "id": "f05916fd8c10bbf7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum/High Arcanist Verrath.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from High Arcanist Verrath"
+            }
+          },
+          {
+            "id": "c3b5dd4368011ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 3 – The Slum Tannery"
+            }
+          },
+          {
+            "id": "42affebac7dd01a9",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -192,14 +306,14 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
-        "id": "5f08d7eb752a0fdd",
+        "id": "46f40095135a2407",
         "type": "tabs",
         "children": [
           {
-            "id": "f632c6817fc5445e",
+            "id": "7f26f8421bee6384",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -209,15 +323,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "ca438a0431b017f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c30a3c30f909c4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 731.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,47 +354,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "00ec9942ddd43f83",
+  "active": "b6b771bc58017987",
   "lastOpenFiles": [
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Magical/Nightmare Shade.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Magical/Shadow-Doubles.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities/The Hollow Dreamer.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities/Verdant Basilisk.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Swarm of Ravens.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Giant Weasel.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Giant Centipede.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Investigation Leads.md",
+    "Shadows of Eternal Night/Locations/Velaris/Briarford/Briarford.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Travel Encounters – Duskwatch Route.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Bandit Encounters – Road to Duskwatch.md",
+    "Shadows of Eternal Night/Locations/Velaris/Briarford",
+    "Shadows of Eternal Night/Session prep/Session 5 – Road to Duskwatch.md",
+    "Shadows of Eternal Night/Locations/Tharion.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Scouts – Duskwatch.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Shipments – Duskwatch.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch",
     "Shadows of Eternal Night/Session prep/Session 4 - Closing the Wrent Arc.md",
-    "Shadows of Eternal Night/Session prep/Session 5 - Curiosities in Duskwatch.md",
-    "Scrap and Vixen.pdf",
-    "Shadows of Eternal Night/Locations/Velaris/Velaris.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
     "Session Notes/Session 3 08-04-2025.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Jespin’s Hideout – The Tannery Dungeon.md",
-    "Shadows of Eternal Night/Random Tables/Tables.md",
-    "Merios Celyn lv4.pdf",
-    "Shadows of Eternal Night/Random Tables/Random generators.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Eastveil Commons Market.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Scholar's Descent.md",
-    "Samson the Necromancer.pdf",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Magister-Auditor Cael Reno.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Sergeant Halna.md",
+    "Shadows of Eternal Night/Speculation.md",
+    "Shadows of Eternal Night/Session prep/Individual character segments session 1.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
+    "Session Notes/Session 2 09-07-2025.md",
+    "Session Notes/Session 1 25-6-2025.md",
+    "High Arcanist Verrath.md",
     "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
     "ivor.pdf",
-    "Shadows of Eternal Night/Campaign TO-DO list.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Captain Teron Veyne.md",
-    "Shadows of Eternal Night/Speculation.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Jespin Wrent.md",
-    "Shadows of Eternal Night/Session prep/Investigation Finding Jespin Wrent.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Giant Centipede.md",
-    "Session Notes/Session 1 25-6-2025.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/The Slums.md",
-    "conflict-files-obsidian-git.md",
-    "Shadows of Eternal Night/Session prep/Session 2 - Interrogation & Investigation.md",
-    "Session Notes/Session 2 09-07-2025.md",
-    "Shadows of Eternal Night/Npcs/Velaris/Damon Celyn.md",
-    "Shadows of Eternal Night/Characters/Merios Celyn lv4.pdf",
-    "Shadows of Eternal Night/Session prep",
+    "Kyron 1.pdf",
+    "Syphblade_Squeek.pdf",
+    "Kyron.pdf",
+    "Samson the Necromancer.pdf",
+    "Merios Celyn lv4.pdf",
     "Shadows of Eternal Night/Random Tables",
     "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow",
-    "Shadows of Eternal Night/Npcs/Velaris",
+    "Shadows of Eternal Night/Creatures & Monsters/Untitled.canvas",
     "Pasted image 20240710221807.png"
   ]
 }
