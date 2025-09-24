@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Speculation.md",
+                "file": "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Speculation"
+              "title": "Session 3 – The Slum Tannery"
             }
           },
           {
-            "id": "b6b771bc58017987",
+            "id": "5cf17d01bc1b3bc3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Shadows of Eternal Night/Locations/Velaris/Duskwatch/void rune.png"
+                "file": "Shadows of Eternal Night/Session prep/Filler session - The Shattered Ship.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "void rune"
+              "icon": "lucide-file",
+              "title": "Filler session - The Shattered Ship"
             }
           },
           {
@@ -346,44 +358,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b6b771bc58017987",
+  "active": "eee2b498f1cb262a",
   "lastOpenFiles": [
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/void rune.png",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch.md",
+    "Shadows of Eternal Night/Maps/Void Galleon.png",
+    "Shadows of Eternal Night/Mechanics/Spells/Forgotten/Bonebind.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Aberration/Chain-Kraken.md",
+    "Shadows of Eternal Night/Session prep/Filler session - The Shattered Ship.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Humanoid/Mutiny crew.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Humanoid",
     "Shadows of Eternal Night/Creatures & Monsters/Beasts/Magical/Nightmare Shade.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Magical/Shadow-Doubles.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities/The Hollow Dreamer.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities/Verdant Basilisk.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Swarm of Ravens.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Giant Weasel.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Beasts/Non-magical/Giant Centipede.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Investigation Leads.md",
-    "Shadows of Eternal Night/Locations/Velaris/Briarford/Briarford.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Travel Encounters – Duskwatch Route.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Bandit Encounters – Road to Duskwatch.md",
-    "Shadows of Eternal Night/Locations/Velaris/Briarford",
+    "Shadows of Eternal Night/Creatures & Monsters/Aberration",
     "Shadows of Eternal Night/Session prep/Session 5 – Road to Duskwatch.md",
-    "Shadows of Eternal Night/Locations/Tharion.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Scouts – Duskwatch.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Shipments – Duskwatch.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch",
-    "Shadows of Eternal Night/Session prep/Session 4 - Closing the Wrent Arc.md",
-    "Session Notes/Session 3 08-04-2025.md",
+    "Shadows of Eternal Night/General story.md",
+    "Shadows of Eternal Night/Campaign TO-DO list.md",
+    "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
+    "Shadows of Eternal Night/Random Tables/Tables.md",
+    "Shadows of Eternal Night/Session prep/Investigation Finding Jespin Wrent.md",
+    "Shadows of Eternal Night/Session prep/Session 2 - Interrogation & Investigation.md",
+    "Shadows of Eternal Night/Session prep/Session 1 - Market Day Disruption.md",
+    "Embers of the autumn grove/Bossfights/Vaelthir/Vaelthir, the Ashen Protector.md",
+    "Embers of the autumn grove/Monsters/Blighted Revenant.md",
+    "Shadows of Eternal Night/BBEGs/Nagash.md",
+    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals/The Hourglass Reversal.md",
+    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals/The Hollow Covenant.md",
+    "Shadows of Eternal Night/lore/The Nine Books of Nagash/Rituals/Ritual of Dusk Crossing.md",
+    "Shadows of Eternal Night/lore/The Nine Books of Nagash/The Nine Books of Nagash.md",
+    "Shadows of Eternal Night/Characters/Ivor.md",
+    "Shadows of Eternal Night/Index.md",
     "Shadows of Eternal Night/Speculation.md",
-    "Shadows of Eternal Night/Session prep/Individual character segments session 1.md",
-    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
-    "Session Notes/Session 2 09-07-2025.md",
-    "Session Notes/Session 1 25-6-2025.md",
     "High Arcanist Verrath.md",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/void rune.png",
+    "Shadows of Eternal Night/Locations/Velaris/Briarford",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch",
     "ivor.pdf",
     "Kyron 1.pdf",
     "Syphblade_Squeek.pdf",
     "Kyron.pdf",
     "Samson the Necromancer.pdf",
     "Merios Celyn lv4.pdf",
-    "Shadows of Eternal Night/Random Tables",
-    "Shadows of Eternal Night/Npcs/Velaris/Caer Hollow/Royal Arcanum",
     "Shadows of Eternal Night/Creatures & Monsters/Untitled.canvas",
     "Pasted image 20240710221807.png"
   ]
