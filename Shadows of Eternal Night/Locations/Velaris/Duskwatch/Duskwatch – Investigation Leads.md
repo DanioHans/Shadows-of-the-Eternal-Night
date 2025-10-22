@@ -1,75 +1,79 @@
 ## What Crownwatch Needs (100 gp reward)
-To claim the “information” reward, the party must gather:  
-1. **Proof of Missing Shipments** (where they are, why they stopped).  
-2. **Proof of Missing Scouts** (what happened, at least partial remains or logs).  
-3. **Proof Village Is Not Functioning Normally** (villagers in perpetual dream, not rebellion or desertion).  
+To claim the information reward, the party must gather:
+1. **Proof of Missing Shipments** — location and cause of stoppage.  
+2. **Proof of Missing Scouts** — remains, journals, or other confirmation of fate.  
+3. **Proof Village Is Not Functioning Normally** — villagers trapped in trance, not rebellion or desertion.  
+
+Resolving the Nightmare entity earns an additional 200 gp.
 
 ---
 
 ## Leads in Duskwatch
 
-### 1. Warehouses (Riverside)
-- **Action**: PCs inspect crates.  
-- **Clue**: Shipments (Moonshade Moss, Salted Fish) never left. All are stacked, untouched.  
-- **Info**: Establishes supply stoppage.  
-- **Fake Clue (entity)**: Crates appear rotting & worm-infested at night — illusion, not real.  
+### 1. [[Duskwatch - Points of Interest#Old Storehouse|Old Storehouse]]
+- **Action:** Inspect stacked Crownwatch crates.  
+- **Clue:** Shipments of moonshade moss, silver ore, and salted fish remain untouched.  
+- **Info:** Establishes that supplies stopped at Duskwatch.  
+- **Illusion:** At night, crates appear rotted and worm-ridden before reverting — entity distortion.
 
-### 2. Inn – The Last Lantern
-- **Action**: Talk to Kara Durn (responsive NPC). At night, follow “sleepwalkers” that drift in.  
-- **Clue**: Villagers walk in, sit down, then vanish → evidence of shared dream.  
-- **Info**: Village trapped in something unnatural.  
-- **Fake Clue**: Kara sometimes insists “Duskwatch is fine” in flat tone → entity projecting reassurance.  
+### 2. [[Duskwatch - Points of Interest#Gull’s Rest Inn|Gull’s Rest Inn]]
+- **Action:** Observe or question the barkeep apparition.  
+- **Clue:** Villagers enter, sit, and vanish after mimicking “sleep” behaviors.  
+- **Info:** Confirms shared-dream pattern.  
+- **Illusion:** The barkeep sometimes insists “Duskwatch is fine,” voice hollow and unsynced with lips.
 
-### 3. Market Square
-- **Action**: Observe at night.  
-- **Clue**: Shadow-doubles of PCs appear, mimic them mockingly.  
-- **Info**: Entity knows and manipulates intruders.  
-- **Fake Clue**: Doubles whisper “Ironhold did this” (misdirection).  
+### 3. [[Duskwatch - Points of Interest#Fountain Square|Fountain Square]]
+- **Action:** Watch reflections or use Detect Magic/Religion.  
+- **Clue:** Shadows move opposite direction; reflections whisper names.  
+- **Info:** Establishes central anchor of dream-bleed; nexus of rune network.  
+- **Illusion:** Doubles of PCs appear at dusk, mimicking gestures and whispering “Ironhold did this.”
 
-### 4. Hunter’s Hut (Outskirts)
-- **Action**: Read journal, track footprints.  
-- **Clue**: Mentions “dream-hollows” and people walking into mist.  
-- **Info**: Villagers vanish by wandering into nightmare.  
-- **Fake Clue**: Tracks appear to lead into river (illusory).  
+### 4. [[Duskwatch - Points of Interest#Hunter’s Hut (Outskirts)|Hunter’s Hut (Outskirts)]]
+- **Action:** Read abandoned journal, follow tracks.  
+- **Clue:** Mentions “dream-hollows” and people walking into the mist.  
+- **Info:** Explains disappearances; villagers vanish into Nightmare.  
+- **Illusion:** Footprints lead into river — false trail.
 
-### 5. Child Survivor’s Home
-- **Action**: Search home.  
-- **Clue**: Parents repeat dinner routine endlessly.  
-- **Info**: Confirms villagers are trapped in loop.  
-- **Nightmare-Only**: If toy is taken into dream → whispers foreshadowing (“The Blackening comes… you cannot stop it”).  
+### 5. [[Duskwatch - Points of Interest#Child Survivor’s Home|Child Survivor’s Home]]
+- **Action:** Search house of family trapped in loop.  
+- **Clue:** Parents endlessly repeat dinner routine.  
+- **Info:** Confirms time-loop trance of villagers.  
+- **Nightmare-Only:** Toy whispers “The Blackening comes” if carried into the dream realm.
 
-### 6. Scout Station (North Edge)
-- **Action**: Search barracks.  
-- **Clue**: Patrol logs unfinished; one line “—I heard myself calling from the trees.”  
-- **Info**: Scouts also victims, not deserters.  
-- **Fake Clue**: Faint scribble “Alura?” (planted illusion to seed distrust of Arcanum).  
+### 6. [[Scout Watch Post (North Edge)]]
+- **Action:** Search barracks for patrol logs.  
+- **Clue:** Final entry: “Heard myself calling from the trees.”  
+- **Info:** Scouts also trapped; not deserters.  
+- **Illusion:** Scribbled word “Alura?” appears between lines — projection meant to seed distrust of the Arcanum.
 
-### 7. Rune Trail
-- **Action**: Trace runes.  
-- **Clue**: Runes not dwarven, not arcane → hybrid planar anchors. Lead south toward marsh.  
-- **Info**: Entity is tethering villagers with runes.  
-- **Fake Clue**: Some runes distort into symbols resembling Crownwatch insignia.  
+### 7. [[Duskwatch - Points of Interest#Rune Trail (Southern Marsh)|Rune Trail (Marsh Outskirts)]]
+- **Action:** Trace etched runes near southern marsh.  
+- **Clue:** Runes are planar anchors, not magical wards.  
+- **Info:** Entity tethered itself through these marks.  
+- **Illusion:** Some runes flicker into the Crownwatch insignia.
 
 ---
 
-## Nightmare Realm Clues (200 gp reward path)
+## Nightmare Realm Extensions (200 gp reward path)
+These can only be found once the party crosses into the Nightmare version of Duskwatch.
 
-- **Innkeeper in Dream**: “The runes bind us.” (clear anchor clue).  
-- **Hunter in Dream**: “The circle in the marsh… that’s where it came from.” (clear source clue).  
-- **Scouts in Dream**: “We were called by our own voices.” (explains why patrols vanished).  
-- **Market in Dream**: Shadow-doubles whisper secrets of PCs (fear-based). Hard Wis save DC 15 → “The Crown shall fall to shadow” (foreshadowing Blackening).  
-- **Stone Circle in Dream**: Hard Arcana/Religion DC 18 → glimpse of *Nagash’s sigil* entwined with runes. Immediate psychic backlash (2d6 psychic dmg).  
+- **Innkeeper (Dream):** “The runes bind us.”  
+- **Hunter (Dream):** “The circle in the marsh — that’s where it came from.”  
+- **Scouts (Dream):** “We were called by our own voices.”  
+- **Market (Dream):** Shadow-doubles whisper secrets of PCs; Hard Wis save (DC 15) reveals: “The Crown shall fall to shadow.”  
+- **Stone Circle (Dream):** Hard Arcana/Religion (DC 18) → glimpse of *Nagash’s sigil* entwined with runes. Failing save = 2d6 psychic damage.
 
 ---
 
 ## DM Notes
-- Daytime Duskwatch = **mundane + eerie**, NPCs give little.  
-- Nighttime Duskwatch = **evidence** (sleepwalkers, doubles, vanishings).  
-- Nightmare Realm = **answers**, but must be pieced together.  
+- **Daytime:** Subtle weirdness, surface-level clues only.  
+- **Nighttime:** Active dream-bleed, visual illusions, doubles, whispers.  
+- **Nightmare Realm:** Truth and confrontation — clues fully connect.
 
 ---
 
 ## Linked Notes
-- [[Duskwatch – Nightmare Mechanics]]  
-- [[Missing Shipments – Duskwatch]]  
-- [[Missing Scouts – Duskwatch]]  
+- [[Duskwatch – Nightmare Mechanics]]
+- [[Missing Shipments – Duskwatch]]
+- [[Missing Scouts – Duskwatch]]
+- [[Duskwatch Paranoia Prompts]]
