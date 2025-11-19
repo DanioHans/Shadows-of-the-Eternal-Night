@@ -8,55 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57d882fc5e5d390a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Duskwatch – Paranoia Effects"
-            }
-          },
-          {
-            "id": "3f1e4711a84cb591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shadows of Eternal Night/Session prep/Session 6 - The Village Between Dreams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 6 - The Village Between Dreams"
-            }
-          },
-          {
             "id": "02dab3ceee32b32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Eternal Night/Session prep/Session 7 - The Village Between Dreams.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 7 - The Village Between Dreams"
+            }
+          },
+          {
+            "id": "8929193b8df260e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Eternal Night/Mechanics/Spells/Necrotic/Vitae Transference.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vitae Transference"
+            }
+          },
+          {
+            "id": "e49b4028e693aabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,31 @@
             }
           },
           {
-            "id": "8929193b8df260e7",
+            "id": "9e2f590003cc83cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch - Points of Interest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Duskwatch - Points of Interest"
+            }
+          },
+          {
+            "id": "77651a8e6e92c95e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,9 +126,32 @@
               "icon": "lucide-file",
               "title": "Duskwatch – Investigation Leads"
             }
+          },
+          {
+            "id": "6e6135b9b2639b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Duskwatch – Paranoia Effects"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +217,6 @@
       {
         "id": "ffabe2385daee2e5",
         "type": "tabs",
-        "dimension": 53.051643192488264,
         "children": [
           {
             "id": "ffab8a5f322abf81",
@@ -226,23 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadows of Eternal Night/Session prep/Session 3 – The Slum Tannery.md",
+                "file": "Shadows of Eternal Night/Session prep/Session 7 - The Village Between Dreams.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 3 – The Slum Tannery"
-            }
-          },
-          {
-            "id": "eee2b498f1cb262a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Session 7 - The Village Between Dreams"
             }
           },
           {
@@ -264,14 +300,23 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "6edbba902eeec2ec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "5f08d7eb752a0fdd",
         "type": "tabs",
-        "dimension": 23.474178403755868,
         "children": [
           {
             "id": "f632c6817fc5445e",
@@ -284,27 +329,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "75f2b4f78ab6ef53",
-        "type": "tabs",
-        "dimension": 23.474178403755868,
-        "children": [
-          {
-            "id": "0ce8241fc93f0266",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 511.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,46 +348,45 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "eee2b498f1cb262a",
+  "active": "e37277ae783d04c7",
   "lastOpenFiles": [
-    "Duskwatch Paranoia Prompts.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch - Points of Interest.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Investigation Leads.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Scouts – Duskwatch.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
+    "Shadows of Eternal Night/Session prep/Session 7 - The Village Between Dreams.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/void rune.png",
+    "Shadows of Eternal Night/Mechanics/Spells/Necrotic/Vitae Transference.md",
     "Shadows of Eternal Night/Session prep/Session 6 - The Village Between Dreams.md",
+    "Shadows of Eternal Night/Session prep/Session 2 - Interrogation & Investigation.md",
+    "Kyron.pdf",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch Minidungeon.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch.md",
+    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities/The Hollow Dreamer.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Nightmare Mechanics.md",
+    "Untitled 2.base",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Shipments – Duskwatch.md",
+    "Samson the Necromancer.pdf",
+    "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Royal Arcanum of Velaris.md",
+    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Drowned Scout Encounter.md",
+    "Shadows of Eternal Night/Mechanics/Spells/Necrotic",
+    "Duskwatch Paranoia Prompts.md",
     "Shadows of Eternal Night/Characters/Ivor.md",
     "Shadows of Eternal Night/Characters/Scrap.md",
     "Shadows of Eternal Night/Characters/Merios.md",
     "Shadows of Eternal Night/Characters/Kyron.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch - Points of Interest.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Scouts – Duskwatch.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Investigation Leads.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Nightmare Mechanics.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Drowned Scout Encounter.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch.md",
     "Shadows of Eternal Night/Session prep/Session 5 – Road to Duskwatch.md",
     "Session Notes/Session 4 9-10-2025.md",
     "Shadows of Eternal Night/Creatures & Monsters/Aberration/Chain-Kraken.md",
     "Shadows of Eternal Night/Locations/Velaris/Caer Hollow/Caer Hollow.md",
     "Shadows of Eternal Night/Session prep/Filler session - The Shattered Ship.md",
-    "Shadows of Eternal Night/Creatures & Monsters/Monstrosities/Verdant Basilisk.md",
     "Scrap and Vixen.pdf",
-    "Shadows of Eternal Night/Creatures & Monsters/Humanoid/Mutiny crew.md",
     "Shadows of Eternal Night/Maps/Void Galleon.png",
-    "Shadows of Eternal Night/Creatures & Monsters/Aberration/Shadow-Doubles.md",
     "Shadows of Eternal Night/Creatures & Monsters/Undead",
-    "Shadows of Eternal Night/Creatures & Monsters/Undead/Nightmare Shade.md",
     "Shadows of Eternal Night/Maps",
     "Shadows of Eternal Night/Creatures & Monsters/Humanoid",
     "Shadows of Eternal Night/Creatures & Monsters/Aberration",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Travel Encounters – Duskwatch Route.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Missing Shipments – Duskwatch.md",
-    "Shadows of Eternal Night/Locations/Velaris/Briarford/Briarford.md",
-    "Shadows of Eternal Night/Locations/Tharion.md",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch/void rune.png",
     "Untitled 1.base",
-    "Untitled.base",
-    "Shadows of Eternal Night/Locations/Velaris/Briarford",
-    "Shadows of Eternal Night/Creatures & Monsters/Humanoid/Magical",
-    "Shadows of Eternal Night/Locations/Velaris/Duskwatch",
     "Pasted image 20240710221807.png"
   ]
 }
