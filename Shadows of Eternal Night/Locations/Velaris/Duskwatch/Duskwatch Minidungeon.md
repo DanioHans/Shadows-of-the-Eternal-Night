@@ -41,7 +41,7 @@ Distorted illusions of Crownwatch, Cradle Tower, and undead imagery flood the sp
 A circular arena where the Hollow Dreamer fights to maintain its hold on the village.
 
 *See:*  
-**[[Hollow Dreamer – Boss Fight]]**
+**[[Hollow Dreamer - Boss Fight]]**
 
 ---
 
@@ -130,7 +130,7 @@ Arena traits:
 - Terrain shifts reflecting collective fear
 
 See full details here:  
-**[[Hollow Dreamer – Boss Fight]]**
+**[[Hollow Dreamer - Boss Fight]]**
 
 ---
 
@@ -152,5 +152,5 @@ The village begins to stir.
 - [[Duskwatch – Investigation Leads]]  
 - [[Duskwatch – Paranoia Effects]]  
 - [[Missing Scouts – Duskwatch]]  
-- [[Hollow Dreamer – Boss Fight]]  
+- [[Hollow Dreamer - Boss Fight]]  
 - [[Duskwatch - Points of Interest]]
