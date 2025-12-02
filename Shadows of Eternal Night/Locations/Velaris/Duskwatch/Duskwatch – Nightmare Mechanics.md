@@ -1,160 +1,208 @@
-# Duskwatch – Nightmare Realm (Hostile Revision)
+# Duskwatch – Nightmare Realm (Revised, Consistent Version)
 
-The Nightmare Realm is Duskwatch’s dream-self: familiar but drained of warmth.  
-Here, the villagers’ **bodies wander on instinct**, acting like dream-walkers with no reason or restraint.  
-They lash out not from malice, but from **reflexive terror**, like people caught in a nightmare thrashing at shadows.
+The Nightmare Realm of Duskwatch is **not a separate plane**, but a projected overlay of the village’s collective fear and memory — a **dream-copy** anchored to physical locations.  
+The villagers’ minds are trapped inside it; their bodies wander the Material world on instinct.
 
-This version is for the FIRST NIGHT — exploratory but dangerous.
-
----
-
-## Hostile NPC Behaviour
-
-### General Rule
-Nightmare villagers attack **only when approached**, startled, or spoken to.
-
-They are not hunting the PCs — they are:
-- confused,
-- half-conscious,
-- stuck in fear loops.
-
-### Behaviour Pattern
-- They move jerkily, as if frames are missing.
-- They whisper fragments without meaning.
-- They grasp or swing when something enters their personal space.
-- They do NOT pursue more than 10–20 feet.
-- They do NOT speak coherently unless tied to a clue.
-
-### Mechanics
-Use **Commoner + 1 weird ability**:
-
-**Nightmare Villager**  
-- AC 10, HP 7  
-- Slam +2 to hit, 1d4 bludgeoning  
-- *On hit:* PC must succeed Wis DC 12 or feel a jolt of someone else's fear (disadvantage on next attack)
-
-This keeps them threatening but not deadly.
-
-### Three Types of Villagers
-You can mix these:
-
-1. **Passive Looped Villagers**  
-   - Continue their task unless disturbed.  
-   - Attack only if touched or spoken to loudly.
-
-2. **Startled Thrashers**  
-   - React aggressively the moment someone enters their line of sight.  
-   - Swing wildly in fear.
-
-3. **Sleepwalk Seekers** *(rare)*  
-   - Walk toward the PCs slowly once spotted.  
-   - Don’t run. Don’t stop.  
-   - Attack only if they reach melee.
-
-These create tension without overwhelming combat.
+The party has already visited this realm once.  
+The following rules refine and expand what they experienced.
 
 ---
 
-## Nightmare Oddities (Kept Grounded)
+# 🌑 Entry & Exit Rules
 
-Use these lightly to maintain dream atmosphere without extreme surrealism:
+## **How PCs Enter**
+These triggers are consistent with prior events:
 
-- Chairs slowly pivot to face the PCs.
-- A broom continues sweeping with no one holding it.
-- A door opens half an inch when no one touches it.
-- Reflections blink slower than the PCs.
-- Footsteps echo one extra time.
+### **1. Sleep in Duskwatch
+- On long rest: Wis save DC 13  
+  - **Fail:** Pulled into the Nightmare Realm  
+  - **Success:** Remain awake but gain 1 level of exhaustion  
 
-These are sensory cues — not big distortions.
+### **2. Storm Exposure / Emotional Shock**
+If PCs directly witness:
+- reflections moving independently,  
+- villagers converging on them,  
+- drowning attempts,  
+
+they may be pulled into the projection briefly.  
+(Use this optionally as a dramatic tool.)
+
+### **3. Direct Anchor Contact**
+Touching an anchor (fountain, well, carved mark) during an “active pulse” pulls them in.
+
+*Players have already brushed near this threshold.*
 
 ---
 
-## Locations (Nightmare Variants with Hostile NPCs)
+## **How PCs Leave**
+These match last session's mechanics and reinforce dream logic.
 
-### 1. **The Fountain Square**
-- Water still, perfectly dark.  
-- 2–4 villagers stand submerged up to their thighs.  
-- They don’t move until PCs get close — then they **grab wrists or ankles**, attacking mindlessly.  
+### **1. Pain / Critical Danger**
+A PC who takes heavy damage (≥ 10 in one attack) may make a Wis save DC 15 to wake abruptly.
+
+### **2. Physical Shock from Another Real PC**
+A PC in the waking world can forcibly wake a sleeper with:
+- a strong shake,  
+- a slap,  
+- yelling,  
+- splashing water.
+
+(Samsons waking everyone with forehead flicks is now canonically “a valid method.”)
+
+### **3. Leaving an Anchor Zone**
+Returning to the location where they entered (e.g., well surroundings, manor hearth) stabilizes their consciousness.
+
+### **4. Projection Stability Drop**
+If the projection flares or destabilizes (DM choice), PCs are expelled.
+
+---
+
+# 🌑 General Tone & Atmosphere
+
+The Nightmare Realm is:
+- familiar but hollow,  
+- drained of color,  
+- off by fractions — not wildly surreal,  
+- reactive to **fear, memory, and expectation**.
+
+Rather than monstrous horrors, the threat is:
+- villagers acting out nightmare reflexes,  
+- reality repeating,  
+- reflections disagreeing with reality,  
+- doors and chairs reacting subtly to PCs.
+
+This makes the space unsettling without overwhelming.
+
+---
+
+# 🌑 Villagers in the Nightmare Realm
+
+Villagers are not zombies or ghosts —  
+they are **dream-walkers**, stuck in fear loops.
+
+## Core Behaviors (Consistent With Last Session)
+
+- Move in incomplete “frames,” skipping or jerking.  
 - Whisper loops:  
-  > “I’m late… I’m late… I’m late…”
+  > “late… late…late…”  
+  > “help me…help…me…”  
+- Recognize PCs only as threats or shadows.  
+- Lash out unpredictably when approached.  
+- Do **not** pursue far.  
+- Attempt drowning if PCs stumble near water.  
+- Rarely speak lucid fragments.
 
-### 2. **The Inn (Gull’s Rest)**
-- All chairs facing toward the door.  
-- A bartender polishing a glass — the cloth is dripping ink.  
-- The moment a PC speaks above a whisper, **3 villagers snap their heads toward them** and charge.  
-- Their attacks feel like frantic flailing, not aimed strikes.
+## Mechanical Guidelines
 
-### 3. **The Watchtower**
-- Villager halfway up the stairs, crawling on hands and knees.  
-- If PCs pass him, he lashes out blindly.  
-- At the top, a nightmare echo of Salen scribbles furiously in a book that fills with ink.  
-- He becomes hostile if his name is spoken.
+### **Nightmare Villager**
+- AC 10, HP 7  
+- Slam: +2 to hit, 1d4 bludgeoning  
+- On hit: Wis save DC 12 or PC experiences someone else’s fear → disadvantage next attack
 
-### 4. **Hunter’s Hut** (optional)
-- One villager sits at the table carving symbols.  
-- If the PCs turn their back to him, he immediately stands and attacks from behind.  
-- His carving tool counts as a dagger.
-
-### 5. **Roads and Paths**
-- Shapes move along the horizon — villagers wandering in loops.  
-- If the party shines light or speaks loudly, **one breaks from the path** and approaches without stopping.
+### Types
+1. **Loopers** – stuck repeating a task  
+2. **Thrashers** – lash out when startled  
+3. **Seekers** – slow, steady walkers who attempt to “join” PC movement  
+4. **Echo-Walkers** *(rare)* – imitate the PCs' actions with slight delay
 
 ---
 
-## Optional Combat Encounters (Light)
+# 🌑 Nightmare Oddities (Moderate, Grounded)
 
-### Encounter A — “Sleepwalker Convergence”
-Trigger: PCs stay too long in one spot.
+Use lightly:
 
-3–6 villagers slowly converge, surrounding the party like sleepwalkers.  
-They attack only when within melee, flailing wildly.
+- Chairs pivoting to face PCs.  
+- Lanterns flicker without flame.  
+- Footsteps echo twice.  
+- Words spoken aloud repeat in a whisper just after.  
+- Pages turn on their own but show only scribbles.  
+- Shadows linger a half-second longer than the body.
 
-This fills time and pressure without danger of a TPK.
-
-### Encounter B — “The Tattered Shape”
-A single weak nightmare creature (use Shadow with 50% HP).  
-It stalks them from behind buildings but attacks only if approached.
-
----
-
-## Clues & Interactions (Still Available)
-
-Villagers *can* still deliver fragmented clues, but only if:
-- The PCs restrain them, or  
-- The PCs succeed a Wis (Insight) check DC 14 to calm them, or  
-- They speak a certain name that startles the villager into Lucidity.
-
-Example lucid lines:
-- “The well… the well… he waits…”  
-- “We sank in the dark…”  
-- “Don’t wake him.”  
-- “Don’t follow the echoes.”  
-
-Then they revert to hostile thrashing.
+These echo the players’ first experience.
 
 ---
 
-## Tone & Intent
+# 🌑 Nightmare Variants of Locations
 
-This version should feel:
-- Threatening but navigable  
-- Like walking inside someone else’s nightmare  
-- Familiar locations, but wrong in subtle ways  
-- Hostile NPCs that act out dream logic, not malice  
-- No clone-combat yet  
-- No dungeon entry unless *they choose or you force cliffhanger*
+These expand what the party already saw and offer hooks for Session 9.
+
+### **Fountain Square**
+- Black, unmoving water.  
+- 2–4 villagers partially submerged.  
+- They grab ankles or hands if PCs approach.  
+- Lucid line (if calmed):  
+  > “He listens from below…”
+
+This is where you can place the **scout’s vision echo**:  
+A brief apparition of S. Kett writing or whispering his final lines.
 
 ---
 
-## Session 8 Goals with Hostile NPCs
+### **Inn – Gull’s Rest**
+Matches last session’s vibes:
 
-- Let the party explore Nightmare Duskwatch  
-- Discover the clues they missed  
-- Learn villagers are trapped but dangerous  
-- Feel mounting pressure toward the well  
-- Possibly run one small combat  
-- End with either:
-  - **Waking up abruptly**, or  
-  - **Finding the well and choosing to approach**, or  
-  - **A cliffhanger where reflections converge**
+- All chairs face the door.  
+- Bartender loops through motions; cloth drips dark ink.  
+- Speaking above a whisper triggers 2–4 villagers snapping heads toward the party.
+
+Clue the players might note:
+> The cellar door in the dream is **absent**, hinting the projection “forgets” hidden spaces.
+
+---
+
+### **Watchtower**
+Expands what happened previously:
+
+- A villager crawling up the stairs, mumbling.  
+- At the top, a distorted echo of a scout (Salen or Tobias) scribbling in a blank book.  
+- If PCs say his name, he becomes lucid for one line:  
+  > “We sank into the dark… all of us…”
+
+Then he attacks.
+
+---
+
+### **Hunter’s Hut (Optional)**
+- A villager seated, carving patterns.  
+- If PCs break eye contact, he stands instantly and attacks.  
+- Carving resembles half-finished anchor marks.
+
+---
+
+### **Roads and Perimeters**
+- Shape-shadows walking straight, looping routes.  
+- If PCs shine light:  
+  one breaks from the loop and begins approaching.
+
+---
+
+# 🌑 Optional Combat (Light)
+
+### **Sleepwalker Convergence**
+- 3–6 villagers slowly surround PCs.  
+- Start combat only when they reach melee.
+
+### **Tattered Shape (Weak Shadow)**
+A weakened echo of the Echo-Born influence.
+
+- Use *Shadow* with 1/2 HP.  
+- Stalks them but does not engage unless provoked.
+
+---
+
+# 🌑 Lucid Clues (Given Only in Calm Moments)
+
+These should be rare and cryptic:
+
+- “The well… he waits…”  
+- “Dark below… dark above…”  
+- “Don’t wake him…”  
+- “We sank… together…”  
+- “Follow… the echoes…”
+
+These hint at:
+- the parasite,  
+- the final scout vision,  
+- the well entrance,  
+- the anchor network.
 
