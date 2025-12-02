@@ -128,6 +128,18 @@
             }
           },
           {
+            "id": "271b44df72b8a8a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "6e6135b9b2639b5f",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -349,7 +361,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "77651a8e6e92c95e",
+  "active": "271b44df72b8a8a2",
   "lastOpenFiles": [
     "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch – Paranoia Effects.md",
     "Shadows of Eternal Night/Session prep/Session 8 – “When Shadows Wake”.md",
