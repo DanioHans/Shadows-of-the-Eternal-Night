@@ -1,225 +1,228 @@
-# The Hollow Dreamer – Shattered Fountain Battle
+# Hollow Dreamer – Narrative Combat Guide
+*Descriptions, tells, and atmospheric beats during the fight.*
 
-**Location:** Duskwatch Minidungeon (Nightmare Realm)  
-**Role:** Parasite-bound nightmare entity feeding on fear & fractured memory  
-**Encounter Type:** 2-Phase Boss • Movement-Oriented • Horror Themes  
-**Party Level:** 6 PCs (Level 4)  
-**Difficulty:** Hard but controlled  
-**Theme:** Dreambreaking, echoes, illusions, corrupted memory
+The Hollow Dreamer is a warped villager-puppet, the parasite inside forcing the body like a marionette.  
+Use **jerky movement**, **pressure under the skin**, and the **porcelain mask** as recurring motifs.
 
 ---
 
-## Overview
+# 🧩 Arena Overview (Before the Fight)
 
-The Hollow Dreamer is a warped nightmare manifestation of the missing lord of Duskwatch, twisted by an Echo-Born parasite. It exists only within the Nightmare Realm and maintains the village-wide dream overlay. This fight closes the Duskwatch arc and introduces players to *tactical boss mechanics*.
+**Location:** A twisted echo of the Duskwatch fountain square.  
+- The stone is darker here, like soaked with shadow.  
+- The fountain is intact, its water unnaturally still.  
+- Buildings lean slightly inward, wrong angles but recognizable shapes.
 
-Arena shape and mechanics evolve between phases, emphasizing movement and positioning.
-
----
-
-# Phase 1 — *“The Dream Takes Shape”*
-
-## Arena: Intact Fountain Square
-- Central fountain present.  
-- Normal movement.  
-- Buildings shimmer as though underwater.  
-- Shadows move one beat out of sync.
-
-## Boss Behavior
-- Slow drifting around the fountain.  
-- Soft-control attacks, limited adds.  
-- Light telegraphs to teach movement.
-
-## Phase 1 Abilities
-
-### **Nightmare Lash**
-- Psychic melee strike  
-- Causes disadvantage on next attack unless Wis save succeeds
-
-### **Claw**
-- Light slashing damage  
-- Used as part of multiattack
-
-### **Multiattack**
-1× Lash + 1× Claw
+A faint hum vibrates in the air — like the sound of someone breathing just behind your ear.
 
 ---
 
-### **Psychic Ripple (Cone Burst)**  
-*Recharge 5–6*  
-15 ft cone of psychic static.  
-- Dex or Wis save DC 14  
-- Fail: moderate psychic damage + pushed 5 ft  
-- Success: half, no push
+# 😨 Boss Entrance
+
+The humanoid shape stands motionless beside the fountain.  
+A villager’s body stretched thin, skin waxlike, veins blackened.  
+A cracked porcelain half-mask covers the face, leaking dark tear-tracks.
+
+**Read-aloud:**
+
+> The figure twitches — once — then its head lifts sharply, mask splitting a little further as a whisper spills out:  
+> “Stop… please… don’t…”  
+>  
+> Its arm jerks upward, bones cracking as its fingers lengthen into splintered talons.  
+> The Dreamer is awake.
 
 ---
 
-### **Echo Wisps**  
-Summons 1d3 weakened Shadow-like creatures that:  
-- Have low HP  
-- Deal light psychic damage  
-- Disappear if >20 ft from Dreamer
+# ⚔️ Phase 1 Descriptions (Normal Arena)
 
-Designed as pressure, not threats.
+### **Multiattack (Claw + Psychic Lash)**  
+**Claw:**  
+- Arm snaps forward like a puppet jerked on strings.  
+- Fingers splinter into jagged bone-talons only for the instant of the strike.  
+- The mask cracks slightly more with every physical impact.
 
----
-
-### **Marked Ground**  
-A 10 ft circle glows faintly until next round.  
-At start of Dreamer’s turn:  
-- Anyone inside takes moderate unavoidable psychic damage.  
-(Reward for moving early.)
+**Psychic Lash:**  
+- A thin whip of shadow tears free from beneath the mask or from cracks in the skin.  
+- It lashes outward with a high-pitched whisper, like breath through teeth.  
+- Leaves a fading smear of darkness in the air.
 
 ---
 
-# Phase Transition — *“The World Splits”*
+### **Psychic Ripple (Single-target psychic burst)**  
+Visual tell:  
+- The Dreamer tilts its head, fixating on someone.  
+- The black veins pulse outward from its heart to its limbs.  
+- A pressure-wave distorts the air around the target.
 
-Triggered at **50% HP**.
-
-## Round 1 — *Shattering*  
-- Fountain collapses into a swirling void.  
-- Ground splits into four quadrants.  
-- Entire area becomes difficult terrain.  
-- Dreamer vanishes.
-
-*No attacks this round.*
-
-## Round 2 — *Psychic Drag*  
-A gravitational pull toward the central void.
-
-- STR save DC 14  
-- Fail: pulled 10 ft inward; if falling, take minor psychic damage  
-- PC reappears on nearest safe quadrant
-
-Dreamer reappears on the edge of Quadrant 1.
+Read-aloud:  
+> “The creature’s mask turns toward you — and for a heartbeat, your own fears echo back at you.”
 
 ---
 
-# Phase 2 — *“The Ring of Broken Dreams”*
+### **Marked Ground (10 ft psychic eruption)**  
+**Tell:**  
+- The stone beneath a chosen spot begins to tremble.  
+- Hairline cracks glow dull purple.  
+- A low hum vibrates under the PCs’ boots.
 
-## Arena: The Shattered Donut
-- Four quadrants forming a circular ring  
-- Gaps of 5–8 ft between each quadrant (jumpable)  
-- Dreamer moves **clockwise**, one quadrant per round  
-- Quadrants drift slightly (purely cosmetic)
+**Resolution:**  
+- The ground *erupts* upward in a silent burst of psychic force.  
+- No explosion sound — more like a sudden pressure change.  
+- Nearby dust jumps upward then falls flat.
 
-Emphasis: movement, avoidance, light repositioning.
-
----
-
-## Phase 2 Abilities
-
-### **Quadrant Mark (Primary Mechanic)**  
-At Initiative 20:  
-- Dreamer marks **one quadrant** (pulsing sigil).  
-On Dreamer’s next turn:  
-- The quadrant detonates in psychic inversion.  
-- Dex save DC 14  
-- Fail: moderate psychic damage + disadvantage  
-- Success: half
-
-**Below 35% HP:**  
-- Two opposite quadrants are marked.
+Good line:  
+> “The ground beneath you warps like a heartbeat under stone.”
 
 ---
 
-### **Echo Doubles**  
-Summons 1–2 partial PC clones in *unmarked quadrants*, forcing rotation.  
+# 🕳️ Battlefield Action (Phase 1 & 2): Shadow Echo
 
-Echo Double highlights:  
-- Low AC/HP  
-- Light psychic melee  
-- Dissipates if too far from Dreamer
+### **Tell:**  
+- A PC’s shadow *pulls away* from their feet, stretching a half-second behind them.  
+- A small rune flares beneath them — not bright, but sharp.  
+- Their silhouette begins to peel off the ground.
 
-Purpose: block routes, not kill.
+Read-aloud:  
+> “Your shadow ripples… then lifts from the ground like wet parchment peeling loose.”
 
----
+### **If not destroyed:**  
+- It rises into a crude humanoid outline of the PC.  
+- Movements are delayed, jerky, wrong.  
+- No face — just hollow eye-sockets of darkness.
 
-### **Reality Tear**  
-30 ft line following a quadrant boundary.  
-- Dex save DC 13  
-- Light–moderate force dmg  
-Encourages repositioning.
-
----
-
-### **Pull of the Dreamer**  
-If Dreamer takes >20 damage in a single round:  
-- All creatures in its quadrant make Wis save DC 14  
-- Fail: pulled 5 ft toward Dreamer  
-- Success: no effect
-
-Soft repositioning tool.
+> “The shadow stands. And turns toward you.”
 
 ---
 
-# Death Sequence — *“Cut the Cords”*
+# 💥 Phase Transition Sequence
 
-At 10% HP the Dreamer collapses into a tangle of nightmare thread.
+When the Dreamer hits 60 HP:
 
-## Step 1 — *Sever the Tethers*
-Four spectral tendrils anchor it to the quadrants.
+### **Shattering Reality**  
+- A sharp crack splits the air — like stone breaking underwater.  
+- The fountain *fractures*, pieces of reality falling upward instead of down.  
+- The ground around the PCs trembles violently.
 
-**Tendril stats:**  
-- Low AC  
-- Low HP  
-- Vulnerable to radiant  
-PCs must destroy **at least two** to stop regeneration.  
-Destroying all four grants advantage on Step 2.
+**Arena tears apart** into floating ring-shaped platforms.
 
----
-
-## Step 2 — *Expose the Core*
-A suspended memory-heart hovers above the central void.
-
-**Core Stats:**  
-- Low AC  
-- 25 HP  
-- Resist nonmagical B/P/S  
-- Vulnerable radiant (+5 dmg)
-
-PCs have **1–2 rounds** to finish it before collapse.
-
-On destruction:
-- Arena implodes  
-- PCs awaken in real Duskwatch  
-- Runes crack and dissolve  
-- Villagers wake gasping  
-- Parasite dies  
+Read-aloud:  
+> “The square collapses outward, stone drifting away like broken shards of a dream.  
+> You’re left standing on floating platforms circling the shattered fountain… now a hollow void.”
 
 ---
 
-# Loot
+### **Psychic Drag (Transition Round Effect)**  
+- A pull drags everything toward the center.  
+- Dust streams inward.  
+- Loose stones skate across the platform edges.
 
-## **Dream-Glass Vein**  
-*Wondrous Item, Uncommon, Cursed*
+> “A dragging force tugs at your bones — not wind, not gravity, but something deeper.”
 
-A thin shard of fused dreamstuff and glass.
-
-### Benefits  
-- +1 to **Insight**  
-- Advantage on saves vs **Charmed** or **Frightened**  
-- Once per day:  
-  Speak a question aloud →  
-  Within 10 minutes, the shard whispers a cryptic hint related to danger or mystery.
-
-### Hidden Curse (discover on first trigger)  
-After using the question ability, roll 1d6:
-
-1 — A whisper follows you until next long rest  
-2 — Disadvantage on your first Wis save next day  
-3 — A nightmare villager appears in your peripheral vision  
-4 — Your reflection lags one second behind  
-5 — No effect  
-6 — The shard keeps a piece of your dream-essence  
-(After 3 charges: a **Shadow Double** of the PC appears in a future arc)
+This warns players without stating mechanics.
 
 ---
 
-## Links  
-- [[Duskwatch Minidungeon]]  
-- [[Duskwatch – Nightmare Realm]]  
-- [[Shadow-Doubles]]  
-- [[Echo-Born Parasite]]  
-- [[Session 9]]  
-- [[Hollow Dreamer Arena Map]]  
+# 🔥 Phase 2 Descriptions (Ring Platform Arena)
+
+### **Dreamer’s New Presence**
+Its body contorts further:
+- Limbs longer  
+- Mask cracked open on one side  
+- Faint tendrils leak light from under the skin  
+
+Voice is layered now — multiple villagers whispering at once.
+
+---
+
+## 🟥 Battlefield Action (Phase 2 Only): Quadrant Mark
+
+### **Tell:**  
+- One platform quadrant’s stone darkens.  
+- Spirals of psychic sigils appear like frost: branching, delicate, ominous.  
+- Hair rises on the PCs’ arms.
+
+> “The stone beneath you begins to draw symbols in light — spirals crawling across the platform.”
+
+### **Resolution:**  
+- Sigils flare white-hot, then **detonate silently**.  
+- A wave of psychic force ripples outward.  
+- Anyone left on that quadrant feels minds and memories jolt.
+
+---
+
+# ⚡ Legendary Actions (Always Described Visually)
+
+### **Nightmare Glare**  
+- The Dreamer turns its cracked mask fully toward a PC.  
+- A tendril of darkness coils behind the mask’s eye-slit.  
+- Vision blurs with phantom images.  
+
+> “Its gaze settles on you — and for a moment, your own reflection looks afraid.”
+
+---
+
+### **Shift Along the Ring**  
+- The Dreamer jerks out of reality.  
+- A streak of shadow lingers where it was.  
+- It reappears on another platform with a sudden snapping motion.
+
+> “It vanishes in a smear of darkness — then snaps into place across the ring.”
+
+---
+
+### **Echo Knockback**  
+- A pulse of force bursts outward from its chest or mask.  
+- Not an explosion — a shove from inside your own mind.
+
+> “A psychic shock slams outward — your balance slips as the platform tilts beneath you.”
+
+---
+
+# ☠️ Death Sequence (Descriptive)
+
+### **Stage 1: Tendrils Exposed**
+- Mask splits fully and falls away.  
+- Black tendrils erupt from its chest, rooting into the ground.  
+- Whispering becomes frantic and overlapping.
+
+> “The mask shatters — and something writhes out, anchoring itself like roots made of shadow.”
+
+PCs must sever tendrils (attacks / checks).
+
+---
+
+### **Stage 2: Core Collapse**
+- The host body collapses into itself.  
+- The tendrils retract violently.  
+- A pulsing, dim core of congealed shadow hovers in the air.
+
+> “As the tendrils fall away, only a pulsing knot of nightmare remains — beating like a terrified heart.”
+
+Players have one round to finish it.
+
+---
+
+### **Final Moment**
+- The core cracks like glass.  
+- Pressure lifts.  
+- Villager-body falls lifeless, mask pieces scattered.
+
+> “The dream breaks.  
+> And the nightmare dissolves.”
+
+---
+
+# 🎭 Tone Guide
+
+Keep the feel:  
+- **Tragic, not monstrous** — this was a villager.  
+- Grounded physicality: bone, mask, whispers.  
+- Subtle nightmare, not cosmic horror.  
+- Each attack has a bodily component + a dream component.
+
+---
+
+If you’d like, I can now:  
+✨ Add a **one-page DM quick reference**  
+✨ Add **Echo Shade descriptive notes**  
+✨ Add a **read-aloud intro and outro** for the full fight

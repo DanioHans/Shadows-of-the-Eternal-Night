@@ -1,79 +1,67 @@
 
 ```statblock
 layout: Basic 5e Layout
-name: "The Hollow Dreamer"
+name: "Hollow Dreamer"
 size: Large
 type: Aberration
 alignment: chaotic evil
 ac: 15
 hp: 140
-hit_dice: 16d12+32
-speed: 20 ft., hover 30 ft.
-stats: [14, 16, 18, 12, 16, 18]
+hit_dice: 16d10+26
+speed: 30 ft., hover 30 ft.
+stats: [14, 16, 14, 12, 18, 16]
 saves:
-  - Wis +6
-  - Cha +7
+  - Wis +7
+  - Dex +6
 skillsaves:
-  - Insight +6
-  - Deception +7
-damage_resistances: psychic; bludgeoning, piercing, slashing (nonmagical)
-condition_immunities: charmed, frightened, prone, unconscious
-senses: darkvision 120 ft., passive Perception 13
-languages: Deep Speech, telepathy 60 ft.
+  - Insight +7
+  - Perception +7
+damage_resistances: psychic; bludgeoning, piercing, slashing from nonmagical attacks
+condition_immunities: charmed, frightened, unconscious, prone
+senses: darkvision 120 ft., passive Perception 17
+languages: telepathy 60 ft.
 cr: 7
 
 traits:
-  - name: "Two-Phase Encounter"
-    desc: "Phase 1 from 140–71 hp (intact square). Phase 2 from 70 hp or less (shattered ring). At 14 hp or less, trigger Death Sequence instead of dropping to 0 immediately."
+  - name: "Hovering"
+    desc: "The Hollow Dreamer hovers and does not fall unless forced downward."
 
-  - name: "Nightmare Form"
-    desc: "The Hollow Dreamer can hover over solid ground but cannot enter the central void in Phase 2. It can move freely along the ring."
+  - name: "Phase Shift"
+    desc: "When reduced to 70 HP, the Hollow Dreamer immediately triggers its Phase Transition (see encounter notes)."
+
+  - name: "Dream-Form"
+    desc: "The Hollow Dreamer can move through other creatures and objects as if they were difficult terrain. It takes 5 psychic damage if it ends its turn inside an object."
 
 actions:
   - name: "Multiattack"
-    desc: "The Hollow Dreamer makes two attacks: one with Nightmare Lash and one with Claw."
-
-  - name: "Nightmare Lash"
-    desc: "Melee Spell Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) psychic damage. The target must succeed on a DC 13 Wisdom saving throw or has disadvantage on the next attack roll it makes before the end of its next turn."
+    desc: "The Hollow Dreamer makes two attacks: one Claw and one Psychic Lash."
 
   - name: "Claw"
-    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage."
+    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4+4) slashing damage."
 
-  - name: "Psychic Ripple (Recharge 5–6, Phase 1 only)"
-    desc: "The Hollow Dreamer unleashes psychic static in a 15-foot cone. Each creature in the area chooses to make a DC 14 Dexterity or Wisdom saving throw. On a failed save, a creature takes 8 (2d6 + 1) psychic damage and is pushed 5 feet away from the Dreamer. On a success, the creature takes half damage and is not pushed."
+  - name: "Psychic Lash"
+    desc: "Ranged Spell Attack: +7 to hit, range 30 ft., one target. Hit: 14 (3d6+4) psychic damage."
 
-  - name: "Summon Echo Wisps (Phase 1 only)"
-    desc: "The Dreamer summons 1d3 Echo Wisps in unoccupied spaces within 30 feet. Each uses the Shadow stat block with 7 hit points, no Strength Drain feature, and deals 5 (1d6 + 2) psychic damage on a hit. Echo Wisps vanish if they end their turn more than 20 feet from the Dreamer."
+  - name: "Psychic Ripple"
+    desc: "One creature the Dreamer can see must make a DC 15 Wisdom saving throw, taking 11 (2d8+2) psychic damage on a failed save, or half as much on a success."
 
-  - name: "Marked Ground (Phase 1 only)"
-    desc: "The Dreamer marks a 10-foot-radius area on the ground it can see within 60 feet. The area glows faintly until the start of the Dreamer’s next turn. When that turn begins, each creature in the area takes 8 (2d6 + 2) psychic damage. This ability has no saving throw; it is avoided by leaving the area."
-
-  - name: "Reality Tear (Phase 2 only)"
-    desc: "The Dreamer tears along the boundary between two quadrants. Each creature in a 30-foot line originating from the Dreamer along a quadrant edge must make a DC 13 Dexterity saving throw, taking 9 (2d6 + 2) force damage on a failed save, or half as much damage on a successful one."
-
-  - name: "Summon Echo Doubles (Phase 2 only)"
-    desc: "The Dreamer summons 1 or 2 Echo Doubles in unoccupied spaces in unmarked quadrants within 30 feet. Each Echo Double has AC 12, 12 hit points, speed 30 ft., and one attack: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) psychic damage. An Echo Double disappears if it ends its turn more than 30 feet from the Dreamer."
-
-  - name: "Pull of the Dreamer (Trigger: Takes 20+ damage in a round, Phase 2 only)"
-    desc: "Each creature in the same quadrant as the Dreamer must succeed on a DC 14 Wisdom saving throw or be pulled 5 feet closer to the Dreamer. This movement does not provoke opportunity attacks."
+  - name: "Marked Ground"
+    desc: "A 10 ft. radius area within 40 ft. erupts with psychic force. Each creature in the area must make a DC 15 Dexterity saving throw, taking 13 (3d6) psychic damage on a failed save, or half as much on a success."
 
 legendary_actions:
-  - name: "Quadrant Mark (Phase 2 only)"
-    desc: "The Dreamer targets one quadrant of the ring that it can see. That quadrant becomes marked until the start of the Dreamer’s next turn. At the start of its next turn, each creature in the marked quadrant must make a DC 14 Dexterity saving throw, taking 10 (3d6) psychic damage on a failed save, or half as much on a success, and has disadvantage on the next attack roll it makes before the end of its next turn on a failed save. While the Dreamer has 70 hit points or fewer, it instead marks two opposite quadrants."
+  - name: "Nightmare Glare"
+    desc: "One creature the Dreamer can see must succeed on a DC 15 Wisdom saving throw or be frightened until the end of its next turn."
+
   - name: "Shift Along the Ring"
-    desc: "The Dreamer moves up to half its flying speed to another quadrant along the ring without provoking opportunity attacks."
-  - name: "Echo Flare"
-    desc: "The Dreamer causes one Echo Wisp or Echo Double within 30 feet to immediately make one attack."
+    desc: "The Hollow Dreamer teleports up to 40 feet to another platform segment."
 
-lair_actions:
-  - name: "Phase Transition: Shattering (DM Triggered at 70 HP)"
-    desc: "When the Dreamer is reduced to 70 hit points or fewer for the first time, the fountain collapses into a central void and the ground fractures into four quadrants forming a ring with 5–8-foot gaps. All terrain becomes difficult until the start of the Dreamer’s next turn. The Dreamer vanishes and reappears at the edge of one quadrant at the end of the round."
-  - name: "Phase Transition: Psychic Drag (DM Triggered immediately after Shattering)"
-    desc: "At the start of the next round, a psychic pull drags creatures toward the central void. Each creature must succeed on a DC 14 Strength saving throw or be pulled 10 feet toward the center and take 3 (1d4 + 1) psychic damage if they fall. A creature that falls is immediately repositioned to the nearest safe space on a quadrant edge."
+  - name: "Echo Knockback"
+    desc: "One creature within 10 ft. must make a DC 15 Dexterity saving throw or take 6 (1d10+1) psychic damage and be pushed 10 ft."
 
-reactions:
-  - name: "Death Sequence (DM Triggered at 14 HP or less)"
-    desc: "Instead of being reduced to 0 hit points, the Dreamer collapses and four spectral tendrils appear, each anchored to a different quadrant. Each tendril has AC 13 and 10 hit points, is resistant to psychic damage, and vulnerable to radiant damage. While at least one tendril remains, the Dreamer cannot be reduced to 0 hit points and regains 5 hit points at the start of each of its turns. When all tendrils are destroyed, a Core Heart appears above the central void: AC 12, 25 hit points, resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks, and vulnerability to radiant damage (each radiant hit deals an additional 5 damage). When the Core Heart is reduced to 0 hit points, the Dreamer is destroyed and the encounter ends."
+  - name: "Shadow Echo (BA Phase 1 & Phase 2)"
+    desc: "Tell (end of turn): A shadowy rune flares beneath a chosen PC; their silhouette detaches and forms a dormant echo. Resolution (initiative 20): If the echo (AC 12, 1 HP) was not destroyed, it manifests as a hostile Echo Shade (HP 15, simple mimic attack for 5 damage)."
 
+  - name: "Quadrant Mark (BA Phase 2 Only)"
+    desc: "Tell (end of turn): One platform quadrant glows with spiraling psychic sigils. Resolution (initiative 20): The marked quadrant erupts. Creatures on that quadrant must make a DC 15 Constitution save, taking 13 (3d6) psychic damage on a fail, or half on a success."
 
 ```
