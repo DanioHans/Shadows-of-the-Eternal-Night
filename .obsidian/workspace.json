@@ -235,9 +235,21 @@
               "icon": "lucide-file",
               "title": "Duskwatch Minidungeon"
             }
+          },
+          {
+            "id": "a314687762b21c9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -434,7 +446,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "475137b6772375c1",
+  "active": "a314687762b21c9b",
   "lastOpenFiles": [
     "Shadows of Eternal Night/Bossfights/Hollow Dreamer - Boss Fight.md",
     "Shadows of Eternal Night/Locations/Velaris/Duskwatch/Duskwatch Minidungeon.md",
