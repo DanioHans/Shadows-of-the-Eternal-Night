@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "845b42475677f921",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "825facd545a4e765",
             "type": "leaf",
             "state": {
@@ -169,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -382,7 +394,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7295cb439546316c",
+  "active": "845b42475677f921",
   "lastOpenFiles": [
     "Shadows of Eternal Night/Session prep/Session 8 – “When Shadows Wake”.md",
     "Shadows of Eternal Night/Session prep/Session 7 - The Village Between Dreams.md",
