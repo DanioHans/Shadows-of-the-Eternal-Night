@@ -608,6 +608,20 @@
       "resultText": "1d4\n[1]",
       "timestamp": 1761158687760,
       "id": "YYIYfwaya5Xp"
+    },
+    {
+      "result": "18",
+      "original": "1d20",
+      "resultText": "1d20\n[18]",
+      "timestamp": 1764791166390,
+      "id": "qVvfazLkjC9b"
+    },
+    {
+      "result": "3",
+      "original": "1d6",
+      "resultText": "1d6\n[3]",
+      "timestamp": 1764791185529,
+      "id": "RI6UzcByYCRZ"
     }
   ]
 }
