@@ -142,7 +142,7 @@ Small cabin on the edge of the marsh. The roof sags, and faint candlelight flick
 **Read-Aloud:**  
 > The cabin creaks as you approach. Inside, the air is thick with mildew and old smoke. A journal lies open on a table beside a bowl of grayish stew, its surface still rippling though there’s no breath of air.  
 
-**Notable Details:**  
+**Notable Details:**
 - The stew smells fresh but is cold as ice.  
 - Journal pages mention “the dream-hollows” and villagers walking into fog.  
 - Muddy tracks circle the house, fading near the waterline.  
