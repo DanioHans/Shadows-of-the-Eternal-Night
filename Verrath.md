@@ -29,7 +29,7 @@ Some believe he can hear all magical speech within the High Ring. Others believe
 
 - Oversees all arcane matters related to the Royal Court and Crownwatch operations.
 - Enforces **restricted knowledge protocols** in the [[Royal Arcanum of Velaris]].
-- Frequently opposes open research into the [[Verdant Wastes]], [[Forgotten Magic]], and the **Shadow corruption**.
+- Frequently opposes open research into the [[Verdant Wastes]], [[Void Magic - Overview]], and the **Shadow corruption**.
 - May have quietly sanctioned the expansion of the Arcanum's forbidden sections.
 
 ---
@@ -66,7 +66,7 @@ Some believe he can hear all magical speech within the High Ring. Others believe
 
 - [[Crownwatch Bastion]]
 - [[Royal Arcanum of Velaris]]
-- [[Forgotten Magic]]
+- [[Void Magic - Overview]]
 - [[Book of Eternity]]
 - [[Cradle Tower]]
 - [[King Halvar Thorne]]

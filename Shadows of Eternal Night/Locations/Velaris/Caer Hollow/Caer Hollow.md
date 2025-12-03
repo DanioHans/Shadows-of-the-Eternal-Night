@@ -134,7 +134,7 @@ The city fans out from the High Ring in concentric and organic patterns. Distric
 - [[Verrath]]
 - [[Crownwatch Bastion]]
 - [[Blackening of Caer Hollow]]
-- [[Forgotten Magic]]
+- [[Void Magic - Overview]]
 - [[Book of Eternity]]
 - [[Eastveil Commons]]
 - [[Silverward]]
