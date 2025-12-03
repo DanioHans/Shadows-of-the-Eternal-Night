@@ -1,106 +1,200 @@
-# Duskwatch – Nightmare Mechanics
-
-The Hollow Dreamer has pulled Duskwatch into a perpetual nightmare. Villagers walk about their daily routines while their minds are trapped in the dream realm. PCs must understand how the curse works, enter the nightmare, and destroy the entity at its source.
-
----
-
-## Entering the Nightmare
-
-### First Exposure
-- Villagers’ bodies are present, but their **minds are absent**. PCs will sense “hollowness” if they attempt Insight/Arcana.  
-- Runes glow faintly at night but are **not enough to pull PCs in by touch**. They are anchors, not portals.  
-
-### Entry Methods
-1. **Shared Dream (default)**  
-   - PCs who long rest in Duskwatch must roll Wis save DC 13.  
-   - Fail = drawn into the nightmare realm for the duration of their sleep.  
-   - Success = remain awake, but suffer 1 level of exhaustion.  
-   - First entry should feel unavoidable → ensures the party experiences the dream realm.  
-
-2. **Sleepwalker Trail**  
-   - PCs who follow a sleepwalker at night will see it vanish into mist near the **stone circle south of town**.  
-   - Standing inside circle during a short rest pulls them in voluntarily.  
-
-3. **Rune Conduction (later clue)**  
-   - Destroying multiple runes around town weakens the barrier.  
-   - Once at least 3 rune clusters are disrupted, PCs may force entry by touching one.  
-   - This prevents “I touch a rune at start” from short-circuiting the arc.  
+# Duskwatch  
+*A remote southern village caught between reality and a hostile dream-projection.*
 
 ---
 
-## The Nightmare Realm
+## 🜁 Overview
 
-- **Appearance**: A mist-shrouded, distorted version of Duskwatch. Buildings sag, sky is gray, villagers endlessly repeat corrupted tasks.  
-- **Time Distortion**: 1 hour inside = 10 minutes outside.  
-- **Villagers in Dream**: Can speak briefly. Each location grants a clue:  
-  - *Innkeeper*: “The runes keep us bound.”  
-  - *Hunter*: “The stones in the south… the circle dreams with us.”  
-  - *Scouts*: “We were called by our own voices.”  
-- **Exiting**: PCs awaken if they take major damage, succeed Wis save DC 15, or leave the stone circle.  
+Duskwatch is a small riverside settlement on the southern edge of Velaris.  
+Recently, the village has fallen into a **state of uncanny stillness**:
 
----
+- Villagers move about as if sleepwalking.  
+- Supplies and shipments have ceased entirely.  
+- Several Crownwatch scouts sent to investigate have vanished.  
+- Strange whispers and distortions surround key locations.
 
-## Lucid Nightmare Mechanics
-
-PCs may attempt to **shape the dream** with force of will.
-
-- **Check**: Wis (Arcana or raw save), DC 14.  
-- **Success**: Desired effect manifests, but with a **nightmare twist**.  
-- **Failure**: Entity exploits attempt → PCs suffer psychic backlash (1d6–2d8 psychic).  
-
-### Example Twists
-- PC summons a **weapon** → it drips with blood, frightening allies (Wis save or frightened 1 round).  
-- PC conjures **light** → reveals not clarity, but hidden shadow-doubles watching.  
-- PC creates a **bridge** → brittle, breaks under weight, dropping them into black water.  
-- PC conjures **ally** → entity twists it into a mockery (shadow-double fights them).  
-
-**Lucid Nightmare is always dangerous.** It gives players agency but reminds them this is not their dream.  
+The village appears **abandoned and occupied at the same time**, its people trapped in a cycle the party must unravel.
 
 ---
 
-## The Hollow Dreamer (Boss)
+## 🜁 Current State of the Village
 
-**Nature**: Parasitic Shadowfell spirit feeding on fear.  
-**Where**: Buried beneath the **marsh stone circle**.  
-**How to Fight**: Only vulnerable in nightmare realm.  
+### **Daytime Duskwatch**  
+The village looks mostly normal at first glance:
+- Lanterns lit, meals half-eaten, doors ajar.  
+- Villagers walking routes, repeating chores.  
+- Barely responsive to conversation — distracted or unfocused.
 
-**Combat Traits** (Lvl 4–5 party, adjust if needed):  
-- AC 15, HP ~90.  
-- Immune to sleep/charm. Resistant to nonmagical weapons.  
-- Lair Actions (every round):  
-  1. **Nightmare Doubles**: summon a shadow-double of a PC (hp 15, attacks with disadvantage but targets PC fears).  
-  2. **Rune Surge**: all make Wis save DC 13 → fail = psychic dmg + frightened until end of turn.  
-  3. **Terrain Shift**: battlefield changes — swamp mud, walls of cages, cold fire. Movement halved until next round.  
+These villagers are physically present, but their **minds are elsewhere**.
 
-**Win Condition**:  
-- Dreamer must be slain in nightmare. If only “banished” outside, it reforms in days.  
-- On defeat → runes across Duskwatch shatter, villagers awaken.  
+### **Nighttime Duskwatch**  
+As dusk deepens:
+- Reflection mismatches occur in windows and water.  
+- Footsteps echo twice.  
+- Villagers move in stranger loops.  
+- More pronounced distortions appear near the fountain, well, chapel, and watchtower.
 
----
-
-## Information Layers (What PCs Learn)
-
-- **Base Reality (100 gp reward)**  
-  - Shipments are here, undelivered.  
-  - Scouts vanished in/near Duskwatch.  
-  - Villagers act wrong (evidence enough for Crownwatch).  
-
-- **Nightmare Realm (true solution, 200 gp reward)**  
-  - Villagers are trapped in perpetual dream.  
-  - Runes anchor them to entity.  
-  - Stone circle in marsh is the source.  
-  - Entity must be fought in nightmare realm.  
+The barrier between the Material world and the **nightmare-projection** weakens significantly at night.
 
 ---
 
-## DM Guidance for RP
-- Villagers in reality: monotone, distracted, only half-present. Keep answers minimal.  
-- Villagers in dream: more talkative, but fragmented, cryptic, always “off.”  
-- Nightmare world: describe with **senses** (“You taste ash,” “your reflection screams back”). Never give answers cleanly; clues must be pieced together.  
+## 🜁 Known Anomalies
+
+Duskwatch suffers from a **dream-projection overlay** created by something beneath the village.  
+Players observe:
+
+- People acting like dream-walkers.  
+- Looping behavior.  
+- Jerky, frame-skipped movement.  
+- Sudden aggression when startled.  
+- Dissolving or duplicated shadows.  
+- Disturbances near reflective surfaces.  
+- Pulses of cold air near the well and fountain.
+
+The villagers’ **minds are trapped**, leaving behind bodies that wander by instinct.
 
 ---
 
-## Linked Notes
+## 🜁 Missing Scouts
+
+Multiple Crownwatch scouts disappeared while tracing lost supply routes:
+- Edrin Vey  
+- Lysa Dorn  
+- Tobias Hurn  
+- Salen Kett
+
+Signs found:
+- abandoned camps,  
+- unfinished journals,  
+- broken compasses,  
+- distorted patrol logs,  
+- one scout corpse drowned or half-consumed.
+
+A full summary is available in:  
+**[[Missing Scouts – Duskwatch]]**
+
+---
+
+## 🜁 Missing Shipments
+
+Caravans bound for Duskwatch never arrived at Caer Hollow.  
+Crates show up **stacked behind the storehouse**, untouched:
+
+- moonshade moss  
+- salted fish  
+- timber bundles  
+- grain supplies  
+- lantern oil
+
+No wagon tracks or signs of recent transport.
+
+Full details here:  
+**[[Missing Shipments – Duskwatch]]**
+
+---
+
+## 🜁 Points of Interest
+
+1. **Fountain Square**  
+   - Central anchor of the anomaly.  
+   - Reflections behave unnaturally.  
+   - Villagers sometimes gather silently here.
+
+2. **Gull’s Rest (Inn)**  
+   - Frozen in a time-loop at night.  
+   - Barkeep repeats actions regardless of context.
+
+3. **The Chapel**  
+   - Priest trapped in a repeated mantra.  
+   - Residual strange energy clings to the altar.
+
+4. **Storehouse**  
+   - Stacked shipments.  
+   - A scout’s corpse discovered here in some projections.
+
+5. **Watchtower**  
+   - Distorted echoes of scouts appear here in the nightmare-projection.
+
+6. **Mayor’s Manor**  
+   - Disordered home with signs of disappearance.  
+   - Hidden cellar with evidence of someone trying to escape.
+
+7. **The Well**  
+   - Strongest anchor-point.  
+   - Echoes, visions, and dream disturbances centered around it.  
+   - Believed to be the doorway into whatever lies below.
+
+See detailed POIs here:  
+**[[Duskwatch - Points of Interest]]**
+
+---
+
+## 🜁 The Nightmare Projection
+
+Duskwatch’s minds are trapped in a shared nightmare.  
+The projection is:
+- a mirror-Duskwatch,  
+- drained of warmth,  
+- hollow in color and sound,  
+- inhabited by hostile dream-walkers,  
+- filled with subtle distortions and looping behaviors.
+
+Full mechanics here:  
+**[[Duskwatch – Nightmare Mechanics]]**
+
+---
+
+## 🜁 Runes & Markings
+
+Strange marks appear:
+- near the well,  
+- in swamp soil,  
+- on stone,  
+- beneath the inn’s cellar.
+
+These are **anchoring distortions**, not true runes.  
+Purpose:
+- stabilize the projection,  
+- tether villagers’ minds to it,  
+- allow echoes to manifest.
+
+More in:  
+**[[Duskwatch – Investigation Leads]]**
+
+---
+
+## 🜁 Underlying Cause (Player-Facing Summary)
+
+The exact cause is unknown, but the party has gathered enough evidence to infer:
+
+- Something beneath Duskwatch is generating the projection.  
+- This “something” reacts to fear, repetition, and proximity.  
+- It pulls consciousness in, leaving bodies wandering.  
+- The well seems to be the closest point to the source.  
+- The projections are growing stronger and more physical over time.
+
+This is as much as can be known without accessing the source directly.
+
+---
+
+## 🜁 Themes & Tone
+
+Duskwatch should feel like:
+- a place half-asleep,  
+- repeating yesterday,  
+- haunted by its own memories,  
+- slowly being swallowed inward.
+
+The horror is **subtle and rooted in the familiar**, not overtly fantastical.
+
+---
+
+## 🔗 Linked Notes
+
+- [[Duskwatch – Nightmare Mechanics]]  
+- [[Duskwatch – Paranoia Effects]]  
 - [[Duskwatch – Investigation Leads]]  
-- [[Missing Shipments – Duskwatch]]  
+- [[Duskwatch - Points of Interest]]  
 - [[Missing Scouts – Duskwatch]]  
+- [[Missing Shipments – Duskwatch]]  
+- [[Duskwatch Minidungeon]]  

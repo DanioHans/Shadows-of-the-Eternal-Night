@@ -213,6 +213,157 @@ Defines the entity’s anchor network; leads to final confrontation.
 **Paranoia Prompt:**  
 Each time the wind shifts, the stones appear closer together.
 
+
+
+
+# Point of Interest – Mayor’s House (Material Realm)
+
+## Overview
+The Mayor’s House was once the proud heart of Duskwatch: well-kept herb garden, polished windows, tidy stonework.  
+Now it looks *lived in but empty*, like someone stepped out mid-task and never came back.
+
+This location provides:
+- Information about the last days before the curse  
+- A new piece of the puzzle (journal, orders, or maps)  
+- A sense of authority collapsing  
+- A lead toward the Dreamer’s influence  
+
+---
+
+## Exterior Description
+- The front gate hangs half-open, rocking gently despite no wind.  
+- Fresh bootprints lead to the door, but **none leave**.  
+- Herb beds are overgrown but recently watered — mechanically watered?  
+- A lantern on the porch is still lit, oil nearly empty.  
+- The front door is unlocked. The brass handle is warm.
+
+**Optional check:**  
+- *Survival DC 12:* Bootprints match scout-issued footwear.  
+- *Investigation DC 14:* Another set of tracks — barefoot, small, dragging gait.
+
+---
+
+## Interior – General Feel
+- Everything inside is **meticulously tidy** but positioned wrong:  
+  - A chair facing the corner  
+  - A half-eaten meal plated but untouched  
+  - A broom resting against a wall with fresh dust pile beneath  
+- The house smells faintly of **lavender and damp fog**.
+
+### Atmosphere Cues
+- Clocks inside the house show **different times**.  
+- Pages of open books rustle though windows are closed.  
+- Every portrait has the faces scratched out *except* the mayor’s.
+
+---
+
+## Area-by-Area Details
+
+### **1. Entry Hall**
+- Hooks hold a heavy coat, worn recently.  
+- Visitor log book on a small table with the last entry:  
+  > “Salen Kett — urgent report.”  
+  (Dated the day before Duskwatch went silent.)
+
+- A cracked hand mirror lies face-down (if players flip it → they see only themselves, no villagers).
+
+### **2. Dining Room**
+- Table set for two.  
+- Candles burned down to nubs — identical burn height.  
+- A wooden ladle rests beside a pot of cold stew; the stew was stirred recently.
+
+**Clue**:  
+- *Medicine DC 12:* There’s moonshade moss residue under one of the bowls → same shipment that went missing.
+
+### **3. Study (Main Clue Room)**
+This is the room your players will get the most out of.
+
+#### What they see:
+- Desk with open journal.  
+- Map of Duskwatch pinned to wall with small copper pins (marking runic sites if they think to check).  
+- Locked drawer (easy pick: DC 10 thieves’ tools or Dex).  
+- Fireplace cold, but faint scent of burnt paper.
+
+#### Possible Clues in Journal (choose what fits session pacing):
+- **Entry 1:**  
+  “The villagers complain of strange dreams. Many have stopped speaking. I will seek advice from the chapel.”
+- **Entry 2:**  
+  “Scout Kett returned… shaken, rambling about echoes and a well. He begged me to close the roads.”
+- **Entry 3 (last):**  
+  “They stand outside my windows at night. Not the villagers.  
+  *They look like us.*  
+  I hear them whispering…”  
+
+(Scratched off violently after this line.)
+
+#### Inside the locked drawer:
+- A sealed **Crownwatch letter** informing the mayor that shipments are delayed and that scouts are being dispatched.  
+  → Confirms the Crownwatch *did* follow proper procedures.  
+- A **broken compass**, needle twitching even when held still.  
+- A **half-burnt page** of runic shapes matching the ones from the rat.
+
+---
+
+### **4. Bedroom**
+- Bed neatly made; indentation suggests someone slept only on the edge.  
+- Footlocker with personal items (non-valuable):  
+  - a mayor’s signet  
+  - dried lavender  
+  - six letters from family in Caer Hollow  
+- Window curtains half-torn as if grabbed.
+
+**Clue:**
+- *Perception DC 14:* Under the bed is a child's drawing of the fountain with a scribbled black circle in the center.
+
+---
+
+### **5. Cellar (Optional Tension Area)**
+- Wine racks, storage barrels.  
+- Dirt floor shows **drag marks** leading to a blank stone wall.  
+- The stones are perfectly still, but slightly warm to the touch.
+
+This is NOT a portal — just atmospheric foreshadowing.
+
+Optionally, a **sleepwalker villager** is down here, kneeling, rocking, whispering:
+> “Don’t go down… don’t go down…”
+
+If startled, he flails and attacks like any other sleepwalker.
+
+---
+
+## What the Mayor’s House Contributes to the Investigation
+
+- **Mayor was aware** something was deeply wrong.  
+- **Knew about the well** or at least knew a scout reported it.  
+- **Mapped disturbances** (connects runes, chapel, storehouse, fountain).  
+- **Found runic fragments**, confirming outside interference.  
+- Confirms that villagers’ decline happened rapidly — *within days*.
+
+---
+
+## Optional Handout (Easy to Use)
+Give the players this page from the journal:
+
+> **Entry – Last Day**  
+>  
+> They are outside again.  
+> But I do not hear footsteps.  
+> Just whispers.  
+> Like they are speaking through glass.  
+>  
+> I pray the scouts return with answers.  
+> But deep down…  
+> I fear we already sleep beneath the water.
+
+---
+
+## Quick Hooks for Players Leaving This POI
+- Journal + map → the well becomes the strongest lead.  
+- Crownwatch letter → clears suspicion and narrows focus.  
+- Runic page → links to the chapel’s bone fragment.  
+- Sleepwalker in cellar → confirms villagers are affected everywhere.
+
+
 ---
 
 ## DM Guidance

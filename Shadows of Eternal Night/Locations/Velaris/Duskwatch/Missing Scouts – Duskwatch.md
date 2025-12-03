@@ -15,7 +15,7 @@ Several Bastion scouts vanished while investigating lost shipments to Duskwatch.
 - **Assignment:** Day 10 → investigate caravan disappearances near Duskwatch road.  
 - **Profile:** Young female, red hair, agile and reckless.  
 - **Notes:** Bright and loyal; often volunteered for risky missions.  
-- **Fate:** Presumed dead; cracked pendant recovered during travel encounter.  
+- **Fate:** found beneath crates
 - **Clue:** Name scrawled faintly in one scout journal inside the [[Ruined Watchtower]].
 
 ---
@@ -24,7 +24,7 @@ Several Bastion scouts vanished while investigating lost shipments to Duskwatch.
 - **Assignment:** Day 9 → escort silver ore shipment south.  
 - **Profile:** Male, middle-aged, mace fighter.  
 - **Notes:** Thorough patrol keeper.  
-- **Fate:** Body discovered in storehouse beneath collapsed crates.  
+- **Fate:** found near the watchtower, hinting at the well
 - **Clue:** Half-written log: “Sleep comes even when I stand.”
 
 ---
@@ -33,8 +33,8 @@ Several Bastion scouts vanished while investigating lost shipments to Duskwatch.
 - **Assignment:** Day 7 → protect lantern oil caravan.  
 - **Profile:** Male, bald, long beard, senior scout.  
 - **Notes:** Respected leader among Bastion patrols.  
-- **Fate:** Found clutching cracked compass in the [[Ruined Watchtower]].  
-- **Clue:** Compass still spins aimlessly; may resonate during nightmare bleed.
+- **Fate:** Found after the minidungeon besides the fountain, dead with notes
+- **Clue:** notebook []
 
 ---
 
