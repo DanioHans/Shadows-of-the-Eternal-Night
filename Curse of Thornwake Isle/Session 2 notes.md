@@ -33,6 +33,29 @@ tyran asks us to talk, and tells us there is a more pressing matter than the gob
 
 on the opposite side of the goblin camp, there is a wizard camp, alric is dismissive of them.
 
+tyran tells us this is all connected to the north and the prince, asking us to please be careful with investigating and making sure no one sees us., she closes off with selune greets you
+
+the house of flins is pretty empty, apart from a tuxedo cat and flins.
+
+he is called silas flins, saying he has a map of the island lying around.
+
+the map costs 5 silver, his back is hurting.
+
+after curing his back with healing hands, he gratefully thanks dawn and gives him a healing potion.
+
+he explains some things about the various regions on thornwake isle. Talking about a king and prince, which is more like a cult rather than a community. they intimidate people to join them.
+
+small recap of the happenings in the village and getting our bearing and the hooks straight, unsure about alric and the scribe. leading to 3 options, scouting the golbins, wizards or talk to the town scribe.
+
+we hide the armor gotten from the temple in a hole and created a map for it.
+
+we head towards the goblin camp, on the way we see a humanoid child, wandering in the woods
+
+the child is looking for his lost brothers, telling us we are wizards because of rashans mustache.
+
+they have been lost for a few days. they were playing with marabella hide and seek, but they vanished when hiding, it's been 3 days already. herik and renik are missing, alongside the tiefling. lost in the northern part of the woods, north of ashenford.
+
+we head towards the wizard camp now, as we suspect the children are there, sylas steps on something and alerts the wizards in the camp.
 
 
 
