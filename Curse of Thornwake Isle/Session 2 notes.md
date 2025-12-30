@@ -57,6 +57,21 @@ they have been lost for a few days. they were playing with marabella hide and se
 
 we head towards the wizard camp now, as we suspect the children are there, sylas steps on something and alerts the wizards in the camp.
 
+a quick combat, where sylas almost falters, only to be saved by the healing of dawn, results in a cleric being captured for interrogation.
+
+kids might be at the palace.
+
+kids are the best vessel for new generation wizards
+
+he only served the king, the gods. the lord of bones, myrkul, relatively unknown to dawn.
+
+the gems embedded strengthens the users, enhancing their servitude to the king and the gods
+
+prince corvus of the west woods.
+
+name of the wizards, is bane, his god was a believer of bane.
+
+after trying to remove his gem, dawn purifies him with sacred flames, inevitably killing him.
 
 
 
