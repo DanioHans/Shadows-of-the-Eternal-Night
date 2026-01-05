@@ -73,8 +73,12 @@ name of the wizards, is bane, his god was a believer of bane.
 
 after trying to remove his gem, dawn purifies him with sacred flames, inevitably killing him.
 
+dawn burns the bodies.
 
+after a short rest, we start traveling to the goblin camp
 
+we spot a silhouette with a huge backpack, and a panther like animal with tentacles.
 
+it is a little kobold, Nirr. with the beast being called sahasha.
 
-
+without buying anything they continue towards the goblin camp.
