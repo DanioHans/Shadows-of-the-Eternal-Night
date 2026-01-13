@@ -1,155 +1,146 @@
 # Coded Field Notes – V-E03 Observation Log
-*Recovered in fragmented form from beneath Duskwatch.*
+*Recovered in fragmented form beneath Duskwatch.*
 
-> The handwriting is precise, compact, and mathematically arranged.  
-> The author never signs their name.
-
----
-
-## 🜁 Summary
-These entries appear to be the work of a senior Arcanum researcher performing an **unauthorized field survey** on a magical anomaly encountered near the Duskwatch region.  
-The terminology used is clinical and coded, using Arcanum shorthand, with frequent cross-referencing to internal Arcanum theory.
-
-Several passages are damaged by various sources.
+The handwriting is precise, compact, and mathematically structured.  
+The author never signs their name.  
+Several pages are scorched, torn, or smeared with ash.
 
 ---
 
-## 🜁 Classification Notes (Partially Deciphered)
+## 🜁 Classification Index (Partially Intact)
 
-```
 V-E00 — Dormant Echo  
 Baseline harmless.  
-Detected only by emotional resonance fluctuation.
+Detected via emotional resonance fluctuation.
 
 V-E01 — Anchored Echo  
-Formation of projection layer.  
-Minor cognitive loops recorded.
+Projection layer forming.  
+Containment viable if lattice remains stable.
 
 V-E03 — Bloom-State  
-Full projection manifestation.  
-Immediate stabilization required.  
-Containment circle recommended.  
-Do not disrupt anchor lattice without counter-sigils.
-```
-
-*(These correspond to Echo-Born Parasite stages. See: [[Void Parasite - Echo-Born]].)*
+Full projection overlap.  
+Containment failure likely.  
+Immediate stabilization required.
 
 ---
 
-## 🜁 Early Observations (Decoded)
+## 🜁 Initial Survey Notes
 
-> “Initial trace found along southern Crownwatch route.  
-> Resonance fluctuates unpredictably; pattern inconsistent with illusion or enchantment.  
-> Strong possibility of Echo-type anomaly (ref. Manifestation Cases 3, 7, 11).”
+“Anomalous resonance detected along southern Crownwatch route.  
+Signature inconsistent with illusion, enchantment, or necromantic constructs.”
 
-> “Local wildlife unsettled.  
-> Dream-imprint signatures present within driftwood samples.”
+“Emotional imprint unusually dense.  
+Pattern suggests reflection behavior rather than projection.”
 
----
-
-## 🜁 Notes on Villager Behaviour (Field Entry)
-> “Subjects exhibit looped behavioural patterns indicating partial dissociation.  
-> Speech inconsistent: half-dream, half-responsive.  
-> Projection bleed suspected.  
-> Must determine anchor point.”
-
-Additional margin notes:
-- “Correlation between well and fountain.”  
-- “Fear concentration peaks around central square.”  
-- “Reflection dissociation observed in multiple surfaces.”
+Margin annotation:
+- Echo-type anomaly possible (ref. Manifestation Cases 3, 7, 11).
 
 ---
 
-## 🜁 Containment Circle Analysis (Redacted)
-This section is partially burned.
+## 🜁 Local Effects Observed
 
-Remaining lines:
+“Subjects exhibit looped behavioral patterns.  
+Partial dissociation evident — half-dream, half-responsive.”
 
-> “Circle incomplete at time of arrival.  
-> Attempted reinforcement using standard Arcanum counter-glyphs.  
-> Glyphs failed to adhere.  
-> Substructure behaves non-geometrically.”
+“Memory repetition not random.  
+Echo appears to copy what is missing, not what is present.”
 
-> “Interference increases when stabilizing sigils deployed.  
-> Suggests lattice is self-amending.”
-
-This aligns with the idea that the parasite consumed the containment’s structure.
+Additional notes:
+- Reflections lag by approximately one to two seconds
+- Speech desynchronization observed
+- Sleepwalking prevalent
 
 ---
 
-## 🜁 Emotional Imprint Tracking
+## 🜁 Anchor Point Analysis
 
-> “Dream-residue readings rising exponentially.  
-> Unclear whether projection layer adapting to subjects, or subjects adapting to projection.”
+“Fear concentration peaks near central square.”
 
-Notes written sideways in hasty script:
-- “Memory loss in subjects not random.”  
-- “Echo copying what is *missing*, not present.”  
-- “Beware visual repetition.”
+“Resonance strongest around fountain basin.  
+Secondary readings at well.  
+Tertiary residue at chapel.”
 
----
-
-## 🜁 Crownwatch & Arcanum Protocol Notes (Carefully Worded)
-
-> “Official channels not yet alerted.  
-> Premature reporting risks administrative shutdown of investigation.”
-
-> “Objective: understand anomaly before suppression protocols initiated.”
-
-This subtly reflects Verrath’s pride and desire for academic independence, not political motive.
+Side note, written hastily:
+- Anchor likely living
 
 ---
 
-## 🜁 Final Entry (Severely Damaged)
+## 🜁 Containment Circle Evaluation (Severely Damaged)
 
-> “Projection nearing full overlap.  
-> Anchor lattice unstable.  
-> If Bloom-State completes, containment unlikely without direct engagement.”
+“Circle incomplete at time of arrival.  
+Attempted reinforcement using standard counter-glyphs.”
 
-Another line, barely legible:
+“Glyph adherence degrading on contact.  
+Substructure behaves non-geometrically.”
 
-> “If resonance spreads along leyline paths, similar cases may emerge near—”
+“Interference increases when stabilizing sigils deployed.”
 
-Page ends in a smear of ink and ash.
+Burned fragments remain:
+- Lattice self-amending
+- Structure consumed
+- Void response confirmed
 
-This is the first faint hint toward the future Blackening.
+---
+
+## 🜁 Projection Behavior
+
+“Projection layer adapting to subjects.  
+Unclear whether environment reflects memories or dreams.”
+
+“Shadow-doubles observed.  
+Delay between subject action and echo response.”
+
+Margin note:
+- Do not allow unchecked replication
+
+---
+
+## 🜁 Risk Assessment
+
+“Bloom-State escalation accelerating.”
+
+“If projection achieves full overlap, physical intervention required.”
+
+“Host termination may destabilize projection.  
+Risk of uncontrolled collapse.”
+
+Another handwritten note, faint:
+- Observation preferred before escalation
+
+---
+
+## 🜁 Final Entry (Fragmented)
+
+“Projection nearing full manifestation.  
+Anchor lattice unstable.”
+
+Last legible line:
+“If resonance propagates along leyline paths, similar incidents may emerge near—”
+
+The page ends in ink smeared with ash.
 
 ---
 
 ## 🜁 Cipher Page (Recovered)
-A half-destroyed sheet with repeating symbols:
 
-```
 E-1  
-anchor = well?  
-secondary loops: fountain  
+anchor = living subject  
+primary loop: fountain  
+secondary: well  
 tertiary: chapel residual  
-risk of over-projection: high  
+risk of over-projection: HIGH  
 priority: isolate, observe, learn  
-avoid direct disp—
-```
+avoid disruptive disp—
 
-*(The cut-off “disp—” may relate to disruptive magic like Dispel Magic, which Samsons previously attempted.)*
-
----
-
-## 🜁 What the Party Can Realistically Conclude
-
-- A high-ranking, unnamed Arcanum researcher studied the anomaly.  
-- They classified it as an *Echo-type magical phenomenon*.  
-- They attempted to stabilize or understand it, not destroy it.  
-- They feared bureaucracy would shut down their research prematurely.  
-- The containment circle they found was already flawed.  
-- The anomaly (“Bloom-State”) was growing faster than expected.  
-
-### They will **suspect Verrath**,  
-### but cannot **prove** it.
+(The final word is cut off.)
 
 ---
 
-## 🔗 Related Notes
-- [[Void Parasite - Echo-Born]]  
-- [[Duskwatch Minidungeon]]  
-- [[Missing Scouts – Duskwatch]]  
-- [[Duskwatch – Nightmare Mechanics]]  
-- [[High Arcanist Verrath]]  
+## 🜁 Player Takeaways (Implicit)
+
+- The anomaly was studied, not accidental  
+- Someone with Arcanum training was present  
+- Containment was attempted and failed  
+- Observation was prioritized over immediate destruction  
+- The situation escalated faster than expected  
+- Reporting appears to have been delayed intentionally
