@@ -398,7 +398,7 @@
           },
           {
             "name": "Shadow Echo (BA Phase 1 & Phase 2)",
-            "desc": "Tell (end of turn): A shadowy rune flares beneath a chosen PC; their silhouette detaches and forms a dormant echo. Resolution (initiative 20): If the echo (AC 12, 1 HP) was not destroyed, it manifests as a hostile Echo Shade (HP 15, simple mimic attack for 5 damage)."
+            "desc": "Tell (end of turn): A shadowy rune flares beneath two chosen PCs; their silhouette detaches and forms a dormant echo. Resolution (initiative 20): If the echo (AC 12, 5 HP) was not destroyed, it manifests as a hostile Echo Shade (HP 15, simple mimic attack for 5 damage)."
           },
           {
             "name": "Quadrant Mark (BA Phase 2 Only)",
