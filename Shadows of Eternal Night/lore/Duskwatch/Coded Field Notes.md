@@ -1,6 +1,7 @@
 # Coded Field Notes – V-E03 Observation Log
 *Recovered in fragmented form beneath Duskwatch.*
 
+fully written in Arcanum Shorthand (Samson knows this, and Kyron might be able to decipher it)
 The handwriting is precise, compact, and mathematically structured.  
 The author never signs their name.  
 Several pages are scorched, torn, or smeared with ash.
@@ -10,17 +11,17 @@ Several pages are scorched, torn, or smeared with ash.
 ## 🜁 Classification Index (Partially Intact)
 
 V-E00 — Dormant Echo  
-Baseline harmless.  
+Baseline non-hostile.  
 Detected via emotional resonance fluctuation.
 
 V-E01 — Anchored Echo  
 Projection layer forming.  
-Containment viable if lattice remains stable.
+Containment viable if lattice integrity can be maintained.
 
 V-E03 — Bloom-State  
 Full projection overlap.  
-Containment failure likely.  
-Immediate stabilization required.
+Containment instability confirmed.  
+Immediate stabilization recommended.
 
 ---
 
@@ -29,11 +30,11 @@ Immediate stabilization required.
 “Anomalous resonance detected along southern Crownwatch route.  
 Signature inconsistent with illusion, enchantment, or necromantic constructs.”
 
-“Emotional imprint unusually dense.  
-Pattern suggests reflection behavior rather than projection.”
+“Thaumaturgic readings fluctuate across multiple disciplines.  
+No dominant school detected.”
 
 Margin annotation:
-- Echo-type anomaly possible (ref. Manifestation Cases 3, 7, 11).
+- Echo-type anomaly suspected (ref. Manifestation Cases 3, 7, 11)
 
 ---
 
@@ -42,56 +43,59 @@ Margin annotation:
 “Subjects exhibit looped behavioral patterns.  
 Partial dissociation evident — half-dream, half-responsive.”
 
-“Memory repetition not random.  
-Echo appears to copy what is missing, not what is present.”
+“Memory repetition follows absence-patterns rather than recall-patterns.  
+Phenomenon appears to reproduce *gaps*.”
 
 Additional notes:
-- Reflections lag by approximately one to two seconds
-- Speech desynchronization observed
+- Reflections lag behind physical movement
+- Auditory echoes repeat without clear source
 - Sleepwalking prevalent
 
 ---
 
 ## 🜁 Anchor Point Analysis
 
-“Fear concentration peaks near central square.”
+“Emotional pressure concentrates around central square.”
 
-“Resonance strongest around fountain basin.  
-Secondary readings at well.  
+“Resonance peaks at fountain basin.  
+Secondary convergence at well.  
 Tertiary residue at chapel.”
 
 Side note, written hastily:
 - Anchor likely living
+- Structural dependence suspected
 
 ---
 
-## 🜁 Containment Circle Evaluation (Severely Damaged)
+## 🜁 Containment Evaluation (Severely Damaged)
 
 “Circle incomplete at time of arrival.  
 Attempted reinforcement using standard counter-glyphs.”
 
 “Glyph adherence degrading on contact.  
-Substructure behaves non-geometrically.”
+Substructure resists geometric stabilization.”
 
-“Interference increases when stabilizing sigils deployed.”
+“Interference increases when stabilizing sigils are introduced.”
 
 Burned fragments remain:
-- Lattice self-amending
-- Structure consumed
-- Void response confirmed
+- Lattice self-adjusting
+- Structured magic consumed
+- Reaction escalates with order imposed
 
 ---
 
 ## 🜁 Projection Behavior
 
-“Projection layer adapting to subjects.  
-Unclear whether environment reflects memories or dreams.”
+“Projection layer adapts to observers.”
+
+“Environmental features repeat with distortion, not illusion.”
 
 “Shadow-doubles observed.  
-Delay between subject action and echo response.”
+Echo response delayed but increasingly autonomous.”
 
 Margin note:
-- Do not allow unchecked replication
+- Replication not purely mimetic
+- Behavior suggests parasitic logic
 
 ---
 
@@ -99,13 +103,14 @@ Margin note:
 
 “Bloom-State escalation accelerating.”
 
-“If projection achieves full overlap, physical intervention required.”
+“If projection achieves full overlap, physical locality becomes unstable.”
 
-“Host termination may destabilize projection.  
-Risk of uncontrolled collapse.”
+“Host termination risks uncontrolled collapse.  
+Projection may persist independent of anchor.”
 
 Another handwritten note, faint:
-- Observation preferred before escalation
+- Direct suppression may worsen outcome
+- Escalation vector unclear
 
 ---
 
@@ -115,9 +120,9 @@ Another handwritten note, faint:
 Anchor lattice unstable.”
 
 Last legible line:
-“If resonance propagates along leyline paths, similar incidents may emerge near—”
+“If resonance propagates along non-linear paths, similar incidents may emerge beyond—”
 
-The page ends in ink smeared with ash.
+The remainder is smeared with ash and ink.
 
 ---
 
@@ -128,7 +133,8 @@ anchor = living subject
 primary loop: fountain  
 secondary: well  
 tertiary: chapel residual  
-risk of over-projection: HIGH  
+lattice stability: CRITICAL  
+reaction to structure: hostile  
 priority: isolate, observe, learn  
 avoid disruptive disp—
 
@@ -138,9 +144,9 @@ avoid disruptive disp—
 
 ## 🜁 Player Takeaways (Implicit)
 
-- The anomaly was studied, not accidental  
-- Someone with Arcanum training was present  
-- Containment was attempted and failed  
-- Observation was prioritized over immediate destruction  
-- The situation escalated faster than expected  
-- Reporting appears to have been delayed intentionally
+- The phenomenon does not conform to known magical schools  
+- Structured magic appears to aggravate it  
+- Containment was attempted with awareness of risk  
+- Observation was chosen over immediate eradication  
+- The anomaly behaves as if it originates *outside* established arcane models  
+- Someone with advanced theoretical knowledge was involved

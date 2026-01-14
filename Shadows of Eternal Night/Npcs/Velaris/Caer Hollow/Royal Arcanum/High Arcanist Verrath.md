@@ -3,6 +3,11 @@
 
 ---
 
+**High Arcanist Aurelian Verrath**  
+Arcane Advisor to King Halvar Thorne  
+Magister Primus of the Royal Arcanum
+
+
 ## 🧠 Overview
 
 Verrath is the **King’s foremost arcane advisor** and the head of theoretical magical research within the Royal Arcanum.  

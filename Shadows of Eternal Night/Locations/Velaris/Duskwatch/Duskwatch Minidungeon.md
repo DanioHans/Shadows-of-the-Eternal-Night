@@ -77,43 +77,99 @@ When the last shadow falls, the walls crack like glass and collapse into blackne
 
 ---
 
-# 🜁 Encounter 2 — Echoes of Authority
+## Pre-Boss Respite: _The Fracture Hold_
 
-The party lands in a **vast liminal space** — half street, half training yard, half collapsing dream.  
-The parasite manifests imagery not of truth, but of **collective fear**:
+### Arrival (Read or paraphrase)
 
-### Elements Present
-- **Crownwatch silhouettes**: too tall, armor melted and fused.  
-- **Undead fragments**: half-bones, half-memories, not fully formed.  
-- **Crumbling Caer Hollow architecture**: rooftops falling, smoke rising.  
-- **A distant, impossible silhouette of the Cradle Tower**:  
-  projected like a nightmare impression, not a real vision.
+> The street behind you folds in on itself, the shadows snapping back into the stone.
+> 
+> You step into a small square of relative calm. The pressure eases. Your thoughts settle.
+> 
+> The space here feels… reinforced.
+> 
+> Thin, glowing fractures run through the paving stones and up the walls — five of them, evenly spaced, pulsing faintly like veins of light.
 
-### Why These Appear
-Villagers fear:
-- Crownwatch discipline,  
-- border undead raids,  
-- Arcanum scrutiny,  
-- the overwhelming presence of the Cradle Tower.
+Pause. Let them look around.
 
-The parasite replays those fears without understanding meaning.
+Then:
 
-### Encounter Style
-A **skill-and-survival gauntlet**, not a full combat:
-- Wis saves to resist fear distortions  
-- Dex saves for falling debris  
-- Str saves when “specters” try to pull them down  
-- Psychic damage from Crownwatch illusions that swing ghostly halberds
+> Whatever is holding this place together is not permanent.
 
-**The illusions never bleed.**  
-They shatter like glass when bypassed or “killed.”
+That line tells them everything they need to know.
 
-### Collapse Transition
-The sky cracks open.  
-The silhouette of the Cradle Tower breaks apart.  
-The ground folds into a perfect circle.
+---
 
-The party falls into the final arena.
+## The Timer (Clear, Visible, In-Fiction)
+
+You do **not** say how long each crack lasts.  
+You just advance them when it feels right.
+
+### Crack Behavior
+
+- Each crack pulses softly
+    
+- They do **not** react to movement
+    
+- They dim one by one as time passes
+    
+
+### Visual Progression
+
+**Crack 5 → 4 (Early)**
+
+> One of the fractures fades, its light draining into the stone.  
+> The air tightens slightly.
+
+**Crack 4 → 3 (Mid)**
+
+> Another fracture splinters further before going dark.  
+> The calm begins to feel thin.
+
+**Crack 3 → 2 (Late)**
+
+> A third line snaps with a sharp, silent flash.  
+> Dust lifts from the floor and hangs unnaturally in the air.
+
+**Crack 2 → 1 (Final Warning)**
+
+> The remaining fractures flicker violently.  
+> The ground shifts underfoot — not breaking, but _straining_.
+
+Players will _absolutely_ understand this is a countdown.
+
+
+## The Transition to the Boss Fight (This Is the Payoff)
+
+When the final crack goes:
+
+> The last fracture flares blindingly bright — then shatters.
+> 
+> The floor splits open beneath you, stone peeling away like broken glass.
+> 
+> There is no sensation of falling — only _pulling_.
+> 
+> The world turns inside out.
+
+Then immediately:
+
+---
+
+## The Drop Into the Fountain Square
+
+> You land hard on cracked stone as reality slams back into place.
+> 
+> You’re standing in the fountain square — or something shaped like it.
+> 
+> The fountain stands at the center, its water unnaturally still, reflecting nothing.
+> 
+> Around you, buildings lean inward at wrong angles.
+> 
+> And beside the fountain…  
+> something waits.
+
+Pause. Let silence sit.
+
+Then proceed into your **Hollow Dreamer entrance description** and roll initiative.
 
 ---
 

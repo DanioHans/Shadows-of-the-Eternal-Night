@@ -49,6 +49,7 @@ actions:
     desc: "A 10 ft. radius area within 40 ft. erupts with psychic force. Each creature in the area must make a DC 15 Dexterity saving throw, taking 13 (3d6) psychic damage on a failed save, or half as much on a success."
 
 legendary_actions:
+  - 2 per turn
   - name: "Nightmare Glare"
     desc: "One creature the Dreamer can see must succeed on a DC 15 Wisdom saving throw or be frightened until the end of its next turn."
 
@@ -59,7 +60,7 @@ legendary_actions:
     desc: "One creature within 10 ft. must make a DC 15 Dexterity saving throw or take 6 (1d10+1) psychic damage and be pushed 10 ft."
 
   - name: "Shadow Echo (BA Phase 1 & Phase 2)"
-    desc: "Tell (end of turn): A shadowy rune flares beneath a chosen PC; their silhouette detaches and forms a dormant echo. Resolution (initiative 20): If the echo (AC 12, 1 HP) was not destroyed, it manifests as a hostile Echo Shade (HP 15, simple mimic attack for 5 damage)."
+    desc: "Tell (end of turn): A shadowy rune flares beneath two chosen PCs; their silhouette detaches and forms a dormant echo. Resolution (initiative 20): If the echo (AC 12, 5 HP) was not destroyed, it manifests as a hostile Echo Shade (HP 15, simple mimic attack for 5 damage)."
 
   - name: "Quadrant Mark (BA Phase 2 Only)"
     desc: "Tell (end of turn): One platform quadrant glows with spiraling psychic sigils. Resolution (initiative 20): The marked quadrant erupts. Creatures on that quadrant must make a DC 15 Constitution save, taking 13 (3d6) psychic damage on a fail, or half on a success."
