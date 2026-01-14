@@ -110,9 +110,11 @@
         "ac": 15,
         "currentAC": 15,
         "id": "ID_5a18cbfbca8b",
-        "currentHP": 70,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -200,7 +202,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -217,7 +219,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -241,7 +243,7 @@
     ],
     "state": true,
     "name": "Encounter",
-    "round": 4,
+    "round": 8,
     "logFile": "",
     "rollHP": false
   },
