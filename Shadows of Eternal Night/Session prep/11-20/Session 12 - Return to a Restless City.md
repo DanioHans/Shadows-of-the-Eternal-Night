@@ -1,304 +1,337 @@
 ## Session Goal
 
-Re-establish **Caer Hollow** as the party’s base of operations while introducing the first signs of **arcane instability** within the city.
+Re-establish Caer Hollow as the party’s base while introducing the **first concrete magical anomaly** in the city.  
+This session should contain a **full investigation scenario** with multiple phases and mechanical interactions.
 
-This session should:
+Players should feel like they are **solving a real problem**, not just reacting to a magical accident.
 
-- Reintroduce the political situation in the city
-    
-- Allow the players to ask questions after Duskwatch
-    
-- Establish **Archivist Felwin** as an investigative ally
-    
-- Present the **first anomaly event**
-    
-- Begin the slow escalation of magical disturbances
-    
-
-Tone: uneasy normalcy — the city feels stable, but **something is subtly wrong**.
+Target playtime: ~3 hours.
 
 ---
 
-# Opening Scene — The Debrief
+# Scene 1 — Crownwatch Debrief
 
-Location: **Crownwatch Bastion**
+**Location:** Crownwatch Bastion
 
-Captain Malma receives the party for a proper debrief regarding Duskwatch.
+Captain Malma formally debriefs the party regarding Duskwatch.
 
-Purpose of the scene:
+Topics Malma asks about:
 
-- Pay the party their reward
+- nature of the anomaly
     
-- Ask questions about what they encountered
+- whether it is destroyed
     
-- Establish the Crown's current concerns
+- involvement of the Arcanum
     
-
-Questions Malma may ask:
-
-- What exactly happened in Duskwatch?
-    
-- Was the anomaly destroyed?
-    
-- Did the Arcanum cause the incident?
-    
-- Did the party recover any unusual artifacts?
+- unusual artifacts recovered
     
 
-The conversation should remain pragmatic. Malma does not speculate wildly, but she clearly wants to know whether **similar events could occur elsewhere**.
+Malma informs the party:
 
-Key information she shares:
-
-- Caer Hollow is experiencing **rising tensions**
+- tensions in the city are rising
     
-- Some citizens blame the Arcanum for Duskwatch
+- some blame the Arcanum for Duskwatch
     
-- The Crown is trying to keep the peace
-    
-- Strange but minor magical disturbances have been reported recently
+- several **minor magical disturbances** have been reported
     
 
-Malma may say something like:
+Reward: **200 gold each**
 
-> “One cursed town is unfortunate.  
-> Two would be a pattern.”
+Skill opportunities:
 
-The party receives their **200 gold reward**.
+|Check|Purpose|
+|---|---|
+|Insight DC 12|Malma is worried but trying not to show it|
+|Persuasion DC 14|Gain cooperation from Crownwatch if future incidents occur|
+|Investigation DC 12|Notice incident reports on Malma’s desk referencing magical disturbances|
 
 ---
 
-# Scene 2 — The City Atmosphere
+# Scene 2 — City Atmosphere
 
-After leaving the Bastion, the party can explore Caer Hollow again.
+Use this section to show political tension.
 
-Use this section to show the **changing mood of the city**.
-
-Possible street scenes:
+Possible scenes:
 
 ### Arcanum Protest
 
-A small crowd outside the academy argues with students.
+Crowd arguing outside academy.
 
-Shouted accusations include:
+Skill options:
 
-- “Your experiments caused Duskwatch!”
-    
-- “Magic belongs behind walls!”
-    
-
-Guards keep the peace but tension is high.
+|Check|Result|
+|---|---|
+|Persuasion DC 13|Calm the situation|
+|Intimidation DC 13|Crowd disperses quickly|
+|Insight DC 12|Some protesters appear organized rather than spontaneous|
 
 ---
 
-### Crownwatch Patrols
+### Guard Patrols
 
-Guards are noticeably more present.
+Crownwatch patrol density has increased.
 
-Posters all around with recruiting people for city guard.
+Rumors include:
 
-Rumors circulate among them about:
-
-- magical incidents
+- malfunctioning enchanted items
     
-- unreliable enchanted tools
+- animals acting strangely
     
-- unusual animal behavior
+- magical tools failing
     
 
 ---
 
-### Tavern Rumors
+# Scene 3 — Moonshade Moss Delivery
 
-In taverns the party overhears speculation:
+**Location:** Apothecary / potion shop
 
-- “The academy’s been acting strange lately.”
+The party delivers **moonshade moss**.
+
+Owner explains recent issues:
+
+- potions fermenting too quickly
     
-- “They say magic itself is getting… unstable.”
+- magical ingredients vibrating
     
-- “Maybe Duskwatch was just the beginning.”
+- faint humming in cellar
     
 
-Nothing confirmed — only rumors.
+During the conversation the shop’s potions briefly **vibrate simultaneously**.
+
+Arcana DC 12:
+
+> Magical resonance is coming **from nearby**, not from the potions.
+
+The owner mentions a nearby **abandoned Arcanum workshop**.
 
 ---
 
-# Scene 3 — The Apothecary Delivery
+# Scene 4 — The Workshop Investigation
 
-The party still carries **moonshade moss** meant for a potion shop in Caer Hollow.
+The building is:
 
-Location: local apothecary / potion shop.
+- boarded up
+    
+- dusty
+    
+- clearly unused
+    
 
-The shop owner is relieved to finally receive the moss, explaining that shipments have been unreliable since the Duskwatch route closed.
+Initial exploration:
 
-While the party is present, a brewing accident occurs.
+|Check|Result|
+|---|---|
+|Investigation DC 12|Workshop belonged to an alchemical researcher|
+|Arcana DC 13|Equipment related to magical distillation|
+|Perception DC 13|Weak humming coming from beneath the floor|
+
+Discovery:
+
+A collapsed section of floor reveals a **stairway to a lower laboratory**.
 
 ---
 
-## The Brewing Incident
+# Scene 5 — The Distillation Engine
 
-One of the shop's potion batches suddenly begins **overreacting**.
+Underground chamber contains an **Arcane [[Distillation Engine]]**.
 
-Symptoms:
+Purpose: concentrate ambient magical energy into reagents.
 
-- liquid glowing brighter than normal
+Current state:
+
+- partially active
     
-- glassware vibrating
+- unstable
     
-- magical sparks forming in the air
-    
-
-This is not an attack — it is **raw magical instability**.
-
-Possible complications:
-
-- the potion begins releasing arcane energy bursts
-    
-- nearby potions react sympathetically
-    
-- unstable vapors fill the room
+- pulling energy from surrounding area
     
 
-The party must stabilize the situation.
+Effects in chamber:
 
-Possible approaches:
-
-- Arcana checks to dampen the reaction
+- small objects occasionally levitate
     
-- moving unstable ingredients
+- magical items glow faintly
     
-- breaking magical feedback loops
-    
-- creative spell use
-    
-
-The goal is to prevent the shop from **exploding with magical backlash**.
-
----
-
-# Scene 4 — Felwin’s Curiosity
-
-Word of the brewing incident reaches **Archivist Elira Felwin**.
-
-Felwin arrives soon after the event.
-
-She questions the party in her precise and analytical manner.
-
-Key traits:
-
-- calm
-    
-- controlled
-    
-- intensely observant
-    
-
-She asks very specific questions:
-
-- When did the reaction begin?
-    
-- Was magic used nearby?
-    
-- What color was the energy?
-    
-- Did the air feel charged?
-    
-
-Felwin is not alarmed yet, but she is intrigued.
-
-She requests permission to examine any residue or materials left behind.
-
-She explains:
-
-> “Arcane disturbances are rarely isolated.  
-> I prefer to observe patterns before they become problems.”
-
-Felwin records the event in her private codex.
-
----
-
-# Scene 5 — Second Incident (Optional Escalation)
-
-Later that evening another disturbance occurs nearby.
-
-Location example:
-
-- market square
-    
-- artisan district
-    
-- warehouse street
-    
-
-Event examples (choose one):
-
-### Animated Tools
-
-A blacksmith’s enchanted tools suddenly activate on their own, attacking the workshop.
-
-### Familiar Frenzy
-
-Several wizard familiars become aggressive and uncontrollable.
-
-### Streetlight Surge
-
-Arcane streetlamps begin emitting bursts of magical energy.
-
-The party can respond as **recognized troubleshooters**.
-
-This reinforces their new role within the city.
-
----
-
-# Closing Beat
-
-Felwin approaches the party again after the second incident.
-
-She is now more thoughtful.
-
-She may say something like:
-
-> “Two irregularities within hours is… statistically unlikely.”
-
-She asks the party to inform her if they encounter anything similar.
-
-The session should end with the sense that:
-
-- The city is experiencing **growing magical instability**
-    
-- No one yet understands the cause
-    
-- Felwin may become an important ally
+- low humming sound
     
 
 ---
 
-# DM Notes
+# Distillation Engine Mechanics
 
-### Anomaly Intensity Level
+The engine has **3 active components**.
 
-1 — Minor magical oddities
+Players must disable **2 of them** to stabilize the system.
 
-The incidents should feel unusual but **not catastrophic**.
+## Component A — Power Conduits
 
-### Verrath
+Arcane pipes transferring energy.
 
-He does not appear this session unless the party seeks him out.
+Options:
 
-### Tone
+|Action|Check|Effect|
+|---|---|---|
+|Disable runes|Arcana DC 14|Conduit shuts down|
+|Physically break|Athletics DC 14|Conduit destroyed but causes surge|
+|Sabotage carefully|Thieves' Tools DC 13|Disable without surge|
 
-The city still feels functional, but attentive players may notice subtle irregularities.
+Failure:
+
+Arcane surge (2d6 force damage to nearby creatures)
 
 ---
 
-# Possible Player Leads for Next Session
+## Component B — Core Crystal
 
-- investigate further magical disturbances
+Central focusing crystal.
+
+Options:
+
+|Action|Check|Effect|
+|---|---|---|
+|Stabilize crystal|Arcana DC 15|Reduces instability|
+|Crack crystal|Attack AC 13, HP 20|Engine destabilizes|
+|Drain energy|Spellcasting check DC 14|Absorb magical charge|
+
+Failure:
+
+Crystal pulse: DC 13 CON save or take 2d8 lightning damage.
+
+---
+
+## Component C — Containment Circle
+
+Runic circle regulating energy flow.
+
+Options:
+
+|Action|Check|Effect|
+|---|---|---|
+|Disrupt runes|Arcana DC 13|Circle collapses|
+|Smear chalk lines|Sleight of Hand DC 12|Disables control|
+|Break circle stones|Strength DC 13|Circle destroyed|
+
+Failure:
+
+Arcane backlash (random magical effect).
+
+---
+
+# Escalation Timer
+
+Every **2 rounds of activity**, roll a d6.
+
+| Roll | Event                                           |
+| ---- | ----------------------------------------------- |
+| 1    | Minor arcane sparks                             |
+| 2    | Objects float briefly                           |
+| 3    | Potion ooze appears (CR small creature)         |
+| 4    | Energy burst (2d6 force damage)                 |
+| 5    | Alchemical [[Vapour Elemental]] appears         |
+| 6    | Major instability → [[Arcane Elemental]] spawns |
+
+---
+
+# Optional Combat
+
+**Arcane Resonance Elemental**
+
+HP: ~60  
+AC: 13
+
+Abilities:
+
+- shifting damage resistance each round
     
-- speak with Felwin at the Arcanum
-    
-- follow rumors of magical accidents
-    
-- monitor tensions between Crownwatch and the academy
+- unstable explosion on death (2d8 force)
     
 
-The arc has begun, but the pattern is not yet clear.****
+---
+
+# Resolution
+
+If two components are disabled:
+
+- engine powers down
+    
+- humming stops
+    
+- magical disturbances fade
+    
+
+Evidence found:
+
+- notes referencing **distillation research**
+    
+- device should not function without large ambient magic supply
+    
+
+---
+
+# Scene 6 — Felwin’s Interest
+
+Archivist **Elira Felwin** investigates the incident.
+
+She asks detailed questions:
+
+- when the reaction began
+    
+- what spells were cast
+    
+- behavior of magical energy
+    
+
+Arcana DC 13 conversation:
+
+Felwin realizes the machine **should not have reactivated**.
+
+She begins documenting the anomaly.
+
+---
+
+# Optional Second Event (If Players Finish Early)
+
+## Runaway Familiar Incident
+
+Location: Arcanum student district.
+
+Several familiars have become uncontrollable.
+
+Creatures present:
+
+- 2 imps
+    
+- pseudodragon
+    
+- invisible familiar causing chaos
+    
+
+Cause:
+
+Familiar binding circles briefly destabilized.
+
+Skill solutions:
+
+|Action|Check|
+|---|---|
+|Rebind familiars|Arcana DC 14|
+|Calm creatures|Animal Handling DC 13|
+|Break binding circle|Investigation DC 12|
+
+Combat possible if familiars attack.
+
+---
+
+# End of Session State
+
+Players should learn:
+
+- magical disturbances are happening across the city
+    
+- the Arcanum may not fully understand why
+    
+- Felwin is beginning to track anomalies
+    
+
+Anomaly Intensity Level: **1 — Minor Magical Instability**
