@@ -1,4 +1,4 @@
-## Overview
+	## Overview
 
 The party begins the session with no active quest, rested at the **Violet Cap** inn in Eastveil Commons. Caer Hollow feels different from when they left for Duskwatch — busier, more tense, the kind of city that is pretending harder than usual that everything is fine. The magical disturbances that have been quietly accumulating are starting to surface at street level.
 
