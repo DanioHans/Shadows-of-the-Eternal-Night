@@ -12,4 +12,9 @@ workshop van druid starting point
 ## Puzzel 
 - Cirkel met symbolen (vuur, aarde, water, lucht, spirit)
 
-## 
+## Pratende boom
+- grote boom, grijpt alle spelers, moeten vrij komen
+- riddle: Zonder deksel, scharnieren of slot, Bevat dit doosje niettemin een gouden schat.
+  verschijnt een doosje gouden eieren
+
+
