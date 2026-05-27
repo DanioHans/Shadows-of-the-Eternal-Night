@@ -78,7 +78,7 @@ A low circular dais, roughly six feet across, sits between the parties and the m
 
 Reno reads the formal charge. His voice is the voice of a man reading a document.
 
-> _"On the evening of yesterday , in the establishment known as the Brass Ladle Inn, the accused — a creature of unknown legal standing identified as a Skaven, held under the name Queek — did assault one Bryndis Kalt, civilian and lawful resident of Caer Hollow, causing injury sufficient to require apothecary attendance. The accused continued the assault after the victim was downed. The accused then resisted lawful restraint by City Guard officers, the resistance being prolonged and complicated by the actions of at least one member of the accused's associated party."_
+> _"On the evening of yesterday, in the establishment known as the Brass Ladle Inn, the accused — a creature of unknown legal standing identified as a Skaven, held under the name Queek — did assault one Bryndis Kalt, civilian and lawful resident of Caer Hollow, causing injury sufficient to require apothecary attendance. The accused continued the assault after the victim was downed. The accused then resisted lawful restraint by City Guard officers, the resistance being prolonged and complicated by the actions of at least one member of the accused's associated party."_
 
 A pause.
 
