@@ -32,3 +32,12 @@ only his reasoning was understandable, as if your kind has been genocided by a r
 
 samson:
 there was tampering with the size of the rat, he was first reduced and i casted the enlarge spell, but during the mess of spells it was difficult to discern reduce from enlarge
+
+to reduce the damage it could do to the general vicinity
+
+it sounded like queek was being choked to death
+
+samson says he is not a warcaster, merios objects and says he used enlarge before and magic during combat, meaning he would have cast magic under pressure.
+
+samson: i have never used concentration spells when in stressful situations.
+
