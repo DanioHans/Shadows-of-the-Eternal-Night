@@ -1,9 +1,9 @@
 # Session 17 – The Deep Below
 
 **Location**: Caer Hollow Sewers — beneath Smokestack Row and beyond  
-**Time of Day**: Afternoon entry, potentially running into evening  
+**Time of Day**: Morning aftermath, afternoon entry into sewers, potentially running into evening  
 **Tone**: Claustrophobic, investigative, increasingly wrong  
-**Primary Challenge**: Dungeon crawl with embedded spotlight moments  
+**Primary Challenge**: Social/dramatic opening, then dungeon crawl with embedded spotlight moments  
 **Anomaly Intensity**: 3 — Active and Physical
 
 ---
@@ -14,9 +14,35 @@ This is the campaign's first proper dungeon crawl in an urban setting. The sewer
 
 What they find is a sewer network that has been quietly modified over months: tunnels reinforced, chambers expanded, arcane infrastructure embedded in the walls. The deeper they go, the more deliberate it looks. At the end of the crawl is a Lattice anchor node — the first one the party will see up close.
 
-The session has four zones of increasing depth and danger, a handful of embedded spotlight moments for Scrap, Kyron, and Ivor, and ends with the party surfacing with physical evidence that connects the construction to the Arcanum.
+The session opens with the morning after Queek's trial and has four zones of increasing depth and danger, embedded spotlight moments for every character, and ends with the party surfacing with physical evidence that connects the construction to the Arcanum.
 
 > **Note on The Rat King's Ransom:** That document covers the upper sewer section and the first node encounter. Use it as the foundation for Zones 1 and 2. This document extends significantly beyond it into Zones 3 and 4, which are new.
+
+---
+
+## Opening Beat — The Morning After
+
+**Before Felwin's note arrives**, give the party 15–20 minutes of unstructured time. The trial is done. Queek is in their custody. The 40gp fine has been paid to the court on Bryndis Kalt's behalf, and the party has formally assumed responsibility for his future conduct. Merios and Samsons are on opposite sides of the question of Queek's culpability — this tension has not resolved and should not be resolved here. Open the session mid-conversation, not at the start of one. The party is back at the Violet Cap or the Bastion common area. Let the players find where their characters are.
+
+**Queek's luck moment:** Reno, or a guard who was present with a moment of professional candour in the corridor after the proceedings, tells Queek quietly:
+
+> *"You should know — this outcome was not certain. The law in this city was not written with your kind in mind. That gap worked in your favour today. It may not again."*
+
+This is not a lecture. It is quiet information. Queek should understand he was lucky, and that the luck had a specific shape: the law didn't know what to do with him. Do not over-explain it. Let Queek carry it.
+
+**Do not resolve the Merios/Samsons tension.** It should be present in the sewer. They find their footing through the work.
+
+---
+
+## Samsons and the Arcanum — Flexible Slot
+
+The court notified the Arcanum about Samsons's spellcasting during the arrest (seed planted in Session 16). A formal note arrives for Samsons bearing the Arcanum seal — short, institutional:
+
+> *"The court of Magistrate-Auditor Cael Reno has submitted a record of conduct involving a registered Arcanum student during a civil restraint proceeding. You are requested to present yourself for review at the earliest available opportunity. Attendance is not optional."*
+
+The reviewing officer's name is left ambiguous — or use Verrath if you want to accelerate that thread.
+
+**Timing:** If the session runs short, deliver this note after Felwin's debrief. If the session runs long, hold for Session 18's opening. Either works. The important thing is that Samsons knows it is coming before the Arcanum arc heats up.
 
 ---
 
@@ -24,7 +50,7 @@ The session has four zones of increasing depth and danger, a handful of embedded
 
 Felwin contacts the party the morning after the trial — a note delivered to the Bastion, written in her precise economical hand:
 
-> _"I have a location. Beneath Smokestack Row, sewer maintenance junction seven. My readings there have been elevated for three weeks and spiked twice in the last four days. I need to know what is physically present at that site. I cannot go myself — I am known at the Arcanum and my movements are observed. You are not. I will pay sixty gold for a detailed account of what you find, and a further forty if you return with something I can hold in my hands."_
+> *"I have a location. Beneath Smokestack Row, sewer maintenance junction seven. My readings there have been elevated for three weeks and spiked twice in the last four days. I need to know what is physically present at that site. I cannot go myself — I am known at the Arcanum and my movements are observed. You are not. I will pay sixty gold for a detailed account of what you find, and a further forty if you return with something I can hold in my hands."*
 
 No meeting. No in-person contact. She does not want to be seen with them yet.
 
@@ -34,7 +60,7 @@ No meeting. No in-person contact. She does not want to be seen with them yet.
 
 Read or paraphrase on entry and adapt as they descend:
 
-> _The maintenance hatch drops them into the upper sewer channel — a low stone passage, ceiling barely eight feet, water running ankle-deep along a central groove. The smell is what it always is. But underneath it, something else: warm air, moving upward from somewhere below. And a hum. Low and constant, felt in the chest more than heard, like standing near a struck bell long after the tone has started to fade._
+> *The maintenance hatch drops them into the upper sewer channel — a low stone passage, ceiling barely eight feet, water running ankle-deep along a central groove. The smell is what it always is. But underneath it, something else: warm air, moving upward from somewhere below. And a hum. Low and constant, felt in the chest more than heard, like standing near a struck bell long after the tone has started to fade.*
 
 **Consistent environmental details as they descend:**
 
@@ -112,7 +138,11 @@ _Physical evidence for Felwin:_
 
 _Samson specifically:_ The rune notation on the walls matches what he saw in the Rat King's Ransom node chamber, if the party did that quest. If not, a DC 14 History check connects it to Arcanum architectural theory — and DC 17 surfaces the memory of Verrath's name attached to theoretical papers on ley amplification.
 
-_Kyron specifically:_ The geometric rune patterns covering the walls have a quality that resonates uncomfortably with Clockwork Soul sorcery — the same underlying logic of imposed order on chaotic systems. He does not need to make a check to notice this. Turn to him directly: _"Kyron. The patterns on these walls — the logic of them. You recognise the principle, even if not the application. It feels like something you know from the inside."_ This is not a plot revelation. It is a disquieting recognition. Leave it unresolved.
+_Kyron specifically:_ The geometric rune patterns covering the walls have a quality that resonates uncomfortably with Clockwork Soul sorcery — the same underlying logic of imposed order on chaotic systems. He does not need to make a check to notice this. But there is more.
+
+> *"Kyron. The patterns on these walls — the logic of them. You recognise the principle, even if not the application. But there's more: one specific sequence near the chamber's far corner. You've seen it before — not in a book. From the inside. That sequence. Where?"*
+
+Do not answer this. Let his player sit with it. The recognition should feel like he has named something he did not know he knew. This is not a plot revelation — it is a disquieting personal recognition. Leave it unresolved. As a mechanical reward for his resonance with the rune logic: his Clockwork Soul connection gives him advantage on one Arcana check in Zone 4.
 
 **Encounter — The Foreman:**
 
@@ -126,6 +156,8 @@ Use a Mage stat block (CR 6) with the following modifications:
 - On death: releases a burst of stored ley energy — 10ft radius, DC 14 Dex save, 3d6 force damage
 
 This fight is the session's main combat encounter. The room's layout matters — the iron channels in the floor are difficult terrain if running across them, and the stacked construction materials provide cover. The Foreman will attempt to keep distance and use Lattice Channel. He does not flee.
+
+> **Void shard opportunity:** The Foreman's Lattice Channel attacks are the first natural occasion where absorbing a spell would be tactically appealing — and also the most dangerous place to experiment. If Samsons holds the shard toward an incoming attack, it absorbs, and he gets the first warning. See [[Void Shard]] for full mechanic and warning progression.
 
 ---
 
@@ -141,6 +173,8 @@ The chamber is roughly circular, fifteen feet across. The anchor sits at the cen
 
 The fungus that was bioluminescent in Zone 2 does not grow here. Nothing grows here.
 
+> **Scrap/Vixen:** Vixen, who has been agitated throughout the descent, goes completely still at the threshold of this room. Not frightened — still, the way animals go still in the presence of something too large to process as a threat. She will not cross into the room. Give Scrap a moment to register this before the party moves in. He notices it before anyone else. Don't explain it. Let him respond to it however he chooses.
+
 **What the party can learn:**
 
 |Check|DC|Result|
@@ -151,7 +185,11 @@ The fungus that was bioluminescent in Zone 2 does not grow here. Nothing grows h
 |Investigation|17|The radial channels in this chamber are more extensive than the others — this is not a peripheral node. This is a primary relay point. The network routes through here.|
 |History|15|The node's crystal composition matches theoretical descriptions of Weave-compression architecture — a branch of arcane engineering that the Arcanum officially classified as dangerous and suspended research on eleven years ago.|
 
+> **Kyron bonus:** His advantage from Zone 3's rune recognition applies to one of these Arcana checks.
+
 **Tampering warning:** The node is heavily warded. Physical contact without the correct attunement triggers a DC 16 Constitution save — failure deals 4d10 force damage and knocks the creature prone. This should be communicated through the environment before anyone tries: the air near the node shimmers, small objects placed near it vibrate and skitter away, Vixen will not approach within ten feet.
+
+> **Void shard opportunity:** The ward's 4d10 force damage, if triggered, is a second occasion where the shard might be used. If Samsons tries to use it to absorb the ward's discharge, it works — and the warnings escalate. See [[Void Shard]].
 
 **Ivor spotlight:** Along the chamber wall, partially obscured behind a Lattice channel bracket, is a small iron lockbox — not part of the construction, left here by someone. DC 14 Perception to notice it; DC 13 thieves' tools to open. Inside: a folded document in cipher, a small vial of something dark and viscous, and a Crownwatch sigil — not the City Guard sigil, the _Crownwatch_ sigil — belonging to someone who was here and left this behind, intentionally or otherwise. The cipher is beyond the party's current ability to break. The Crownwatch sigil means someone in the official city apparatus knows this place exists. Leave this entirely unresolved. It is a thread for much later.
 
@@ -173,17 +211,19 @@ The party exits the way they came. The modified tunnels feel different on the wa
 
 **Felwin's response** — she meets them at a neutral location of her choosing, not the Arcanum. She examines the surveyor's rod and the ledger. She is quiet for longer than is comfortable.
 
-> _"This is Arcanum infrastructure notation. Current issue — not historical. Someone is using institutional resources to build this."_
+> *"This is Arcanum infrastructure notation. Current issue — not historical. Someone is using institutional resources to build this."*
 
 Another pause.
 
-> _"I have suspected the direction of this for some time. I did not have anything I could hold."_
+> *"I have suspected the direction of this for some time. I did not have anything I could hold."*
 
 She closes the ledger.
 
-> _"There is a name that keeps appearing in the margins of things I cannot quite reach. I have been careful about saying it. I am going to be careful for a little longer."_
+> *"There is a name that keeps appearing in the margins of things I cannot quite reach. I have been careful about saying it. I am going to be careful for a little longer."*
 
 She pays them the hundred gold without ceremony. She tells them she will be in touch. She does not tell them what she intends to do with what they have brought her.
+
+**Arcanum note for Samsons:** If not delivered earlier in the session, it arrives here — slipped to him at the neutral meeting location, or waiting at the Violet Cap when they return.
 
 ---
 
@@ -192,22 +232,24 @@ She pays them the hundred gold without ceremony. She tells them she will be in t
 |Character|Moment|Type|
 |---|---|---|
 |Scrap|Vixen and the crocodile — hold still or pull back|Binary choice, animal bond|
-|Scrap|Vixen's increasing agitation as they descend|Ongoing environmental beat|
-|Kyron|Rune pattern recognition in Zone 3|Directed narration, no resolution|
+|Scrap|Vixen's increasing agitation; complete stillness at Zone 4 threshold|Ongoing environmental beat|
+|Kyron|Rune pattern recognition in Zone 3 — resonance from within; advantage in Zone 4|Directed narration, no resolution|
 |Ivor|The lockbox — notice, open, interpret|Skill spotlight, unresolved thread|
-|Samson|Notation recognition — Verrath's name surfaces|History check, information reward|
+|Samsons|Notation recognition; Arcanum note; void shard first use|History check, institutional consequence, dangerous discovery|
+|Queek|Luck moment — law's gap named quietly|Character beat, no combat|
 
 ---
 
 ## Pacing Notes
 
-Zone 1 — 20 minutes. Warm-up, atmosphere, first encounter.  
+Opening aftermath + Felwin's note — 20–30 minutes  
+Zone 1 — 15–20 minutes. Warm-up, atmosphere, first encounter.  
 Zone 2 — 30–40 minutes. Two encounters, environment shifts, undead workers land.  
 Zone 3 — 30–40 minutes. Construction site, main combat, evidence gathering.  
 Zone 4 — 20–30 minutes. The anchor, investigation beats, lockbox, no combat.  
 Exit and Felwin — 15 minutes.
 
-Total estimated session: 2–2.5 hours of active content, comfortable for a full session with roleplay padding.
+Total estimated session: 2.5–3 hours of active content, comfortable for a full session with roleplay padding.
 
 If running short: expand the Foreman fight, give the party more time in Zone 4 with investigation.  
 If running long: compress Zone 1 to narration only, cut the undead workers and describe them as having been there recently (scorch marks, drag trails).
@@ -216,11 +258,14 @@ If running long: compress Zone 1 to narration only, cut the undead workers and d
 
 ## Loose Threads Planted
 
+- The void shard has absorbed its first spells — players begin to sense it is not inert
 - The Crownwatch sigil in the lockbox — someone official knows
 - Felwin withholding Verrath's name — she knows, she's being careful, that gap matters
 - The relay direction pointing to the Cradle Tower — the Arcanum's own building
 - The undead construction workers with Arcanum insignia — institutional knowledge of what is down here
 - Kyron's recognition of the rune logic — unresolved, seeds Session 18
+- Samsons and the Arcanum review — planted or delivered
+- Queek's restriction (no licensed establishments alone) — should come up naturally if the party tries to celebrate after
 
 ---
 
@@ -234,3 +279,4 @@ If running long: compress Zone 1 to narration only, cut the undead workers and d
 - [[Caer Hollow Sewers]]
 - [[Session 16 – The Weight of a Verdict]]
 - [[Session 18 – The Arcanum]] _(to be created)_
+- [[Void Shard]]
