@@ -1,5 +1,6 @@
-Samson - 13
+Samson - 19
 Queek - 7
-Merios - 17
-Kyron - 11
-Ivor - 18
+Merios - 9
+Kyron - 
+Ivor - 9
+Scrap - 10
