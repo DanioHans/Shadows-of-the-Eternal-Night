@@ -1,4 +1,6 @@
-19 croc - 22
-17 ivor
-17 merios
-8 samson
+20 mage - 19
+20 samson
+14 Ivor
+12 Scrap
+10 Merios
+9 Kyron
