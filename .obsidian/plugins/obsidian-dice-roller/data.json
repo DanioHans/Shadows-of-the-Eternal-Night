@@ -139,6 +139,20 @@
       "resultText": "1d6\n[3]",
       "timestamp": 1785346102156,
       "id": "kvInUyOQdwxz"
+    },
+    {
+      "result": "5",
+      "original": "1d6",
+      "resultText": "1d6\n[5]",
+      "timestamp": 1785346783853,
+      "id": "fItBkA-zEo98"
+    },
+    {
+      "result": "4",
+      "original": "2d6",
+      "resultText": "2d6\n[1, 3]",
+      "timestamp": 1785347502708,
+      "id": "8xdzM8y0ptOE"
     }
   ]
 }
