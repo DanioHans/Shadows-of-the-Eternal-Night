@@ -97,6 +97,48 @@
       "resultText": "1d20\n[19]",
       "timestamp": 1781113803355,
       "id": "EK4oUKCfOjQj"
+    },
+    {
+      "result": "19",
+      "original": "1d20",
+      "resultText": "1d20\n[19]",
+      "timestamp": 1785344628814,
+      "id": "qbOZeCFc3gHQ"
+    },
+    {
+      "result": "6",
+      "original": "1d6",
+      "resultText": "1d6\n[6]",
+      "timestamp": 1785344726833,
+      "id": "ccsKqjiceh2k"
+    },
+    {
+      "result": "20",
+      "original": "1d20",
+      "resultText": "1d20\n[20]",
+      "timestamp": 1785344894158,
+      "id": "tpJiKZMFip-5"
+    },
+    {
+      "result": "13",
+      "original": "2d10",
+      "resultText": "2d10\n[9, 4]",
+      "timestamp": 1785344911580,
+      "id": "RJw4_VwjFBxM"
+    },
+    {
+      "result": "4",
+      "original": "1d6",
+      "resultText": "1d6\n[4]",
+      "timestamp": 1785345974022,
+      "id": "K195dXX65Thb"
+    },
+    {
+      "result": "3",
+      "original": "1d6",
+      "resultText": "1d6\n[3]",
+      "timestamp": 1785346102156,
+      "id": "kvInUyOQdwxz"
     }
   ]
 }
