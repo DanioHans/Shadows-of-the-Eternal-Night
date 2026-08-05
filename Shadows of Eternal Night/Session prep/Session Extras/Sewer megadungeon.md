@@ -333,13 +333,13 @@ The anchor sits at the centre — the same dark purple-black crystal as any node
 
 **The Node:**
 
-|Check|DC|Result|
-|---|---|---|
-|Arcana|12|The node draws ambient ley energy upward and inward simultaneously — siphon and relay both. It takes from the earth and passes it somewhere else.|
-|Arcana|16|The relay direction is consistent with all nodes encountered — they all feed the same destination. The geometry points toward the Scholar's Descent district. Cradle Tower.|
-|Investigation|13|This construction is older than Zone 3. The node has been active for at least four months.|
-|Investigation|17|The radial channels here are more extensive than any other node. This is not peripheral. The network routes through here.|
-|History|15|The crystal composition matches theoretical descriptions of Weave-compression architecture — a branch of arcane engineering the Arcanum officially classified as dangerous and suspended research on eleven years ago.|
+| Check         | DC  | Result                                                                                                                                                                                                                 |
+| ------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arcana        | 12  | The node draws ambient ley energy upward and inward simultaneously — siphon and relay both. It takes from the earth and passes it somewhere else.                                                                      |
+| Arcana        | 16  | The relay direction is consistent with all nodes encountered — they all feed the same destination. The geometry points toward the Scholar's Descent district. Cradle Tower.                                            |
+| Investigation | 13  | This construction is older than Zone 3. The node has been active for at least four months.                                                                                                                             |
+| Investigation | 17  | The radial channels here are more extensive than any other node. This is not peripheral. The network routes through here.                                                                                              |
+| History       | 15  | The crystal composition matches theoretical descriptions of Weave-compression architecture — a branch of arcane engineering the Arcanum officially classified as dangerous and suspended research on eleven years ago. |
 
 > **Kyron:** Advantage on one Arcana check here (from Zone 3 rune recognition). He gets it once — player's choice when to spend it.
 
